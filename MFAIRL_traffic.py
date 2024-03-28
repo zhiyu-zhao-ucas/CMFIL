@@ -3,7 +3,7 @@ import torch
 from environment.extend_traffic import ExtendTraffic
 from tqdm import tqdm
 import os
-from MFIRL import MFIRL
+from MFAIRL import MFAIRL
 from rl_algo import SAC
 from common import util
 import pandas as pd
@@ -22,7 +22,7 @@ def get_trajectories(city_index, size=100):
     env = ExtendTraffic(1, city_index)
     state = np.zeros((size, env.horizon, env.observation_space.n))
     actions = np.zeros((size, env.horizon, env.action_space.n))
-    obs = env.reset()
+    obs = env._reset()
     state[0][0] = obs
     Gt = 0
     done = False
@@ -38,7 +38,7 @@ def get_trajectories(city_index, size=100):
             action = {'action': action}
             action.update({"signal": 0})
             action.update({"prob": dist})
-            next_obs, reward, done, info = env.step(action)
+            next_obs, reward, done, info = env._step(action)
             if t+1 < env.horizon:
                 state[j][t+1] = next_obs
             signal = 0
@@ -46,11 +46,39 @@ def get_trajectories(city_index, size=100):
             obs = next_obs
             Gt += reward
             t += 1
-        obs = env.reset()
+        obs = env._reset()
         t = 0
         state[j][0] = obs
         done = False
     return state, actions
+
+
+def get_trajectories_from_agent(RL_agent, city_index, num_trajectories=3):
+    env = ExtendTraffic(1, city_index)
+    # Initialize arrays to store trajectories
+    num_actions = env.action_space.n
+    num_states = env.observation_space.n + 2
+    states = np.zeros((num_trajectories, env.horizon, num_states))
+    actions = np.zeros((num_trajectories, env.horizon, num_actions))
+    policies = np.zeros((num_trajectories, env.horizon, num_actions))
+
+    for traj_idx in tqdm(range(num_trajectories)):
+        obs = env._reset()
+        obs = np.concatenate([obs, [city_index], [env.count]])
+        done = False
+        Gt = 0
+        iter_count = 0
+        while not done:
+            action = RL_agent.choose_action(obs, train=False)
+            next_obs, reward, done, info = env._step(action)
+            next_obs = np.concatenate((next_obs, [city_index], [env.count]))
+            states[traj_idx][iter_count] = obs
+            actions[traj_idx][iter_count] = action['action']
+            policies[traj_idx][iter_count] = action['prob']
+            obs = next_obs
+            Gt += reward
+            iter_count += 1
+    return states, actions, policies
 
 def relabel(x, loc_list=loc_list):
     for i in loc_list:
@@ -66,7 +94,7 @@ def read_data(df, ori_loc, loc_list):
 
 
 def save(save_path, policy, name):
-    base_path = os.path.join(save_path, 'MFIRL')
+    base_path = os.path.join(save_path, 'MFAIRL')
     if not os.path.exists(base_path):
         os.makedirs(base_path)
 
@@ -85,11 +113,8 @@ if __name__ == "__main__":
     use_wandb = True
     dir = "config/extend_traffic.yaml"
     config_dict = util.load_config(dir)
-    units = 64
-    learning_rate = 0.0001
-    max_epoch = 1070
-    size = 100
-    run_dir, log_dir = util.make_logpath('extend_traffic', 'MFIRL')
+    size = 3
+    run_dir, log_dir = util.make_logpath('extend_traffic', 'MFAIRL')
     datalength = 10000
     for i in range(3):
         mf0 = np.zeros(datalength)
@@ -102,7 +127,7 @@ if __name__ == "__main__":
         mf = np.sum(states, axis=0)
         den = np.sum(mf, axis=1)
         mf /= size
-        agent = MFIRL(6, 6, 1, max_epoch=300, mf_dim=6)
+        agent = MFAIRL(6, 6, 1, max_epoch=300, mf_dim=6)
         agent.learn(states, mf, actions)
         reward_recover = agent.reward_model.eval()
         
@@ -110,19 +135,20 @@ if __name__ == "__main__":
         config_dict = util.load_config(dir)
         paras = util.get_paras_from_dict(config_dict)
         RL_agent = SAC(paras)
+        states, actions, policies = get_trajectories_from_agent(RL_agent, city_index=loc_list.index(args.city), num_trajectories=1000)
         env = ExtendTraffic(1, loc_list.index(args.city))
-        obs = env.reset()
-        obs = np.concatenate([obs, [0], [env.count]])
+        obs = env._reset()
+        obs = np.concatenate([obs, [loc_list.index(args.city)], [env.count]])
         Gt = 0
         done = False
         policy = []
-        signal = 0
+        signal = loc_list.index(args.city)
         for _ in tqdm(range(datalength)):
             iter = 0
             while not done:
                 iter += 1
                 action = RL_agent.choose_action(obs)
-                next_obs, reward, done, info = env.step(action)
+                next_obs, reward, done, info = env._step(action)
                 reward = reward_recover(torch.tensor(obs[:6], dtype=torch.float), torch.tensor([util.wrapper(action['action'], env.action_space.n)], dtype=torch.float), torch.tensor(env.mean_field, dtype=torch.float)).detach().numpy()
                 mf0[_] = action['prob'][0]
                 mf1[_] = action['prob'][1]
@@ -135,8 +161,8 @@ if __name__ == "__main__":
                     {"states": obs, "states_next": next_obs, "rewards": reward, "dones": np.float32(done)})
                 obs = next_obs
                 Gt += reward
-            obs = env.reset()
-            obs = np.concatenate([obs, [0], [env.count]])
+            obs = env._reset()
+            obs = np.concatenate([obs, [loc_list.index(args.city)], [env.count]])
             done = False
             Gt = 0
             RL_agent.learn()

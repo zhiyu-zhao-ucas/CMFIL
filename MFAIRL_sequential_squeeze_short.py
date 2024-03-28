@@ -94,7 +94,7 @@ if __name__ == "__main__":
             iter = 0
             while not done:
                 iter += 1
-                action = RL_agent.choose_action(obs)
+                action = RL_agent.choose_action(obs, train=False)
                 action.update({"signal": signal})
                 next_obs, reward, done, info = env._step(action)
                 reward = reward_recover(torch.tensor(obs, dtype=torch.float), torch.tensor([util.wrapper(action['action'], env.action_space.n)], dtype=torch.float), torch.tensor(env.mean_field, dtype=torch.float)).detach().numpy()
