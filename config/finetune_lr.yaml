@@ -1,0 +1,26 @@
+program: main_RPS.py
+method: bayes
+metric:
+  goal: minimize
+  name: "loss"
+parameters:
+  alpha_lr:
+    max: 0.0002
+    min: 0.00005
+    distribution: uniform
+  rho_lr:
+    max: 0.002
+    min: 0.0005
+    distribution: uniform
+  dis_lr:
+    max: 0.002
+    min: 0.0005
+    distribution: uniform
+  c_lr:
+    max: 0.0002
+    min: 0.00005
+    distribution: uniform
+  a_lr:
+    max: 0.0002
+    min: 0.00005
+    distribution: uniform

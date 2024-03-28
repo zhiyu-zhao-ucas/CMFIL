@@ -1,0 +1,407 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"160","London Borough of Hammersmith and Fulham, London","2","Newham, 00BB (2)","3/1/2020 - 3/31/2020, Every day, Daily Average",3396,2541,4537
+"160","London Borough of Hammersmith and Fulham, London","6","Lambeth, 00AY (6)","3/1/2020 - 3/31/2020, Every day, Daily Average",2228,1683,2948
+"160","London Borough of Hammersmith and Fulham, London","8","Richmond upon Thames, 00BD (8)","3/1/2020 - 3/31/2020, Every day, Daily Average",1947,1562,2425
+"160","London Borough of Hammersmith and Fulham, London","17","Wandsworth, 00BJ (17)","3/1/2020 - 3/31/2020, Every day, Daily Average",1938,1385,2709
+"160","London Borough of Hammersmith and Fulham, London","18","Westminster, 00BK (18)","3/1/2020 - 3/31/2020, Every day, Daily Average",857,612,1199
+"160","London Borough of Hammersmith and Fulham, London","19","Westminster, 00BK (19)","3/1/2020 - 3/31/2020, Every day, Daily Average",973,698,1355
+"160","London Borough of Hammersmith and Fulham, London","20","Westminster, 00BK (20)","3/1/2020 - 3/31/2020, Every day, Daily Average",1032,753,1413
+"160","London Borough of Hammersmith and Fulham, London","21","City of London, 00AA (21)","3/1/2020 - 3/31/2020, Every day, Daily Average",2331,1672,3248
+"160","London Borough of Hammersmith and Fulham, London","43","Barnet, 00AC (43)","3/1/2020 - 3/31/2020, Every day, Daily Average",2240,1681,2984
+"160","London Borough of Hammersmith and Fulham, London","49","Barnet, 00AC (49)","3/1/2020 - 3/31/2020, Every day, Daily Average",1975,1577,2473
+"160","London Borough of Hammersmith and Fulham, London","50","Barnet, 00AC (50)","3/1/2020 - 3/31/2020, Every day, Daily Average",1975,1606,2428
+"160","London Borough of Hammersmith and Fulham, London","51","Barnet, 00AC (51)","3/1/2020 - 3/31/2020, Every day, Daily Average",2171,1633,2885
+"160","London Borough of Hammersmith and Fulham, London","52","Barnet, 00AC (52)","3/1/2020 - 3/31/2020, Every day, Daily Average",1943,1500,2516
+"160","London Borough of Hammersmith and Fulham, London","58","Barnet, 00AC (58)","3/1/2020 - 3/31/2020, Every day, Daily Average",2065,1575,2706
+"160","London Borough of Hammersmith and Fulham, London","61","Barnet, 00AC (61)","3/1/2020 - 3/31/2020, Every day, Daily Average",2018,1493,2726
+"160","London Borough of Hammersmith and Fulham, London","64","Brent, 00AE (64)","3/1/2020 - 3/31/2020, Every day, Daily Average",847,629,1138
+"160","London Borough of Hammersmith and Fulham, London","65","Brent, 00AE (65)","3/1/2020 - 3/31/2020, Every day, Daily Average",1025,776,1353
+"160","London Borough of Hammersmith and Fulham, London","83","Camden, 00AG (83)","3/1/2020 - 3/31/2020, Every day, Daily Average",1301,1046,1618
+"160","London Borough of Hammersmith and Fulham, London","84","Camden, 00AG (84)","3/1/2020 - 3/31/2020, Every day, Daily Average",1325,1060,1655
+"160","London Borough of Hammersmith and Fulham, London","85","Camden, 00AG (85)","3/1/2020 - 3/31/2020, Every day, Daily Average",1404,1084,1817
+"160","London Borough of Hammersmith and Fulham, London","86","Camden, 00AG (86)","3/1/2020 - 3/31/2020, Every day, Daily Average",1529,1162,2011
+"160","London Borough of Hammersmith and Fulham, London","96","Greenwich, 00AL (96)","3/1/2020 - 3/31/2020, Every day, Daily Average",2840,2116,3810
+"160","London Borough of Hammersmith and Fulham, London","106","Camden, 00AG (106)","3/1/2020 - 3/31/2020, Every day, Daily Average",1613,1081,2406
+"160","London Borough of Hammersmith and Fulham, London","131","Enfield, 00AK (131)","3/1/2020 - 3/31/2020, Every day, Daily Average",2580,2033,3273
+"160","London Borough of Hammersmith and Fulham, London","132","Enfield, 00AK (132)","3/1/2020 - 3/31/2020, Every day, Daily Average",2230,1761,2822
+"160","London Borough of Hammersmith and Fulham, London","134","Enfield, 00AK (134)","3/1/2020 - 3/31/2020, Every day, Daily Average",2619,2104,3258
+"160","London Borough of Hammersmith and Fulham, London","135","Enfield, 00AK (135)","3/1/2020 - 3/31/2020, Every day, Daily Average",2503,1968,3182
+"160","London Borough of Hammersmith and Fulham, London","136","Enfield, 00AK (136)","3/1/2020 - 3/31/2020, Every day, Daily Average",2108,1665,2668
+"160","London Borough of Hammersmith and Fulham, London","137","Enfield, 00AK (137)","3/1/2020 - 3/31/2020, Every day, Daily Average",2612,2076,3285
+"160","London Borough of Hammersmith and Fulham, London","138","Enfield, 00AK (138)","3/1/2020 - 3/31/2020, Every day, Daily Average",2558,2015,3245
+"160","London Borough of Hammersmith and Fulham, London","139","Enfield, 00AK (139)","3/1/2020 - 3/31/2020, Every day, Daily Average",2431,1907,3097
+"160","London Borough of Hammersmith and Fulham, London","140","Enfield, 00AK (140)","3/1/2020 - 3/31/2020, Every day, Daily Average",2300,1810,2921
+"160","London Borough of Hammersmith and Fulham, London","147","Hackney, 00AM (147)","3/1/2020 - 3/31/2020, Every day, Daily Average",2465,1876,3238
+"160","London Borough of Hammersmith and Fulham, London","152","Hackney, 00AM (152)","3/1/2020 - 3/31/2020, Every day, Daily Average",2499,1933,3229
+"160","London Borough of Hammersmith and Fulham, London","154","Hackney, 00AM (154)","3/1/2020 - 3/31/2020, Every day, Daily Average",2494,1959,3174
+"160","London Borough of Hammersmith and Fulham, London","155","Hackney, 00AM (155)","3/1/2020 - 3/31/2020, Every day, Daily Average",2279,1633,3178
+"160","London Borough of Hammersmith and Fulham, London","156","Hackney, 00AM (156)","3/1/2020 - 3/31/2020, Every day, Daily Average",2707,2046,3579
+"160","London Borough of Hammersmith and Fulham, London","157","Hackney, 00AM (157)","3/1/2020 - 3/31/2020, Every day, Daily Average",2313,1624,3293
+"160","London Borough of Hammersmith and Fulham, London","158","Hammersmith and Fulham, 00AN (158)","3/1/2020 - 3/31/2020, Every day, Daily Average",458,287,730
+"160","London Borough of Hammersmith and Fulham, London","159","Hammersmith and Fulham, 00AN (159)","3/1/2020 - 3/31/2020, Every day, Daily Average",151,76,296
+"160","London Borough of Hammersmith and Fulham, London","160","Hammersmith and Fulham, 00AN (160)","3/1/2020 - 3/31/2020, Every day, Daily Average",103,32,329
+"160","London Borough of Hammersmith and Fulham, London","161","Hammersmith and Fulham, 00AN (161)","3/1/2020 - 3/31/2020, Every day, Daily Average",1042,742,1462
+"160","London Borough of Hammersmith and Fulham, London","185","Haringey, 00AP (185)","3/1/2020 - 3/31/2020, Every day, Daily Average",2501,1894,3301
+"160","London Borough of Hammersmith and Fulham, London","201","Islington, 00AU (201)","3/1/2020 - 3/31/2020, Every day, Daily Average",2078,1547,2790
+"160","London Borough of Hammersmith and Fulham, London","202","Islington, 00AU (202)","3/1/2020 - 3/31/2020, Every day, Daily Average",2048,1495,2803
+"160","London Borough of Hammersmith and Fulham, London","203","Islington, 00AU (203)","3/1/2020 - 3/31/2020, Every day, Daily Average",2089,1543,2827
+"160","London Borough of Hammersmith and Fulham, London","204","Islington, 00AU (204)","3/1/2020 - 3/31/2020, Every day, Daily Average",1716,1224,2405
+"160","London Borough of Hammersmith and Fulham, London","205","Kensington and Chelsea, 00AW (205)","3/1/2020 - 3/31/2020, Every day, Daily Average",510,337,770
+"160","London Borough of Hammersmith and Fulham, London","206","Kensington and Chelsea, 00AW (206)","3/1/2020 - 3/31/2020, Every day, Daily Average",573,401,816
+"160","London Borough of Hammersmith and Fulham, London","207","Kensington and Chelsea, 00AW (207)","3/1/2020 - 3/31/2020, Every day, Daily Average",447,278,717
+"160","London Borough of Hammersmith and Fulham, London","208","Kensington and Chelsea, 00AW (208)","3/1/2020 - 3/31/2020, Every day, Daily Average",390,233,652
+"160","London Borough of Hammersmith and Fulham, London","209","Kensington and Chelsea, 00AW (209)","3/1/2020 - 3/31/2020, Every day, Daily Average",808,570,1144
+"160","London Borough of Hammersmith and Fulham, London","210","Kensington and Chelsea, 00AW (210)","3/1/2020 - 3/31/2020, Every day, Daily Average",1018,734,1410
+"160","London Borough of Hammersmith and Fulham, London","211","Kensington and Chelsea, 00AW (211)","3/1/2020 - 3/31/2020, Every day, Daily Average",677,478,958
+"160","London Borough of Hammersmith and Fulham, London","212","Kensington and Chelsea, 00AW (212)","3/1/2020 - 3/31/2020, Every day, Daily Average",891,637,1245
+"160","London Borough of Hammersmith and Fulham, London","213","Kensington and Chelsea, 00AW (213)","3/1/2020 - 3/31/2020, Every day, Daily Average",832,595,1161
+"160","London Borough of Hammersmith and Fulham, London","214","Kensington and Chelsea, 00AW (214)","3/1/2020 - 3/31/2020, Every day, Daily Average",1030,741,1430
+"160","London Borough of Hammersmith and Fulham, London","215","Kensington and Chelsea, 00AW (215)","3/1/2020 - 3/31/2020, Every day, Daily Average",829,593,1158
+"160","London Borough of Hammersmith and Fulham, London","216","Kingston upon Thames, 00AX (216)","3/1/2020 - 3/31/2020, Every day, Daily Average",1694,1249,2296
+"160","London Borough of Hammersmith and Fulham, London","218","Kingston upon Thames, 00AX (218)","3/1/2020 - 3/31/2020, Every day, Daily Average",1828,1453,2299
+"160","London Borough of Hammersmith and Fulham, London","221","Kingston upon Thames, 00AX (221)","3/1/2020 - 3/31/2020, Every day, Daily Average",1681,1248,2262
+"160","London Borough of Hammersmith and Fulham, London","223","Kingston upon Thames, 00AX (223)","3/1/2020 - 3/31/2020, Every day, Daily Average",1670,1272,2192
+"160","London Borough of Hammersmith and Fulham, London","224","Kingston upon Thames, 00AX (224)","3/1/2020 - 3/31/2020, Every day, Daily Average",1625,1198,2203
+"160","London Borough of Hammersmith and Fulham, London","225","Kingston upon Thames, 00AX (225)","3/1/2020 - 3/31/2020, Every day, Daily Average",1759,1374,2250
+"160","London Borough of Hammersmith and Fulham, London","226","Kingston upon Thames, 00AX (226)","3/1/2020 - 3/31/2020, Every day, Daily Average",1738,1330,2270
+"160","London Borough of Hammersmith and Fulham, London","227","Kingston upon Thames, 00AX (227)","3/1/2020 - 3/31/2020, Every day, Daily Average",1801,1386,2338
+"160","London Borough of Hammersmith and Fulham, London","229","Kingston upon Thames, 00AX (229)","3/1/2020 - 3/31/2020, Every day, Daily Average",1919,1557,2364
+"160","London Borough of Hammersmith and Fulham, London","230","Lambeth, 00AY (230)","3/1/2020 - 3/31/2020, Every day, Daily Average",2007,1487,2707
+"160","London Borough of Hammersmith and Fulham, London","231","Lambeth, 00AY (231)","3/1/2020 - 3/31/2020, Every day, Daily Average",1710,1271,2300
+"160","London Borough of Hammersmith and Fulham, London","232","Lambeth, 00AY (232)","3/1/2020 - 3/31/2020, Every day, Daily Average",1863,1386,2503
+"160","London Borough of Hammersmith and Fulham, London","233","Lambeth, 00AY (233)","3/1/2020 - 3/31/2020, Every day, Daily Average",1748,1365,2238
+"160","London Borough of Hammersmith and Fulham, London","234","Lambeth, 00AY (234)","3/1/2020 - 3/31/2020, Every day, Daily Average",1660,1270,2168
+"160","London Borough of Hammersmith and Fulham, London","235","Lambeth, 00AY (235)","3/1/2020 - 3/31/2020, Every day, Daily Average",2715,2160,3412
+"160","London Borough of Hammersmith and Fulham, London","236","Lambeth, 00AY (236)","3/1/2020 - 3/31/2020, Every day, Daily Average",1934,1518,2462
+"160","London Borough of Hammersmith and Fulham, London","237","Lambeth, 00AY (237)","3/1/2020 - 3/31/2020, Every day, Daily Average",2073,1572,2732
+"160","London Borough of Hammersmith and Fulham, London","238","Lambeth, 00AY (238)","3/1/2020 - 3/31/2020, Every day, Daily Average",1790,1380,2321
+"160","London Borough of Hammersmith and Fulham, London","239","Lambeth, 00AY (239)","3/1/2020 - 3/31/2020, Every day, Daily Average",2524,1972,3230
+"160","London Borough of Hammersmith and Fulham, London","240","Lambeth, 00AY (240)","3/1/2020 - 3/31/2020, Every day, Daily Average",1707,1270,2292
+"160","London Borough of Hammersmith and Fulham, London","241","Lambeth, 00AY (241)","3/1/2020 - 3/31/2020, Every day, Daily Average",1929,1525,2438
+"160","London Borough of Hammersmith and Fulham, London","242","Lambeth, 00AY (242)","3/1/2020 - 3/31/2020, Every day, Daily Average",1906,1454,2497
+"160","London Borough of Hammersmith and Fulham, London","243","Lambeth, 00AY (243)","3/1/2020 - 3/31/2020, Every day, Daily Average",1810,1381,2371
+"160","London Borough of Hammersmith and Fulham, London","244","Lambeth, 00AY (244)","3/1/2020 - 3/31/2020, Every day, Daily Average",1718,1290,2286
+"160","London Borough of Hammersmith and Fulham, London","245","Lambeth, 00AY (245)","3/1/2020 - 3/31/2020, Every day, Daily Average",2051,1572,2675
+"160","London Borough of Hammersmith and Fulham, London","246","Lambeth, 00AY (246)","3/1/2020 - 3/31/2020, Every day, Daily Average",2164,1682,2783
+"160","London Borough of Hammersmith and Fulham, London","247","Lambeth, 00AY (247)","3/1/2020 - 3/31/2020, Every day, Daily Average",1970,1511,2568
+"160","London Borough of Hammersmith and Fulham, London","248","Lambeth, 00AY (248)","3/1/2020 - 3/31/2020, Every day, Daily Average",2159,1659,2808
+"160","London Borough of Hammersmith and Fulham, London","249","Lambeth, 00AY (249)","3/1/2020 - 3/31/2020, Every day, Daily Average",2182,1707,2787
+"160","London Borough of Hammersmith and Fulham, London","250","Lambeth, 00AY (250)","3/1/2020 - 3/31/2020, Every day, Daily Average",1863,1453,2387
+"160","London Borough of Hammersmith and Fulham, London","253","Lambeth, 00AY (253)","3/1/2020 - 3/31/2020, Every day, Daily Average",1971,1508,2574
+"160","London Borough of Hammersmith and Fulham, London","255","Lambeth, 00AY (255)","3/1/2020 - 3/31/2020, Every day, Daily Average",2174,1657,2851
+"160","London Borough of Hammersmith and Fulham, London","261","Lewisham, 00AZ (261)","3/1/2020 - 3/31/2020, Every day, Daily Average",2582,2028,3286
+"160","London Borough of Hammersmith and Fulham, London","285","Southwark, 00BE (285)","3/1/2020 - 3/31/2020, Every day, Daily Average",2237,1657,3019
+"160","London Borough of Hammersmith and Fulham, London","287","Southwark, 00BE (287)","3/1/2020 - 3/31/2020, Every day, Daily Average",2252,1729,2931
+"160","London Borough of Hammersmith and Fulham, London","288","Southwark, 00BE (288)","3/1/2020 - 3/31/2020, Every day, Daily Average",1879,1416,2492
+"160","London Borough of Hammersmith and Fulham, London","289","Southwark, 00BE (289)","3/1/2020 - 3/31/2020, Every day, Daily Average",2742,2145,3504
+"160","London Borough of Hammersmith and Fulham, London","290","Southwark, 00BE (290)","3/1/2020 - 3/31/2020, Every day, Daily Average",2386,1854,3070
+"160","London Borough of Hammersmith and Fulham, London","291","Southwark, 00BE (291)","3/1/2020 - 3/31/2020, Every day, Daily Average",2441,1916,3109
+"160","London Borough of Hammersmith and Fulham, London","292","Southwark, 00BE (292)","3/1/2020 - 3/31/2020, Every day, Daily Average",2411,1857,3129
+"160","London Borough of Hammersmith and Fulham, London","318","Tower Hamlets, 00BG (318)","3/1/2020 - 3/31/2020, Every day, Daily Average",2271,1794,2874
+"160","London Borough of Hammersmith and Fulham, London","319","Tower Hamlets, 00BG (319)","3/1/2020 - 3/31/2020, Every day, Daily Average",2596,1996,3375
+"160","London Borough of Hammersmith and Fulham, London","321","Tower Hamlets, 00BG (321)","3/1/2020 - 3/31/2020, Every day, Daily Average",2634,1976,3510
+"160","London Borough of Hammersmith and Fulham, London","322","Tower Hamlets, 00BG (322)","3/1/2020 - 3/31/2020, Every day, Daily Average",2302,1775,2984
+"160","London Borough of Hammersmith and Fulham, London","323","Tower Hamlets, 00BG (323)","3/1/2020 - 3/31/2020, Every day, Daily Average",3185,2435,4165
+"160","London Borough of Hammersmith and Fulham, London","330","Wandsworth, 00BJ (330)","3/1/2020 - 3/31/2020, Every day, Daily Average",1295,911,1839
+"160","London Borough of Hammersmith and Fulham, London","331","Wandsworth, 00BJ (331)","3/1/2020 - 3/31/2020, Every day, Daily Average",1677,1222,2299
+"160","London Borough of Hammersmith and Fulham, London","332","Wandsworth, 00BJ (332)","3/1/2020 - 3/31/2020, Every day, Daily Average",1311,931,1845
+"160","London Borough of Hammersmith and Fulham, London","333","Wandsworth, 00BJ (333)","3/1/2020 - 3/31/2020, Every day, Daily Average",1275,898,1810
+"160","London Borough of Hammersmith and Fulham, London","334","Wandsworth, 00BJ (334)","3/1/2020 - 3/31/2020, Every day, Daily Average",1633,1213,2197
+"160","London Borough of Hammersmith and Fulham, London","335","Wandsworth, 00BJ (335)","3/1/2020 - 3/31/2020, Every day, Daily Average",1396,1042,1869
+"160","London Borough of Hammersmith and Fulham, London","336","Wandsworth, 00BJ (336)","3/1/2020 - 3/31/2020, Every day, Daily Average",1503,1128,2001
+"160","London Borough of Hammersmith and Fulham, London","337","Wandsworth, 00BJ (337)","3/1/2020 - 3/31/2020, Every day, Daily Average",888,586,1344
+"160","London Borough of Hammersmith and Fulham, London","338","Wandsworth, 00BJ (338)","3/1/2020 - 3/31/2020, Every day, Daily Average",954,637,1427
+"160","London Borough of Hammersmith and Fulham, London","339","Wandsworth, 00BJ (339)","3/1/2020 - 3/31/2020, Every day, Daily Average",1235,868,1756
+"160","London Borough of Hammersmith and Fulham, London","340","Wandsworth, 00BJ (340)","3/1/2020 - 3/31/2020, Every day, Daily Average",1023,691,1513
+"160","London Borough of Hammersmith and Fulham, London","341","Wandsworth, 00BJ (341)","3/1/2020 - 3/31/2020, Every day, Daily Average",1385,1009,1900
+"160","London Borough of Hammersmith and Fulham, London","342","Wandsworth, 00BJ (342)","3/1/2020 - 3/31/2020, Every day, Daily Average",1125,761,1662
+"160","London Borough of Hammersmith and Fulham, London","343","Wandsworth, 00BJ (343)","3/1/2020 - 3/31/2020, Every day, Daily Average",1646,1205,2246
+"160","London Borough of Hammersmith and Fulham, London","344","Wandsworth, 00BJ (344)","3/1/2020 - 3/31/2020, Every day, Daily Average",1149,840,1570
+"160","London Borough of Hammersmith and Fulham, London","345","Wandsworth, 00BJ (345)","3/1/2020 - 3/31/2020, Every day, Daily Average",1254,919,1710
+"160","London Borough of Hammersmith and Fulham, London","346","Wandsworth, 00BJ (346)","3/1/2020 - 3/31/2020, Every day, Daily Average",1195,808,1765
+"160","London Borough of Hammersmith and Fulham, London","347","Wandsworth, 00BJ (347)","3/1/2020 - 3/31/2020, Every day, Daily Average",1683,1233,2296
+"160","London Borough of Hammersmith and Fulham, London","348","Wandsworth, 00BJ (348)","3/1/2020 - 3/31/2020, Every day, Daily Average",1619,1177,2225
+"160","London Borough of Hammersmith and Fulham, London","349","Wandsworth, 00BJ (349)","3/1/2020 - 3/31/2020, Every day, Daily Average",1161,822,1639
+"160","London Borough of Hammersmith and Fulham, London","350","Wandsworth, 00BJ (350)","3/1/2020 - 3/31/2020, Every day, Daily Average",1615,1190,2191
+"160","London Borough of Hammersmith and Fulham, London","351","Wandsworth, 00BJ (351)","3/1/2020 - 3/31/2020, Every day, Daily Average",1740,1242,2436
+"160","London Borough of Hammersmith and Fulham, London","352","Wandsworth, 00BJ (352)","3/1/2020 - 3/31/2020, Every day, Daily Average",1667,1189,2336
+"160","London Borough of Hammersmith and Fulham, London","353","Wandsworth, 00BJ (353)","3/1/2020 - 3/31/2020, Every day, Daily Average",1652,1211,2251
+"160","London Borough of Hammersmith and Fulham, London","354","Wandsworth, 00BJ (354)","3/1/2020 - 3/31/2020, Every day, Daily Average",1871,1305,2680
+"160","London Borough of Hammersmith and Fulham, London","356","Westminster, 00BK (356)","3/1/2020 - 3/31/2020, Every day, Daily Average",1046,757,1443
+"160","London Borough of Hammersmith and Fulham, London","357","Westminster, 00BK (357)","3/1/2020 - 3/31/2020, Every day, Daily Average",653,475,897
+"160","London Borough of Hammersmith and Fulham, London","358","Westminster, 00BK (358)","3/1/2020 - 3/31/2020, Every day, Daily Average",1182,859,1625
+"160","London Borough of Hammersmith and Fulham, London","359","Westminster, 00BK (359)","3/1/2020 - 3/31/2020, Every day, Daily Average",1295,922,1818
+"160","London Borough of Hammersmith and Fulham, London","360","Westminster, 00BK (360)","3/1/2020 - 3/31/2020, Every day, Daily Average",650,472,894
+"160","London Borough of Hammersmith and Fulham, London","361","Westminster, 00BK (361)","3/1/2020 - 3/31/2020, Every day, Daily Average",754,538,1055
+"160","London Borough of Hammersmith and Fulham, London","362","Westminster, 00BK (362)","3/1/2020 - 3/31/2020, Every day, Daily Average",1482,1072,2048
+"160","London Borough of Hammersmith and Fulham, London","363","Westminster, 00BK (363)","3/1/2020 - 3/31/2020, Every day, Daily Average",1112,808,1529
+"160","London Borough of Hammersmith and Fulham, London","364","Westminster, 00BK (364)","3/1/2020 - 3/31/2020, Every day, Daily Average",1535,1121,2100
+"160","London Borough of Hammersmith and Fulham, London","365","Westminster, 00BK (365)","3/1/2020 - 3/31/2020, Every day, Daily Average",1340,992,1808
+"160","London Borough of Hammersmith and Fulham, London","366","Barnet, 00AC (366)","3/1/2020 - 3/31/2020, Every day, Daily Average",1815,1429,2304
+"160","London Borough of Hammersmith and Fulham, London","367","Barnet, 00AC (367)","3/1/2020 - 3/31/2020, Every day, Daily Average",1800,1354,2391
+"160","London Borough of Hammersmith and Fulham, London","368","Barnet, 00AC (368)","3/1/2020 - 3/31/2020, Every day, Daily Average",1920,1473,2501
+"160","London Borough of Hammersmith and Fulham, London","369","Barnet, 00AC (369)","3/1/2020 - 3/31/2020, Every day, Daily Average",1608,1243,2079
+"160","London Borough of Hammersmith and Fulham, London","370","Barnet, 00AC (370)","3/1/2020 - 3/31/2020, Every day, Daily Average",1831,1408,2379
+"160","London Borough of Hammersmith and Fulham, London","371","Barnet, 00AC (371)","3/1/2020 - 3/31/2020, Every day, Daily Average",1461,1121,1902
+"160","London Borough of Hammersmith and Fulham, London","372","Barnet, 00AC (372)","3/1/2020 - 3/31/2020, Every day, Daily Average",1612,1221,2127
+"160","London Borough of Hammersmith and Fulham, London","374","Barnet, 00AC (374)","3/1/2020 - 3/31/2020, Every day, Daily Average",1505,1165,1943
+"160","London Borough of Hammersmith and Fulham, London","375","Barnet, 00AC (375)","3/1/2020 - 3/31/2020, Every day, Daily Average",1690,1332,2143
+"160","London Borough of Hammersmith and Fulham, London","376","Barnet, 00AC (376)","3/1/2020 - 3/31/2020, Every day, Daily Average",1649,1323,2054
+"160","London Borough of Hammersmith and Fulham, London","415","Barnet, 00AC (415)","3/1/2020 - 3/31/2020, Every day, Daily Average",1946,1491,2538
+"160","London Borough of Hammersmith and Fulham, London","416","Barnet, 00AC (416)","3/1/2020 - 3/31/2020, Every day, Daily Average",1782,1362,2331
+"160","London Borough of Hammersmith and Fulham, London","422","Brent, 00AE (422)","3/1/2020 - 3/31/2020, Every day, Daily Average",1543,1262,1885
+"160","London Borough of Hammersmith and Fulham, London","423","Brent, 00AE (423)","3/1/2020 - 3/31/2020, Every day, Daily Average",1528,1193,1956
+"160","London Borough of Hammersmith and Fulham, London","424","Brent, 00AE (424)","3/1/2020 - 3/31/2020, Every day, Daily Average",1374,1053,1792
+"160","London Borough of Hammersmith and Fulham, London","425","Brent, 00AE (425)","3/1/2020 - 3/31/2020, Every day, Daily Average",1424,1096,1849
+"160","London Borough of Hammersmith and Fulham, London","427","Brent, 00AE (427)","3/1/2020 - 3/31/2020, Every day, Daily Average",1400,1105,1772
+"160","London Borough of Hammersmith and Fulham, London","428","Brent, 00AE (428)","3/1/2020 - 3/31/2020, Every day, Daily Average",1293,980,1705
+"160","London Borough of Hammersmith and Fulham, London","429","Brent, 00AE (429)","3/1/2020 - 3/31/2020, Every day, Daily Average",1296,1023,1641
+"160","London Borough of Hammersmith and Fulham, London","431","Brent, 00AE (431)","3/1/2020 - 3/31/2020, Every day, Daily Average",1570,1142,2157
+"160","London Borough of Hammersmith and Fulham, London","432","Brent, 00AE (432)","3/1/2020 - 3/31/2020, Every day, Daily Average",1232,986,1539
+"160","London Borough of Hammersmith and Fulham, London","433","Brent, 00AE (433)","3/1/2020 - 3/31/2020, Every day, Daily Average",1315,1037,1667
+"160","London Borough of Hammersmith and Fulham, London","434","Brent, 00AE (434)","3/1/2020 - 3/31/2020, Every day, Daily Average",1184,863,1624
+"160","London Borough of Hammersmith and Fulham, London","435","Brent, 00AE (435)","3/1/2020 - 3/31/2020, Every day, Daily Average",1209,896,1630
+"160","London Borough of Hammersmith and Fulham, London","436","Brent, 00AE (436)","3/1/2020 - 3/31/2020, Every day, Daily Average",1078,843,1378
+"160","London Borough of Hammersmith and Fulham, London","437","Brent, 00AE (437)","3/1/2020 - 3/31/2020, Every day, Daily Average",1155,902,1478
+"160","London Borough of Hammersmith and Fulham, London","438","Brent, 00AE (438)","3/1/2020 - 3/31/2020, Every day, Daily Average",993,786,1253
+"160","London Borough of Hammersmith and Fulham, London","439","Brent, 00AE (439)","3/1/2020 - 3/31/2020, Every day, Daily Average",1043,807,1346
+"160","London Borough of Hammersmith and Fulham, London","441","Brent, 00AE (441)","3/1/2020 - 3/31/2020, Every day, Daily Average",1100,809,1495
+"160","London Borough of Hammersmith and Fulham, London","465","Camden, 00AG (465)","3/1/2020 - 3/31/2020, Every day, Daily Average",1835,1409,2389
+"160","London Borough of Hammersmith and Fulham, London","466","Camden, 00AG (466)","3/1/2020 - 3/31/2020, Every day, Daily Average",1874,1425,2463
+"160","London Borough of Hammersmith and Fulham, London","467","Camden, 00AG (467)","3/1/2020 - 3/31/2020, Every day, Daily Average",1701,1325,2182
+"160","London Borough of Hammersmith and Fulham, London","468","Camden, 00AG (468)","3/1/2020 - 3/31/2020, Every day, Daily Average",1412,1162,1715
+"160","London Borough of Hammersmith and Fulham, London","469","Camden, 00AG (469)","3/1/2020 - 3/31/2020, Every day, Daily Average",1709,1379,2116
+"160","London Borough of Hammersmith and Fulham, London","470","Camden, 00AG (470)","3/1/2020 - 3/31/2020, Every day, Daily Average",1713,1290,2273
+"160","London Borough of Hammersmith and Fulham, London","471","Camden, 00AG (471)","3/1/2020 - 3/31/2020, Every day, Daily Average",1531,1166,2009
+"160","London Borough of Hammersmith and Fulham, London","472","Camden, 00AG (472)","3/1/2020 - 3/31/2020, Every day, Daily Average",1829,1358,2462
+"160","London Borough of Hammersmith and Fulham, London","473","Camden, 00AG (473)","3/1/2020 - 3/31/2020, Every day, Daily Average",1458,1138,1867
+"160","London Borough of Hammersmith and Fulham, London","475","Hillingdon, 00AS (475)","3/1/2020 - 3/31/2020, Every day, Daily Average",1772,1232,2547
+"160","London Borough of Hammersmith and Fulham, London","476","Hillingdon, 00AS (476)","3/1/2020 - 3/31/2020, Every day, Daily Average",1433,1101,1863
+"160","London Borough of Hammersmith and Fulham, London","478","Hillingdon, 00AS (478)","3/1/2020 - 3/31/2020, Every day, Daily Average",1264,984,1622
+"160","London Borough of Hammersmith and Fulham, London","479","Hillingdon, 00AS (479)","3/1/2020 - 3/31/2020, Every day, Daily Average",1639,1286,2087
+"160","London Borough of Hammersmith and Fulham, London","480","Hillingdon, 00AS (480)","3/1/2020 - 3/31/2020, Every day, Daily Average",1413,1075,1855
+"160","London Borough of Hammersmith and Fulham, London","481","Hounslow, 00AT (481)","3/1/2020 - 3/31/2020, Every day, Daily Average",373,227,612
+"160","London Borough of Hammersmith and Fulham, London","482","Hounslow, 00AT (482)","3/1/2020 - 3/31/2020, Every day, Daily Average",616,407,930
+"160","London Borough of Hammersmith and Fulham, London","483","Hounslow, 00AT (483)","3/1/2020 - 3/31/2020, Every day, Daily Average",863,609,1221
+"160","London Borough of Hammersmith and Fulham, London","484","Hounslow, 00AT (484)","3/1/2020 - 3/31/2020, Every day, Daily Average",1166,877,1549
+"160","London Borough of Hammersmith and Fulham, London","485","Hounslow, 00AT (485)","3/1/2020 - 3/31/2020, Every day, Daily Average",1269,962,1672
+"160","London Borough of Hammersmith and Fulham, London","486","Brent, 00AE (486)","3/1/2020 - 3/31/2020, Every day, Daily Average",1264,976,1635
+"160","London Borough of Hammersmith and Fulham, London","487","Brent, 00AE (487)","3/1/2020 - 3/31/2020, Every day, Daily Average",1181,906,1538
+"160","London Borough of Hammersmith and Fulham, London","488","Brent, 00AE (488)","3/1/2020 - 3/31/2020, Every day, Daily Average",969,734,1278
+"160","London Borough of Hammersmith and Fulham, London","489","Brent, 00AE (489)","3/1/2020 - 3/31/2020, Every day, Daily Average",810,588,1114
+"160","London Borough of Hammersmith and Fulham, London","490","Brent, 00AE (490)","3/1/2020 - 3/31/2020, Every day, Daily Average",952,695,1303
+"160","London Borough of Hammersmith and Fulham, London","491","Camden, 00AG (491)","3/1/2020 - 3/31/2020, Every day, Daily Average",1880,1280,2759
+"160","London Borough of Hammersmith and Fulham, London","492","Camden, 00AG (492)","3/1/2020 - 3/31/2020, Every day, Daily Average",1691,1190,2401
+"160","London Borough of Hammersmith and Fulham, London","493","Camden, 00AG (493)","3/1/2020 - 3/31/2020, Every day, Daily Average",1282,1010,1626
+"160","London Borough of Hammersmith and Fulham, London","495","Hounslow, 00AT (495)","3/1/2020 - 3/31/2020, Every day, Daily Average",975,702,1353
+"160","London Borough of Hammersmith and Fulham, London","496","Hounslow, 00AT (496)","3/1/2020 - 3/31/2020, Every day, Daily Average",640,431,949
+"160","London Borough of Hammersmith and Fulham, London","497","Hounslow, 00AT (497)","3/1/2020 - 3/31/2020, Every day, Daily Average",761,527,1098
+"160","London Borough of Hammersmith and Fulham, London","498","Hounslow, 00AT (498)","3/1/2020 - 3/31/2020, Every day, Daily Average",1097,815,1476
+"160","London Borough of Hammersmith and Fulham, London","499","Hounslow, 00AT (499)","3/1/2020 - 3/31/2020, Every day, Daily Average",1232,928,1635
+"160","London Borough of Hammersmith and Fulham, London","500","Camden, 00AG (500)","3/1/2020 - 3/31/2020, Every day, Daily Average",1466,1108,1939
+"160","London Borough of Hammersmith and Fulham, London","501","Camden, 00AG (501)","3/1/2020 - 3/31/2020, Every day, Daily Average",1282,932,1763
+"160","London Borough of Hammersmith and Fulham, London","505","Camden, 00AG (505)","3/1/2020 - 3/31/2020, Every day, Daily Average",1705,1314,2211
+"160","London Borough of Hammersmith and Fulham, London","510","Camden, 00AG (510)","3/1/2020 - 3/31/2020, Every day, Daily Average",1540,1227,1932
+"160","London Borough of Hammersmith and Fulham, London","517","Camden, 00AG (517)","3/1/2020 - 3/31/2020, Every day, Daily Average",1587,1117,2254
+"160","London Borough of Hammersmith and Fulham, London","524","Camden, 00AG (524)","3/1/2020 - 3/31/2020, Every day, Daily Average",1380,984,1935
+"160","London Borough of Hammersmith and Fulham, London","532","Ealing, 00AJ (532)","3/1/2020 - 3/31/2020, Every day, Daily Average",1470,1131,1909
+"160","London Borough of Hammersmith and Fulham, London","534","Ealing, 00AJ (534)","3/1/2020 - 3/31/2020, Every day, Daily Average",1389,1068,1805
+"160","London Borough of Hammersmith and Fulham, London","535","Ealing, 00AJ (535)","3/1/2020 - 3/31/2020, Every day, Daily Average",1362,1060,1749
+"160","London Borough of Hammersmith and Fulham, London","537","Ealing, 00AJ (537)","3/1/2020 - 3/31/2020, Every day, Daily Average",1151,852,1553
+"160","London Borough of Hammersmith and Fulham, London","538","Ealing, 00AJ (538)","3/1/2020 - 3/31/2020, Every day, Daily Average",1051,758,1456
+"160","London Borough of Hammersmith and Fulham, London","539","Ealing, 00AJ (539)","3/1/2020 - 3/31/2020, Every day, Daily Average",1364,994,1871
+"160","London Borough of Hammersmith and Fulham, London","541","Ealing, 00AJ (541)","3/1/2020 - 3/31/2020, Every day, Daily Average",1274,942,1721
+"160","London Borough of Hammersmith and Fulham, London","542","Ealing, 00AJ (542)","3/1/2020 - 3/31/2020, Every day, Daily Average",931,673,1286
+"160","London Borough of Hammersmith and Fulham, London","543","Ealing, 00AJ (543)","3/1/2020 - 3/31/2020, Every day, Daily Average",1213,843,1744
+"160","London Borough of Hammersmith and Fulham, London","544","Ealing, 00AJ (544)","3/1/2020 - 3/31/2020, Every day, Daily Average",989,711,1375
+"160","London Borough of Hammersmith and Fulham, London","546","Ealing, 00AJ (546)","3/1/2020 - 3/31/2020, Every day, Daily Average",721,508,1021
+"160","London Borough of Hammersmith and Fulham, London","547","Ealing, 00AJ (547)","3/1/2020 - 3/31/2020, Every day, Daily Average",1267,994,1614
+"160","London Borough of Hammersmith and Fulham, London","549","Ealing, 00AJ (549)","3/1/2020 - 3/31/2020, Every day, Daily Average",1272,985,1641
+"160","London Borough of Hammersmith and Fulham, London","550","Ealing, 00AJ (550)","3/1/2020 - 3/31/2020, Every day, Daily Average",1272,967,1673
+"160","London Borough of Hammersmith and Fulham, London","551","Camden, 00AG (551)","3/1/2020 - 3/31/2020, Every day, Daily Average",1683,1174,2411
+"160","London Borough of Hammersmith and Fulham, London","552","Ealing, 00AJ (552)","3/1/2020 - 3/31/2020, Every day, Daily Average",1106,828,1477
+"160","London Borough of Hammersmith and Fulham, London","553","Ealing, 00AJ (553)","3/1/2020 - 3/31/2020, Every day, Daily Average",866,560,1339
+"160","London Borough of Hammersmith and Fulham, London","556","Ealing, 00AJ (556)","3/1/2020 - 3/31/2020, Every day, Daily Average",488,317,751
+"160","London Borough of Hammersmith and Fulham, London","557","Ealing, 00AJ (557)","3/1/2020 - 3/31/2020, Every day, Daily Average",778,530,1141
+"160","London Borough of Hammersmith and Fulham, London","559","Ealing, 00AJ (559)","3/1/2020 - 3/31/2020, Every day, Daily Average",899,661,1221
+"160","London Borough of Hammersmith and Fulham, London","560","Ealing, 00AJ (560)","3/1/2020 - 3/31/2020, Every day, Daily Average",1258,995,1590
+"160","London Borough of Hammersmith and Fulham, London","561","Ealing, 00AJ (561)","3/1/2020 - 3/31/2020, Every day, Daily Average",1784,1100,2890
+"160","London Borough of Hammersmith and Fulham, London","563","Harrow, 00AQ (563)","3/1/2020 - 3/31/2020, Every day, Daily Average",1665,1320,2098
+"160","London Borough of Hammersmith and Fulham, London","567","Camden, 00AG (567)","3/1/2020 - 3/31/2020, Every day, Daily Average",1315,940,1839
+"160","London Borough of Hammersmith and Fulham, London","571","Hackney, 00AM (571)","3/1/2020 - 3/31/2020, Every day, Daily Average",2701,2030,3593
+"160","London Borough of Hammersmith and Fulham, London","572","Camden, 00AG (572)","3/1/2020 - 3/31/2020, Every day, Daily Average",2109,1494,2976
+"160","London Borough of Hammersmith and Fulham, London","573","Camden, 00AG (573)","3/1/2020 - 3/31/2020, Every day, Daily Average",1850,1333,2565
+"160","London Borough of Hammersmith and Fulham, London","586","Ealing, 00AJ (586)","3/1/2020 - 3/31/2020, Every day, Daily Average",1340,1007,1782
+"160","London Borough of Hammersmith and Fulham, London","587","Ealing, 00AJ (587)","3/1/2020 - 3/31/2020, Every day, Daily Average",1017,793,1302
+"160","London Borough of Hammersmith and Fulham, London","588","Ealing, 00AJ (588)","3/1/2020 - 3/31/2020, Every day, Daily Average",1164,909,1489
+"160","London Borough of Hammersmith and Fulham, London","589","Ealing, 00AJ (589)","3/1/2020 - 3/31/2020, Every day, Daily Average",673,467,968
+"160","London Borough of Hammersmith and Fulham, London","590","Ealing, 00AJ (590)","3/1/2020 - 3/31/2020, Every day, Daily Average",403,271,597
+"160","London Borough of Hammersmith and Fulham, London","591","Ealing, 00AJ (591)","3/1/2020 - 3/31/2020, Every day, Daily Average",1231,917,1651
+"160","London Borough of Hammersmith and Fulham, London","592","Ealing, 00AJ (592)","3/1/2020 - 3/31/2020, Every day, Daily Average",410,276,608
+"160","London Borough of Hammersmith and Fulham, London","595","Ealing, 00AJ (595)","3/1/2020 - 3/31/2020, Every day, Daily Average",959,737,1247
+"160","London Borough of Hammersmith and Fulham, London","609","Hackney, 00AM (609)","3/1/2020 - 3/31/2020, Every day, Daily Average",2582,2030,3284
+"160","London Borough of Hammersmith and Fulham, London","633","Hackney, 00AM (633)","3/1/2020 - 3/31/2020, Every day, Daily Average",2415,1801,3238
+"160","London Borough of Hammersmith and Fulham, London","639","Hackney, 00AM (639)","3/1/2020 - 3/31/2020, Every day, Daily Average",2541,1962,3289
+"160","London Borough of Hammersmith and Fulham, London","640","Hammersmith and Fulham, 00AN (640)","3/1/2020 - 3/31/2020, Every day, Daily Average",261,129,526
+"160","London Borough of Hammersmith and Fulham, London","646","Hackney, 00AM (646)","3/1/2020 - 3/31/2020, Every day, Daily Average",2022,1436,2846
+"160","London Borough of Hammersmith and Fulham, London","647","Hammersmith and Fulham, 00AN (647)","3/1/2020 - 3/31/2020, Every day, Daily Average",122,45,330
+"160","London Borough of Hammersmith and Fulham, London","664","Hammersmith and Fulham, 00AN (664)","3/1/2020 - 3/31/2020, Every day, Daily Average",476,316,716
+"160","London Borough of Hammersmith and Fulham, London","665","Hammersmith and Fulham, 00AN (665)","3/1/2020 - 3/31/2020, Every day, Daily Average",373,238,583
+"160","London Borough of Hammersmith and Fulham, London","666","Hammersmith and Fulham, 00AN (666)","3/1/2020 - 3/31/2020, Every day, Daily Average",120,24,577
+"160","London Borough of Hammersmith and Fulham, London","667","Hammersmith and Fulham, 00AN (667)","3/1/2020 - 3/31/2020, Every day, Daily Average",126,62,253
+"160","London Borough of Hammersmith and Fulham, London","669","Hammersmith and Fulham, 00AN (669)","3/1/2020 - 3/31/2020, Every day, Daily Average",329,148,730
+"160","London Borough of Hammersmith and Fulham, London","672","Hillingdon, 00AS (672)","3/1/2020 - 3/31/2020, Every day, Daily Average",2037,1320,3141
+"160","London Borough of Hammersmith and Fulham, London","673","Hillingdon, 00AS (673)","3/1/2020 - 3/31/2020, Every day, Daily Average",1553,1093,2204
+"160","London Borough of Hammersmith and Fulham, London","674","Hillingdon, 00AS (674)","3/1/2020 - 3/31/2020, Every day, Daily Average",1837,1270,2656
+"160","London Borough of Hammersmith and Fulham, London","675","Hillingdon, 00AS (675)","3/1/2020 - 3/31/2020, Every day, Daily Average",1604,1163,2211
+"160","London Borough of Hammersmith and Fulham, London","677","Hammersmith and Fulham, 00AN (677)","3/1/2020 - 3/31/2020, Every day, Daily Average",294,150,575
+"160","London Borough of Hammersmith and Fulham, London","678","Hammersmith and Fulham, 00AN (678)","3/1/2020 - 3/31/2020, Every day, Daily Average",371,236,581
+"160","London Borough of Hammersmith and Fulham, London","679","Hammersmith and Fulham, 00AN (679)","3/1/2020 - 3/31/2020, Every day, Daily Average",152,62,371
+"160","London Borough of Hammersmith and Fulham, London","680","Hammersmith and Fulham, 00AN (680)","3/1/2020 - 3/31/2020, Every day, Daily Average",435,283,666
+"160","London Borough of Hammersmith and Fulham, London","681","Hammersmith and Fulham, 00AN (681)","3/1/2020 - 3/31/2020, Every day, Daily Average",522,339,802
+"160","London Borough of Hammersmith and Fulham, London","682","Hammersmith and Fulham, 00AN (682)","3/1/2020 - 3/31/2020, Every day, Daily Average",441,278,699
+"160","London Borough of Hammersmith and Fulham, London","683","Hammersmith and Fulham, 00AN (683)","3/1/2020 - 3/31/2020, Every day, Daily Average",740,510,1072
+"160","London Borough of Hammersmith and Fulham, London","684","Hammersmith and Fulham, 00AN (684)","3/1/2020 - 3/31/2020, Every day, Daily Average",421,262,674
+"160","London Borough of Hammersmith and Fulham, London","685","Hammersmith and Fulham, 00AN (685)","3/1/2020 - 3/31/2020, Every day, Daily Average",676,454,1005
+"160","London Borough of Hammersmith and Fulham, London","686","Hammersmith and Fulham, 00AN (686)","3/1/2020 - 3/31/2020, Every day, Daily Average",935,675,1293
+"160","London Borough of Hammersmith and Fulham, London","687","Hammersmith and Fulham, 00AN (687)","3/1/2020 - 3/31/2020, Every day, Daily Average",807,565,1151
+"160","London Borough of Hammersmith and Fulham, London","688","Hammersmith and Fulham, 00AN (688)","3/1/2020 - 3/31/2020, Every day, Daily Average",558,366,849
+"160","London Borough of Hammersmith and Fulham, London","689","Hammersmith and Fulham, 00AN (689)","3/1/2020 - 3/31/2020, Every day, Daily Average",1039,743,1451
+"160","London Borough of Hammersmith and Fulham, London","690","Hammersmith and Fulham, 00AN (690)","3/1/2020 - 3/31/2020, Every day, Daily Average",686,450,1045
+"160","London Borough of Hammersmith and Fulham, London","695","Harrow, 00AQ (695)","3/1/2020 - 3/31/2020, Every day, Daily Average",1767,1454,2147
+"160","London Borough of Hammersmith and Fulham, London","701","Harrow, 00AQ (701)","3/1/2020 - 3/31/2020, Every day, Daily Average",1712,1386,2114
+"160","London Borough of Hammersmith and Fulham, London","705","Harrow, 00AQ (705)","3/1/2020 - 3/31/2020, Every day, Daily Average",2056,1684,2509
+"160","London Borough of Hammersmith and Fulham, London","719","Hillingdon, 00AS (719)","3/1/2020 - 3/31/2020, Every day, Daily Average",1595,1221,2082
+"160","London Borough of Hammersmith and Fulham, London","720","Hounslow, 00AT (720)","3/1/2020 - 3/31/2020, Every day, Daily Average",1507,1075,2111
+"160","London Borough of Hammersmith and Fulham, London","721","Hounslow, 00AT (721)","3/1/2020 - 3/31/2020, Every day, Daily Average",1337,963,1855
+"160","London Borough of Hammersmith and Fulham, London","722","Hounslow, 00AT (722)","3/1/2020 - 3/31/2020, Every day, Daily Average",1558,1197,2027
+"160","London Borough of Hammersmith and Fulham, London","723","Hounslow, 00AT (723)","3/1/2020 - 3/31/2020, Every day, Daily Average",1366,956,1950
+"160","London Borough of Hammersmith and Fulham, London","724","Hounslow, 00AT (724)","3/1/2020 - 3/31/2020, Every day, Daily Average",1449,1100,1908
+"160","London Borough of Hammersmith and Fulham, London","725","Hounslow, 00AT (725)","3/1/2020 - 3/31/2020, Every day, Daily Average",1653,1204,2269
+"160","London Borough of Hammersmith and Fulham, London","729","Hounslow, 00AT (729)","3/1/2020 - 3/31/2020, Every day, Daily Average",1544,1100,2165
+"160","London Borough of Hammersmith and Fulham, London","731","Hounslow, 00AT (731)","3/1/2020 - 3/31/2020, Every day, Daily Average",1680,1306,2160
+"160","London Borough of Hammersmith and Fulham, London","735","Hounslow, 00AT (735)","3/1/2020 - 3/31/2020, Every day, Daily Average",1619,1227,2135
+"160","London Borough of Hammersmith and Fulham, London","737","Hounslow, 00AT (737)","3/1/2020 - 3/31/2020, Every day, Daily Average",1733,1302,2305
+"160","London Borough of Hammersmith and Fulham, London","740","Islington, 00AU (740)","3/1/2020 - 3/31/2020, Every day, Daily Average",2413,1789,3254
+"160","London Borough of Hammersmith and Fulham, London","741","Islington, 00AU (741)","3/1/2020 - 3/31/2020, Every day, Daily Average",1959,1629,2355
+"160","London Borough of Hammersmith and Fulham, London","742","Islington, 00AU (742)","3/1/2020 - 3/31/2020, Every day, Daily Average",2310,1427,3737
+"160","London Borough of Hammersmith and Fulham, London","744","Islington, 00AU (744)","3/1/2020 - 3/31/2020, Every day, Daily Average",2114,1348,3314
+"160","London Borough of Hammersmith and Fulham, London","747","Islington, 00AU (747)","3/1/2020 - 3/31/2020, Every day, Daily Average",2055,1524,2769
+"160","London Borough of Hammersmith and Fulham, London","748","Islington, 00AU (748)","3/1/2020 - 3/31/2020, Every day, Daily Average",2220,1654,2978
+"160","London Borough of Hammersmith and Fulham, London","749","Islington, 00AU (749)","3/1/2020 - 3/31/2020, Every day, Daily Average",2430,1847,3196
+"160","London Borough of Hammersmith and Fulham, London","750","Islington, 00AU (750)","3/1/2020 - 3/31/2020, Every day, Daily Average",2334,1702,3198
+"160","London Borough of Hammersmith and Fulham, London","751","Islington, 00AU (751)","3/1/2020 - 3/31/2020, Every day, Daily Average",2259,1708,2987
+"160","London Borough of Hammersmith and Fulham, London","752","Islington, 00AU (752)","3/1/2020 - 3/31/2020, Every day, Daily Average",2021,1487,2746
+"160","London Borough of Hammersmith and Fulham, London","753","Islington, 00AU (753)","3/1/2020 - 3/31/2020, Every day, Daily Average",1879,1359,2597
+"160","London Borough of Hammersmith and Fulham, London","754","Islington, 00AU (754)","3/1/2020 - 3/31/2020, Every day, Daily Average",1726,1223,2434
+"160","London Borough of Hammersmith and Fulham, London","755","Islington, 00AU (755)","3/1/2020 - 3/31/2020, Every day, Daily Average",2070,1454,2945
+"160","London Borough of Hammersmith and Fulham, London","767","Richmond upon Thames, 00BD (767)","3/1/2020 - 3/31/2020, Every day, Daily Average",1034,736,1451
+"160","London Borough of Hammersmith and Fulham, London","768","Islington, 00AU (768)","3/1/2020 - 3/31/2020, Every day, Daily Average",2247,1571,3213
+"160","London Borough of Hammersmith and Fulham, London","769","Kensington and Chelsea, 00AW (769)","3/1/2020 - 3/31/2020, Every day, Daily Average",600,424,847
+"160","London Borough of Hammersmith and Fulham, London","774","Merton, 00BA (774)","3/1/2020 - 3/31/2020, Every day, Daily Average",1474,1084,2004
+"160","London Borough of Hammersmith and Fulham, London","775","Merton, 00BA (775)","3/1/2020 - 3/31/2020, Every day, Daily Average",1288,921,1800
+"160","London Borough of Hammersmith and Fulham, London","776","Merton, 00BA (776)","3/1/2020 - 3/31/2020, Every day, Daily Average",1544,1162,2050
+"160","London Borough of Hammersmith and Fulham, London","777","Merton, 00BA (777)","3/1/2020 - 3/31/2020, Every day, Daily Average",1435,1052,1955
+"160","London Borough of Hammersmith and Fulham, London","778","Merton, 00BA (778)","3/1/2020 - 3/31/2020, Every day, Daily Average",1902,1432,2524
+"160","London Borough of Hammersmith and Fulham, London","779","Merton, 00BA (779)","3/1/2020 - 3/31/2020, Every day, Daily Average",1671,1268,2200
+"160","London Borough of Hammersmith and Fulham, London","781","Merton, 00BA (781)","3/1/2020 - 3/31/2020, Every day, Daily Average",2011,1435,2817
+"160","London Borough of Hammersmith and Fulham, London","782","Kensington and Chelsea, 00AW (782)","3/1/2020 - 3/31/2020, Every day, Daily Average",675,467,974
+"160","London Borough of Hammersmith and Fulham, London","783","Merton, 00BA (783)","3/1/2020 - 3/31/2020, Every day, Daily Average",1506,1157,1958
+"160","London Borough of Hammersmith and Fulham, London","784","Merton, 00BA (784)","3/1/2020 - 3/31/2020, Every day, Daily Average",1518,1116,2064
+"160","London Borough of Hammersmith and Fulham, London","786","Merton, 00BA (786)","3/1/2020 - 3/31/2020, Every day, Daily Average",1694,1314,2182
+"160","London Borough of Hammersmith and Fulham, London","789","Merton, 00BA (789)","3/1/2020 - 3/31/2020, Every day, Daily Average",1701,1350,2143
+"160","London Borough of Hammersmith and Fulham, London","790","Merton, 00BA (790)","3/1/2020 - 3/31/2020, Every day, Daily Average",1573,1150,2150
+"160","London Borough of Hammersmith and Fulham, London","794","Merton, 00BA (794)","3/1/2020 - 3/31/2020, Every day, Daily Average",1599,1163,2196
+"160","London Borough of Hammersmith and Fulham, London","796","Merton, 00BA (796)","3/1/2020 - 3/31/2020, Every day, Daily Average",1898,1553,2319
+"160","London Borough of Hammersmith and Fulham, London","797","Kensington and Chelsea, 00AW (797)","3/1/2020 - 3/31/2020, Every day, Daily Average",590,400,869
+"160","London Borough of Hammersmith and Fulham, London","803","Kensington and Chelsea, 00AW (803)","3/1/2020 - 3/31/2020, Every day, Daily Average",682,451,1030
+"160","London Borough of Hammersmith and Fulham, London","819","Wandsworth, 00BJ (819)","3/1/2020 - 3/31/2020, Every day, Daily Average",1849,1372,2491
+"160","London Borough of Hammersmith and Fulham, London","820","Kensington and Chelsea, 00AW (820)","3/1/2020 - 3/31/2020, Every day, Daily Average",488,311,764
+"160","London Borough of Hammersmith and Fulham, London","821","Kensington and Chelsea, 00AW (821)","3/1/2020 - 3/31/2020, Every day, Daily Average",605,425,859
+"160","London Borough of Hammersmith and Fulham, London","835","Richmond upon Thames, 00BD (835)","3/1/2020 - 3/31/2020, Every day, Daily Average",1300,894,1888
+"160","London Borough of Hammersmith and Fulham, London","836","Richmond upon Thames, 00BD (836)","3/1/2020 - 3/31/2020, Every day, Daily Average",1078,756,1535
+"160","London Borough of Hammersmith and Fulham, London","837","Richmond upon Thames, 00BD (837)","3/1/2020 - 3/31/2020, Every day, Daily Average",897,614,1308
+"160","London Borough of Hammersmith and Fulham, London","838","Kensington and Chelsea, 00AW (838)","3/1/2020 - 3/31/2020, Every day, Daily Average",534,366,778
+"160","London Borough of Hammersmith and Fulham, London","839","Kensington and Chelsea, 00AW (839)","3/1/2020 - 3/31/2020, Every day, Daily Average",719,509,1015
+"160","London Borough of Hammersmith and Fulham, London","840","Richmond upon Thames, 00BD (840)","3/1/2020 - 3/31/2020, Every day, Daily Average",983,672,1437
+"160","London Borough of Hammersmith and Fulham, London","841","Kensington and Chelsea, 00AW (841)","3/1/2020 - 3/31/2020, Every day, Daily Average",1192,887,1600
+"160","London Borough of Hammersmith and Fulham, London","842","Richmond upon Thames, 00BD (842)","3/1/2020 - 3/31/2020, Every day, Daily Average",1234,879,1730
+"160","London Borough of Hammersmith and Fulham, London","843","Richmond upon Thames, 00BD (843)","3/1/2020 - 3/31/2020, Every day, Daily Average",1236,895,1705
+"160","London Borough of Hammersmith and Fulham, London","844","Richmond upon Thames, 00BD (844)","3/1/2020 - 3/31/2020, Every day, Daily Average",1206,849,1712
+"160","London Borough of Hammersmith and Fulham, London","845","Richmond upon Thames, 00BD (845)","3/1/2020 - 3/31/2020, Every day, Daily Average",1354,981,1868
+"160","London Borough of Hammersmith and Fulham, London","847","Kensington and Chelsea, 00AW (847)","3/1/2020 - 3/31/2020, Every day, Daily Average",942,655,1352
+"160","London Borough of Hammersmith and Fulham, London","848","Kingston upon Thames, 00AX (848)","3/1/2020 - 3/31/2020, Every day, Daily Average",1590,1204,2098
+"160","London Borough of Hammersmith and Fulham, London","849","Kingston upon Thames, 00AX (849)","3/1/2020 - 3/31/2020, Every day, Daily Average",1408,1005,1971
+"160","London Borough of Hammersmith and Fulham, London","850","Kingston upon Thames, 00AX (850)","3/1/2020 - 3/31/2020, Every day, Daily Average",1691,1252,2282
+"160","London Borough of Hammersmith and Fulham, London","851","Kingston upon Thames, 00AX (851)","3/1/2020 - 3/31/2020, Every day, Daily Average",1790,1361,2352
+"160","London Borough of Hammersmith and Fulham, London","852","Kingston upon Thames, 00AX (852)","3/1/2020 - 3/31/2020, Every day, Daily Average",1819,1437,2302
+"160","London Borough of Hammersmith and Fulham, London","854","Lambeth, 00AY (854)","3/1/2020 - 3/31/2020, Every day, Daily Average",1975,1485,2625
+"160","London Borough of Hammersmith and Fulham, London","855","Richmond upon Thames, 00BD (855)","3/1/2020 - 3/31/2020, Every day, Daily Average",1388,1013,1900
+"160","London Borough of Hammersmith and Fulham, London","856","Richmond upon Thames, 00BD (856)","3/1/2020 - 3/31/2020, Every day, Daily Average",1406,1029,1919
+"160","London Borough of Hammersmith and Fulham, London","857","Richmond upon Thames, 00BD (857)","3/1/2020 - 3/31/2020, Every day, Daily Average",1484,1122,1962
+"160","London Borough of Hammersmith and Fulham, London","858","Richmond upon Thames, 00BD (858)","3/1/2020 - 3/31/2020, Every day, Daily Average",1452,1071,1967
+"160","London Borough of Hammersmith and Fulham, London","859","Richmond upon Thames, 00BD (859)","3/1/2020 - 3/31/2020, Every day, Daily Average",1465,1143,1876
+"160","London Borough of Hammersmith and Fulham, London","860","Richmond upon Thames, 00BD (860)","3/1/2020 - 3/31/2020, Every day, Daily Average",1539,1159,2043
+"160","London Borough of Hammersmith and Fulham, London","861","Lambeth, 00AY (861)","3/1/2020 - 3/31/2020, Every day, Daily Average",1707,1248,2332
+"160","London Borough of Hammersmith and Fulham, London","863","Richmond upon Thames, 00BD (863)","3/1/2020 - 3/31/2020, Every day, Daily Average",1603,1247,2059
+"160","London Borough of Hammersmith and Fulham, London","865","Richmond upon Thames, 00BD (865)","3/1/2020 - 3/31/2020, Every day, Daily Average",1730,1374,2176
+"160","London Borough of Hammersmith and Fulham, London","867","Lambeth, 00AY (867)","3/1/2020 - 3/31/2020, Every day, Daily Average",1813,1424,2307
+"160","London Borough of Hammersmith and Fulham, London","868","Lambeth, 00AY (868)","3/1/2020 - 3/31/2020, Every day, Daily Average",2137,1626,2807
+"160","London Borough of Hammersmith and Fulham, London","869","Lambeth, 00AY (869)","3/1/2020 - 3/31/2020, Every day, Daily Average",1907,1463,2484
+"160","London Borough of Hammersmith and Fulham, London","870","Lambeth, 00AY (870)","3/1/2020 - 3/31/2020, Every day, Daily Average",2484,1950,3163
+"160","London Borough of Hammersmith and Fulham, London","873","Lewisham, 00AZ (873)","3/1/2020 - 3/31/2020, Every day, Daily Average",2513,1891,3338
+"160","London Borough of Hammersmith and Fulham, London","874","Lewisham, 00AZ (874)","3/1/2020 - 3/31/2020, Every day, Daily Average",2796,2002,3903
+"160","London Borough of Hammersmith and Fulham, London","875","Lewisham, 00AZ (875)","3/1/2020 - 3/31/2020, Every day, Daily Average",2766,2021,3784
+"160","London Borough of Hammersmith and Fulham, London","876","Lewisham, 00AZ (876)","3/1/2020 - 3/31/2020, Every day, Daily Average",2547,1880,3450
+"160","London Borough of Hammersmith and Fulham, London","892","Westminster, 00BK (892)","3/1/2020 - 3/31/2020, Every day, Daily Average",1331,1003,1764
+"160","London Borough of Hammersmith and Fulham, London","893","Westminster, 00BK (893)","3/1/2020 - 3/31/2020, Every day, Daily Average",1236,957,1595
+"160","London Borough of Hammersmith and Fulham, London","898","Southwark, 00BE (898)","3/1/2020 - 3/31/2020, Every day, Daily Average",2485,1871,3299
+"160","London Borough of Hammersmith and Fulham, London","899","Southwark, 00BE (899)","3/1/2020 - 3/31/2020, Every day, Daily Average",2598,1902,3547
+"160","London Borough of Hammersmith and Fulham, London","900","Southwark, 00BE (900)","3/1/2020 - 3/31/2020, Every day, Daily Average",2626,1919,3591
+"160","London Borough of Hammersmith and Fulham, London","901","Southwark, 00BE (901)","3/1/2020 - 3/31/2020, Every day, Daily Average",2406,1771,3267
+"160","London Borough of Hammersmith and Fulham, London","903","Southwark, 00BE (903)","3/1/2020 - 3/31/2020, Every day, Daily Average",2243,1693,2971
+"160","London Borough of Hammersmith and Fulham, London","904","Southwark, 00BE (904)","3/1/2020 - 3/31/2020, Every day, Daily Average",2592,2007,3347
+"160","London Borough of Hammersmith and Fulham, London","906","Southwark, 00BE (906)","3/1/2020 - 3/31/2020, Every day, Daily Average",2434,1890,3133
+"160","London Borough of Hammersmith and Fulham, London","907","Southwark, 00BE (907)","3/1/2020 - 3/31/2020, Every day, Daily Average",2146,1577,2918
+"160","London Borough of Hammersmith and Fulham, London","908","Southwark, 00BE (908)","3/1/2020 - 3/31/2020, Every day, Daily Average",2455,1900,3171
+"160","London Borough of Hammersmith and Fulham, London","910","Southwark, 00BE (910)","3/1/2020 - 3/31/2020, Every day, Daily Average",2174,1638,2884
+"160","London Borough of Hammersmith and Fulham, London","911","Southwark, 00BE (911)","3/1/2020 - 3/31/2020, Every day, Daily Average",2051,1553,2707
+"160","London Borough of Hammersmith and Fulham, London","912","Southwark, 00BE (912)","3/1/2020 - 3/31/2020, Every day, Daily Average",2015,1513,2682
+"160","London Borough of Hammersmith and Fulham, London","913","Southwark, 00BE (913)","3/1/2020 - 3/31/2020, Every day, Daily Average",2256,1698,2995
+"160","London Borough of Hammersmith and Fulham, London","914","Southwark, 00BE (914)","3/1/2020 - 3/31/2020, Every day, Daily Average",2455,1810,3329
+"160","London Borough of Hammersmith and Fulham, London","915","Southwark, 00BE (915)","3/1/2020 - 3/31/2020, Every day, Daily Average",2132,1616,2811
+"160","London Borough of Hammersmith and Fulham, London","916","Southwark, 00BE (916)","3/1/2020 - 3/31/2020, Every day, Daily Average",2414,1796,3244
+"160","London Borough of Hammersmith and Fulham, London","920","Tower Hamlets, 00BG (920)","3/1/2020 - 3/31/2020, Every day, Daily Average",2271,1685,3060
+"160","London Borough of Hammersmith and Fulham, London","921","Tower Hamlets, 00BG (921)","3/1/2020 - 3/31/2020, Every day, Daily Average",2215,1641,2989
+"160","London Borough of Hammersmith and Fulham, London","922","Tower Hamlets, 00BG (922)","3/1/2020 - 3/31/2020, Every day, Daily Average",2209,1591,3065
+"160","London Borough of Hammersmith and Fulham, London","924","Tower Hamlets, 00BG (924)","3/1/2020 - 3/31/2020, Every day, Daily Average",2470,1828,3336
+"160","London Borough of Hammersmith and Fulham, London","925","Tower Hamlets, 00BG (925)","3/1/2020 - 3/31/2020, Every day, Daily Average",2311,1777,3004
+"160","London Borough of Hammersmith and Fulham, London","928","Tower Hamlets, 00BG (928)","3/1/2020 - 3/31/2020, Every day, Daily Average",2254,1729,2937
+"160","London Borough of Hammersmith and Fulham, London","930","Tower Hamlets, 00BG (930)","3/1/2020 - 3/31/2020, Every day, Daily Average",2533,1802,3559
+"160","London Borough of Hammersmith and Fulham, London","933","Tower Hamlets, 00BG (933)","3/1/2020 - 3/31/2020, Every day, Daily Average",2764,2081,3669
+"160","London Borough of Hammersmith and Fulham, London","935","Tower Hamlets, 00BG (935)","3/1/2020 - 3/31/2020, Every day, Daily Average",2470,1834,3324
+"160","London Borough of Hammersmith and Fulham, London","936","Tower Hamlets, 00BG (936)","3/1/2020 - 3/31/2020, Every day, Daily Average",2526,1948,3273
+"160","London Borough of Hammersmith and Fulham, London","937","Tower Hamlets, 00BG (937)","3/1/2020 - 3/31/2020, Every day, Daily Average",2802,2147,3655
+"160","London Borough of Hammersmith and Fulham, London","939","Tower Hamlets, 00BG (939)","3/1/2020 - 3/31/2020, Every day, Daily Average",2682,2024,3553
+"160","London Borough of Hammersmith and Fulham, London","940","Tower Hamlets, 00BG (940)","3/1/2020 - 3/31/2020, Every day, Daily Average",2471,1886,3235
+"160","London Borough of Hammersmith and Fulham, London","941","Tower Hamlets, 00BG (941)","3/1/2020 - 3/31/2020, Every day, Daily Average",2968,2273,3874
+"160","London Borough of Hammersmith and Fulham, London","949","Waltham Forest, 00BH (949)","3/1/2020 - 3/31/2020, Every day, Daily Average",2673,2182,3273
+"160","London Borough of Hammersmith and Fulham, London","951","Waltham Forest, 00BH (951)","3/1/2020 - 3/31/2020, Every day, Daily Average",2754,2259,3356
+"160","London Borough of Hammersmith and Fulham, London","953","Waltham Forest, 00BH (953)","3/1/2020 - 3/31/2020, Every day, Daily Average",2782,2291,3377
+"160","London Borough of Hammersmith and Fulham, London","966","Wandsworth, 00BJ (966)","3/1/2020 - 3/31/2020, Every day, Daily Average",1039,672,1606
+"160","London Borough of Hammersmith and Fulham, London","967","Wandsworth, 00BJ (967)","3/1/2020 - 3/31/2020, Every day, Daily Average",1291,922,1805
+"160","London Borough of Hammersmith and Fulham, London","968","Wandsworth, 00BJ (968)","3/1/2020 - 3/31/2020, Every day, Daily Average",1278,970,1683
+"160","London Borough of Hammersmith and Fulham, London","969","Wandsworth, 00BJ (969)","3/1/2020 - 3/31/2020, Every day, Daily Average",1084,754,1556
+"160","London Borough of Hammersmith and Fulham, London","970","Wandsworth, 00BJ (970)","3/1/2020 - 3/31/2020, Every day, Daily Average",1165,817,1659
+"160","London Borough of Hammersmith and Fulham, London","971","Wandsworth, 00BJ (971)","3/1/2020 - 3/31/2020, Every day, Daily Average",1372,993,1894
+"160","London Borough of Hammersmith and Fulham, London","972","Wandsworth, 00BJ (972)","3/1/2020 - 3/31/2020, Every day, Daily Average",1375,981,1925
+"160","London Borough of Hammersmith and Fulham, London","973","Wandsworth, 00BJ (973)","3/1/2020 - 3/31/2020, Every day, Daily Average",1546,1118,2136
+"160","London Borough of Hammersmith and Fulham, London","974","Westminster, 00BK (974)","3/1/2020 - 3/31/2020, Every day, Daily Average",1189,787,1795
+"160","London Borough of Hammersmith and Fulham, London","975","Westminster, 00BK (975)","3/1/2020 - 3/31/2020, Every day, Daily Average",1035,796,1344
+"160","London Borough of Hammersmith and Fulham, London","976","Westminster, 00BK (976)","3/1/2020 - 3/31/2020, Every day, Daily Average",820,604,1113
+"160","London Borough of Hammersmith and Fulham, London","977","Westminster, 00BK (977)","3/1/2020 - 3/31/2020, Every day, Daily Average",962,689,1343
+"160","London Borough of Hammersmith and Fulham, London","978","Westminster, 00BK (978)","3/1/2020 - 3/31/2020, Every day, Daily Average",915,660,1268
+"160","London Borough of Hammersmith and Fulham, London","979","Westminster, 00BK (979)","3/1/2020 - 3/31/2020, Every day, Daily Average",726,530,993
+"160","London Borough of Hammersmith and Fulham, London","980","Westminster, 00BK (980)","3/1/2020 - 3/31/2020, Every day, Daily Average",1596,1178,2161
+"160","London Borough of Hammersmith and Fulham, London","981","Westminster, 00BK (981)","3/1/2020 - 3/31/2020, Every day, Daily Average",1478,1119,1950
+"160","London Borough of Hammersmith and Fulham, London","982","Westminster, 00BK (982)","3/1/2020 - 3/31/2020, Every day, Daily Average",1449,1080,1943

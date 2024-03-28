@@ -1,0 +1,892 @@
+"Origin Movement ID","Origin Display Name","Destination Movement ID","Destination Display Name","Date Range","Mean Travel Time (Seconds)","Range - Lower Bound Travel Time (Seconds)","Range - Upper Bound Travel Time (Seconds)"
+"573","Camden, 00AG (573)","0","Hillingdon, 00AS (0)","3/1/2020 - 3/31/2020, Every day, Daily Average",2511,1994,3160
+"573","Camden, 00AG (573)","1","Newham, 00BB (1)","3/1/2020 - 3/31/2020, Every day, Daily Average",2376,1772,3184
+"573","Camden, 00AG (573)","2","Newham, 00BB (2)","3/1/2020 - 3/31/2020, Every day, Daily Average",1776,1323,2384
+"573","Camden, 00AG (573)","3","Newham, 00BB (3)","3/1/2020 - 3/31/2020, Every day, Daily Average",2268,1609,3195
+"573","Camden, 00AG (573)","4","Newham, 00BB (4)","3/1/2020 - 3/31/2020, Every day, Daily Average",1834,1377,2442
+"573","Camden, 00AG (573)","5","Lambeth, 00AY (5)","3/1/2020 - 3/31/2020, Every day, Daily Average",1246,952,1630
+"573","Camden, 00AG (573)","6","Lambeth, 00AY (6)","3/1/2020 - 3/31/2020, Every day, Daily Average",1360,1044,1769
+"573","Camden, 00AG (573)","7","Richmond upon Thames, 00BD (7)","3/1/2020 - 3/31/2020, Every day, Daily Average",3177,2523,3999
+"573","Camden, 00AG (573)","8","Richmond upon Thames, 00BD (8)","3/1/2020 - 3/31/2020, Every day, Daily Average",3512,2730,4517
+"573","Camden, 00AG (573)","9","Southwark, 00BE (9)","3/1/2020 - 3/31/2020, Every day, Daily Average",1717,1352,2179
+"573","Camden, 00AG (573)","10","Newham, 00BB (10)","3/1/2020 - 3/31/2020, Every day, Daily Average",1871,1437,2435
+"573","Camden, 00AG (573)","11","Redbridge, 00BC (11)","3/1/2020 - 3/31/2020, Every day, Daily Average",2750,2154,3510
+"573","Camden, 00AG (573)","14","Redbridge, 00BC (14)","3/1/2020 - 3/31/2020, Every day, Daily Average",2607,1989,3415
+"573","Camden, 00AG (573)","15","Wandsworth, 00BJ (15)","3/1/2020 - 3/31/2020, Every day, Daily Average",2341,1869,2932
+"573","Camden, 00AG (573)","16","Southwark, 00BE (16)","3/1/2020 - 3/31/2020, Every day, Daily Average",1792,1404,2287
+"573","Camden, 00AG (573)","17","Wandsworth, 00BJ (17)","3/1/2020 - 3/31/2020, Every day, Daily Average",2021,1547,2638
+"573","Camden, 00AG (573)","18","Westminster, 00BK (18)","3/1/2020 - 3/31/2020, Every day, Daily Average",1206,869,1671
+"573","Camden, 00AG (573)","19","Westminster, 00BK (19)","3/1/2020 - 3/31/2020, Every day, Daily Average",1176,834,1657
+"573","Camden, 00AG (573)","20","Westminster, 00BK (20)","3/1/2020 - 3/31/2020, Every day, Daily Average",1085,771,1525
+"573","Camden, 00AG (573)","21","City of London, 00AA (21)","3/1/2020 - 3/31/2020, Every day, Daily Average",496,247,994
+"573","Camden, 00AG (573)","22","Barking and Dagenham, 00AB (22)","3/1/2020 - 3/31/2020, Every day, Daily Average",2967,2273,3871
+"573","Camden, 00AG (573)","23","Barking and Dagenham, 00AB (23)","3/1/2020 - 3/31/2020, Every day, Daily Average",2939,2288,3774
+"573","Camden, 00AG (573)","25","Barking and Dagenham, 00AB (25)","3/1/2020 - 3/31/2020, Every day, Daily Average",2591,2104,3190
+"573","Camden, 00AG (573)","27","Barking and Dagenham, 00AB (27)","3/1/2020 - 3/31/2020, Every day, Daily Average",2571,2148,3076
+"573","Camden, 00AG (573)","28","Barking and Dagenham, 00AB (28)","3/1/2020 - 3/31/2020, Every day, Daily Average",2512,2041,3090
+"573","Camden, 00AG (573)","29","Barking and Dagenham, 00AB (29)","3/1/2020 - 3/31/2020, Every day, Daily Average",2432,1907,3101
+"573","Camden, 00AG (573)","32","Barking and Dagenham, 00AB (32)","3/1/2020 - 3/31/2020, Every day, Daily Average",2456,1906,3163
+"573","Camden, 00AG (573)","33","Barking and Dagenham, 00AB (33)","3/1/2020 - 3/31/2020, Every day, Daily Average",2359,1854,3000
+"573","Camden, 00AG (573)","35","Barking and Dagenham, 00AB (35)","3/1/2020 - 3/31/2020, Every day, Daily Average",2414,2006,2904
+"573","Camden, 00AG (573)","36","Barking and Dagenham, 00AB (36)","3/1/2020 - 3/31/2020, Every day, Daily Average",2118,1604,2796
+"573","Camden, 00AG (573)","37","Barking and Dagenham, 00AB (37)","3/1/2020 - 3/31/2020, Every day, Daily Average",2345,1789,3073
+"573","Camden, 00AG (573)","38","Barking and Dagenham, 00AB (38)","3/1/2020 - 3/31/2020, Every day, Daily Average",2153,1593,2909
+"573","Camden, 00AG (573)","39","Barking and Dagenham, 00AB (39)","3/1/2020 - 3/31/2020, Every day, Daily Average",2258,1739,2931
+"573","Camden, 00AG (573)","40","Barking and Dagenham, 00AB (40)","3/1/2020 - 3/31/2020, Every day, Daily Average",2095,1595,2751
+"573","Camden, 00AG (573)","41","Barking and Dagenham, 00AB (41)","3/1/2020 - 3/31/2020, Every day, Daily Average",2314,1800,2973
+"573","Camden, 00AG (573)","42","Barnet, 00AC (42)","3/1/2020 - 3/31/2020, Every day, Daily Average",2667,1973,3603
+"573","Camden, 00AG (573)","43","Barnet, 00AC (43)","3/1/2020 - 3/31/2020, Every day, Daily Average",2136,1668,2734
+"573","Camden, 00AG (573)","44","Barnet, 00AC (44)","3/1/2020 - 3/31/2020, Every day, Daily Average",2291,1742,3012
+"573","Camden, 00AG (573)","45","Barnet, 00AC (45)","3/1/2020 - 3/31/2020, Every day, Daily Average",2489,1911,3240
+"573","Camden, 00AG (573)","46","Barnet, 00AC (46)","3/1/2020 - 3/31/2020, Every day, Daily Average",2382,1690,3355
+"573","Camden, 00AG (573)","47","Barnet, 00AC (47)","3/1/2020 - 3/31/2020, Every day, Daily Average",2138,1566,2918
+"573","Camden, 00AG (573)","48","Barnet, 00AC (48)","3/1/2020 - 3/31/2020, Every day, Daily Average",2133,1624,2801
+"573","Camden, 00AG (573)","49","Barnet, 00AC (49)","3/1/2020 - 3/31/2020, Every day, Daily Average",2078,1622,2660
+"573","Camden, 00AG (573)","50","Barnet, 00AC (50)","3/1/2020 - 3/31/2020, Every day, Daily Average",2165,1687,2777
+"573","Camden, 00AG (573)","51","Barnet, 00AC (51)","3/1/2020 - 3/31/2020, Every day, Daily Average",2045,1530,2731
+"573","Camden, 00AG (573)","52","Barnet, 00AC (52)","3/1/2020 - 3/31/2020, Every day, Daily Average",2016,1559,2605
+"573","Camden, 00AG (573)","53","Barnet, 00AC (53)","3/1/2020 - 3/31/2020, Every day, Daily Average",2295,1824,2887
+"573","Camden, 00AG (573)","54","Barnet, 00AC (54)","3/1/2020 - 3/31/2020, Every day, Daily Average",2380,1835,3086
+"573","Camden, 00AG (573)","55","Barnet, 00AC (55)","3/1/2020 - 3/31/2020, Every day, Daily Average",1950,1469,2586
+"573","Camden, 00AG (573)","56","Barnet, 00AC (56)","3/1/2020 - 3/31/2020, Every day, Daily Average",2231,1685,2953
+"573","Camden, 00AG (573)","57","Barnet, 00AC (57)","3/1/2020 - 3/31/2020, Every day, Daily Average",2360,1819,3061
+"573","Camden, 00AG (573)","58","Barnet, 00AC (58)","3/1/2020 - 3/31/2020, Every day, Daily Average",1920,1440,2559
+"573","Camden, 00AG (573)","59","Barnet, 00AC (59)","3/1/2020 - 3/31/2020, Every day, Daily Average",2101,1608,2744
+"573","Camden, 00AG (573)","60","Barnet, 00AC (60)","3/1/2020 - 3/31/2020, Every day, Daily Average",2087,1624,2681
+"573","Camden, 00AG (573)","61","Barnet, 00AC (61)","3/1/2020 - 3/31/2020, Every day, Daily Average",1954,1501,2542
+"573","Camden, 00AG (573)","62","Barnet, 00AC (62)","3/1/2020 - 3/31/2020, Every day, Daily Average",1604,1208,2128
+"573","Camden, 00AG (573)","63","Barnet, 00AC (63)","3/1/2020 - 3/31/2020, Every day, Daily Average",1975,1537,2536
+"573","Camden, 00AG (573)","64","Brent, 00AE (64)","3/1/2020 - 3/31/2020, Every day, Daily Average",1416,1049,1910
+"573","Camden, 00AG (573)","65","Brent, 00AE (65)","3/1/2020 - 3/31/2020, Every day, Daily Average",1203,875,1652
+"573","Camden, 00AG (573)","66","Bromley, 00AF (66)","3/1/2020 - 3/31/2020, Every day, Daily Average",2747,2137,3529
+"573","Camden, 00AG (573)","67","Bromley, 00AF (67)","3/1/2020 - 3/31/2020, Every day, Daily Average",2905,2301,3666
+"573","Camden, 00AG (573)","68","Bromley, 00AF (68)","3/1/2020 - 3/31/2020, Every day, Daily Average",2722,2091,3543
+"573","Camden, 00AG (573)","69","Bromley, 00AF (69)","3/1/2020 - 3/31/2020, Every day, Daily Average",2557,2053,3184
+"573","Camden, 00AG (573)","70","Bromley, 00AF (70)","3/1/2020 - 3/31/2020, Every day, Daily Average",2417,1957,2985
+"573","Camden, 00AG (573)","71","Bromley, 00AF (71)","3/1/2020 - 3/31/2020, Every day, Daily Average",2728,2192,3394
+"573","Camden, 00AG (573)","72","Bromley, 00AF (72)","3/1/2020 - 3/31/2020, Every day, Daily Average",3122,2435,4002
+"573","Camden, 00AG (573)","73","Bromley, 00AF (73)","3/1/2020 - 3/31/2020, Every day, Daily Average",2783,2165,3576
+"573","Camden, 00AG (573)","74","Bromley, 00AF (74)","3/1/2020 - 3/31/2020, Every day, Daily Average",2523,2046,3110
+"573","Camden, 00AG (573)","75","Bromley, 00AF (75)","3/1/2020 - 3/31/2020, Every day, Daily Average",3388,2695,4258
+"573","Camden, 00AG (573)","76","Bromley, 00AF (76)","3/1/2020 - 3/31/2020, Every day, Daily Average",2819,2222,3576
+"573","Camden, 00AG (573)","77","Bromley, 00AF (77)","3/1/2020 - 3/31/2020, Every day, Daily Average",2914,2307,3679
+"573","Camden, 00AG (573)","78","Bromley, 00AF (78)","3/1/2020 - 3/31/2020, Every day, Daily Average",2713,2188,3363
+"573","Camden, 00AG (573)","79","Bromley, 00AF (79)","3/1/2020 - 3/31/2020, Every day, Daily Average",3090,2406,3967
+"573","Camden, 00AG (573)","80","Bromley, 00AF (80)","3/1/2020 - 3/31/2020, Every day, Daily Average",2655,2163,3257
+"573","Camden, 00AG (573)","81","Bromley, 00AF (81)","3/1/2020 - 3/31/2020, Every day, Daily Average",3079,2348,4036
+"573","Camden, 00AG (573)","82","Bromley, 00AF (82)","3/1/2020 - 3/31/2020, Every day, Daily Average",2802,2285,3434
+"573","Camden, 00AG (573)","83","Camden, 00AG (83)","3/1/2020 - 3/31/2020, Every day, Daily Average",1320,982,1773
+"573","Camden, 00AG (573)","84","Camden, 00AG (84)","3/1/2020 - 3/31/2020, Every day, Daily Average",1273,966,1677
+"573","Camden, 00AG (573)","85","Camden, 00AG (85)","3/1/2020 - 3/31/2020, Every day, Daily Average",1028,774,1363
+"573","Camden, 00AG (573)","86","Camden, 00AG (86)","3/1/2020 - 3/31/2020, Every day, Daily Average",796,562,1126
+"573","Camden, 00AG (573)","88","Greenwich, 00AL (88)","3/1/2020 - 3/31/2020, Every day, Daily Average",2560,1925,3403
+"573","Camden, 00AG (573)","89","Greenwich, 00AL (89)","3/1/2020 - 3/31/2020, Every day, Daily Average",2795,2111,3699
+"573","Camden, 00AG (573)","90","Greenwich, 00AL (90)","3/1/2020 - 3/31/2020, Every day, Daily Average",2481,1862,3305
+"573","Camden, 00AG (573)","91","Greenwich, 00AL (91)","3/1/2020 - 3/31/2020, Every day, Daily Average",3041,2297,4025
+"573","Camden, 00AG (573)","92","Greenwich, 00AL (92)","3/1/2020 - 3/31/2020, Every day, Daily Average",2153,1635,2833
+"573","Camden, 00AG (573)","93","Greenwich, 00AL (93)","3/1/2020 - 3/31/2020, Every day, Daily Average",2611,1949,3496
+"573","Camden, 00AG (573)","94","Greenwich, 00AL (94)","3/1/2020 - 3/31/2020, Every day, Daily Average",2310,1664,3205
+"573","Camden, 00AG (573)","95","Greenwich, 00AL (95)","3/1/2020 - 3/31/2020, Every day, Daily Average",2805,2105,3736
+"573","Camden, 00AG (573)","96","Greenwich, 00AL (96)","3/1/2020 - 3/31/2020, Every day, Daily Average",1965,1459,2645
+"573","Camden, 00AG (573)","97","Greenwich, 00AL (97)","3/1/2020 - 3/31/2020, Every day, Daily Average",2208,1671,2917
+"573","Camden, 00AG (573)","98","Greenwich, 00AL (98)","3/1/2020 - 3/31/2020, Every day, Daily Average",2674,2053,3482
+"573","Camden, 00AG (573)","99","Greenwich, 00AL (99)","3/1/2020 - 3/31/2020, Every day, Daily Average",2224,1635,3024
+"573","Camden, 00AG (573)","100","Greenwich, 00AL (100)","3/1/2020 - 3/31/2020, Every day, Daily Average",2239,1686,2971
+"573","Camden, 00AG (573)","101","Greenwich, 00AL (101)","3/1/2020 - 3/31/2020, Every day, Daily Average",2490,1795,3454
+"573","Camden, 00AG (573)","102","Greenwich, 00AL (102)","3/1/2020 - 3/31/2020, Every day, Daily Average",2315,1759,3045
+"573","Camden, 00AG (573)","103","Greenwich, 00AL (103)","3/1/2020 - 3/31/2020, Every day, Daily Average",2390,1828,3123
+"573","Camden, 00AG (573)","104","Greenwich, 00AL (104)","3/1/2020 - 3/31/2020, Every day, Daily Average",2460,1803,3356
+"573","Camden, 00AG (573)","105","Greenwich, 00AL (105)","3/1/2020 - 3/31/2020, Every day, Daily Average",2545,1869,3465
+"573","Camden, 00AG (573)","106","Camden, 00AG (106)","3/1/2020 - 3/31/2020, Every day, Daily Average",265,128,546
+"573","Camden, 00AG (573)","107","Croydon, 00AH (107)","3/1/2020 - 3/31/2020, Every day, Daily Average",2867,2289,3590
+"573","Camden, 00AG (573)","108","Croydon, 00AH (108)","3/1/2020 - 3/31/2020, Every day, Daily Average",2941,2303,3754
+"573","Camden, 00AG (573)","109","Croydon, 00AH (109)","3/1/2020 - 3/31/2020, Every day, Daily Average",2505,1972,3181
+"573","Camden, 00AG (573)","110","Croydon, 00AH (110)","3/1/2020 - 3/31/2020, Every day, Daily Average",2521,2020,3144
+"573","Camden, 00AG (573)","112","Croydon, 00AH (112)","3/1/2020 - 3/31/2020, Every day, Daily Average",3239,2645,3965
+"573","Camden, 00AG (573)","113","Croydon, 00AH (113)","3/1/2020 - 3/31/2020, Every day, Daily Average",2572,2058,3213
+"573","Camden, 00AG (573)","114","Croydon, 00AH (114)","3/1/2020 - 3/31/2020, Every day, Daily Average",2875,2297,3597
+"573","Camden, 00AG (573)","115","Croydon, 00AH (115)","3/1/2020 - 3/31/2020, Every day, Daily Average",3254,2611,4054
+"573","Camden, 00AG (573)","116","Enfield, 00AK (116)","3/1/2020 - 3/31/2020, Every day, Daily Average",2390,1903,3001
+"573","Camden, 00AG (573)","117","Enfield, 00AK (117)","3/1/2020 - 3/31/2020, Every day, Daily Average",2607,2080,3267
+"573","Camden, 00AG (573)","118","Enfield, 00AK (118)","3/1/2020 - 3/31/2020, Every day, Daily Average",2381,1909,2968
+"573","Camden, 00AG (573)","119","Enfield, 00AK (119)","3/1/2020 - 3/31/2020, Every day, Daily Average",2388,1884,3026
+"573","Camden, 00AG (573)","120","Enfield, 00AK (120)","3/1/2020 - 3/31/2020, Every day, Daily Average",2334,1837,2964
+"573","Camden, 00AG (573)","121","Enfield, 00AK (121)","3/1/2020 - 3/31/2020, Every day, Daily Average",2556,1985,3290
+"573","Camden, 00AG (573)","122","Enfield, 00AK (122)","3/1/2020 - 3/31/2020, Every day, Daily Average",2493,1834,3388
+"573","Camden, 00AG (573)","123","Enfield, 00AK (123)","3/1/2020 - 3/31/2020, Every day, Daily Average",2511,1923,3278
+"573","Camden, 00AG (573)","124","Enfield, 00AK (124)","3/1/2020 - 3/31/2020, Every day, Daily Average",2491,1882,3296
+"573","Camden, 00AG (573)","125","Enfield, 00AK (125)","3/1/2020 - 3/31/2020, Every day, Daily Average",2269,1756,2931
+"573","Camden, 00AG (573)","126","Enfield, 00AK (126)","3/1/2020 - 3/31/2020, Every day, Daily Average",2437,1856,3198
+"573","Camden, 00AG (573)","128","Enfield, 00AK (128)","3/1/2020 - 3/31/2020, Every day, Daily Average",2461,1804,3356
+"573","Camden, 00AG (573)","129","Enfield, 00AK (129)","3/1/2020 - 3/31/2020, Every day, Daily Average",2363,1778,3138
+"573","Camden, 00AG (573)","130","Enfield, 00AK (130)","3/1/2020 - 3/31/2020, Every day, Daily Average",2218,1703,2887
+"573","Camden, 00AG (573)","131","Enfield, 00AK (131)","3/1/2020 - 3/31/2020, Every day, Daily Average",2557,1892,3454
+"573","Camden, 00AG (573)","132","Enfield, 00AK (132)","3/1/2020 - 3/31/2020, Every day, Daily Average",2323,1716,3143
+"573","Camden, 00AG (573)","133","Enfield, 00AK (133)","3/1/2020 - 3/31/2020, Every day, Daily Average",2222,1666,2962
+"573","Camden, 00AG (573)","134","Enfield, 00AK (134)","3/1/2020 - 3/31/2020, Every day, Daily Average",2516,1842,3436
+"573","Camden, 00AG (573)","135","Enfield, 00AK (135)","3/1/2020 - 3/31/2020, Every day, Daily Average",2253,1697,2991
+"573","Camden, 00AG (573)","136","Enfield, 00AK (136)","3/1/2020 - 3/31/2020, Every day, Daily Average",2131,1583,2868
+"573","Camden, 00AG (573)","137","Enfield, 00AK (137)","3/1/2020 - 3/31/2020, Every day, Daily Average",2402,1751,3293
+"573","Camden, 00AG (573)","138","Enfield, 00AK (138)","3/1/2020 - 3/31/2020, Every day, Daily Average",2139,1608,2844
+"573","Camden, 00AG (573)","139","Enfield, 00AK (139)","3/1/2020 - 3/31/2020, Every day, Daily Average",2112,1593,2798
+"573","Camden, 00AG (573)","140","Enfield, 00AK (140)","3/1/2020 - 3/31/2020, Every day, Daily Average",2142,1609,2851
+"573","Camden, 00AG (573)","141","Greenwich, 00AL (141)","3/1/2020 - 3/31/2020, Every day, Daily Average",2919,2210,3854
+"573","Camden, 00AG (573)","142","Greenwich, 00AL (142)","3/1/2020 - 3/31/2020, Every day, Daily Average",2485,1901,3247
+"573","Camden, 00AG (573)","143","Greenwich, 00AL (143)","3/1/2020 - 3/31/2020, Every day, Daily Average",2863,2225,3683
+"573","Camden, 00AG (573)","144","Greenwich, 00AL (144)","3/1/2020 - 3/31/2020, Every day, Daily Average",2575,2002,3310
+"573","Camden, 00AG (573)","145","Greenwich, 00AL (145)","3/1/2020 - 3/31/2020, Every day, Daily Average",2682,2122,3389
+"573","Camden, 00AG (573)","146","Hackney, 00AM (146)","3/1/2020 - 3/31/2020, Every day, Daily Average",1650,1224,2223
+"573","Camden, 00AG (573)","147","Hackney, 00AM (147)","3/1/2020 - 3/31/2020, Every day, Daily Average",1311,987,1740
+"573","Camden, 00AG (573)","148","Hackney, 00AM (148)","3/1/2020 - 3/31/2020, Every day, Daily Average",1562,1195,2040
+"573","Camden, 00AG (573)","149","Hackney, 00AM (149)","3/1/2020 - 3/31/2020, Every day, Daily Average",1571,1161,2125
+"573","Camden, 00AG (573)","150","Hackney, 00AM (150)","3/1/2020 - 3/31/2020, Every day, Daily Average",1637,1230,2177
+"573","Camden, 00AG (573)","151","Hackney, 00AM (151)","3/1/2020 - 3/31/2020, Every day, Daily Average",1470,1116,1935
+"573","Camden, 00AG (573)","152","Hackney, 00AM (152)","3/1/2020 - 3/31/2020, Every day, Daily Average",1180,874,1591
+"573","Camden, 00AG (573)","153","Hackney, 00AM (153)","3/1/2020 - 3/31/2020, Every day, Daily Average",1641,1221,2204
+"573","Camden, 00AG (573)","154","Hackney, 00AM (154)","3/1/2020 - 3/31/2020, Every day, Daily Average",1463,1103,1940
+"573","Camden, 00AG (573)","155","Hackney, 00AM (155)","3/1/2020 - 3/31/2020, Every day, Daily Average",1154,841,1581
+"573","Camden, 00AG (573)","156","Hackney, 00AM (156)","3/1/2020 - 3/31/2020, Every day, Daily Average",1101,827,1464
+"573","Camden, 00AG (573)","157","Hackney, 00AM (157)","3/1/2020 - 3/31/2020, Every day, Daily Average",907,654,1256
+"573","Camden, 00AG (573)","158","Hammersmith and Fulham, 00AN (158)","3/1/2020 - 3/31/2020, Every day, Daily Average",1167,844,1611
+"573","Camden, 00AG (573)","159","Hammersmith and Fulham, 00AN (159)","3/1/2020 - 3/31/2020, Every day, Daily Average",1724,1294,2295
+"573","Camden, 00AG (573)","160","Hammersmith and Fulham, 00AN (160)","3/1/2020 - 3/31/2020, Every day, Daily Average",1549,1153,2079
+"573","Camden, 00AG (573)","161","Hammersmith and Fulham, 00AN (161)","3/1/2020 - 3/31/2020, Every day, Daily Average",1824,1327,2505
+"573","Camden, 00AG (573)","162","Haringey, 00AP (162)","3/1/2020 - 3/31/2020, Every day, Daily Average",1979,1494,2620
+"573","Camden, 00AG (573)","163","Haringey, 00AP (163)","3/1/2020 - 3/31/2020, Every day, Daily Average",2240,1616,3103
+"573","Camden, 00AG (573)","164","Haringey, 00AP (164)","3/1/2020 - 3/31/2020, Every day, Daily Average",2261,1628,3139
+"573","Camden, 00AG (573)","165","Haringey, 00AP (165)","3/1/2020 - 3/31/2020, Every day, Daily Average",2061,1520,2792
+"573","Camden, 00AG (573)","166","Haringey, 00AP (166)","3/1/2020 - 3/31/2020, Every day, Daily Average",2031,1527,2701
+"573","Camden, 00AG (573)","167","Haringey, 00AP (167)","3/1/2020 - 3/31/2020, Every day, Daily Average",2081,1565,2765
+"573","Camden, 00AG (573)","168","Haringey, 00AP (168)","3/1/2020 - 3/31/2020, Every day, Daily Average",1871,1412,2479
+"573","Camden, 00AG (573)","169","Haringey, 00AP (169)","3/1/2020 - 3/31/2020, Every day, Daily Average",1956,1472,2598
+"573","Camden, 00AG (573)","170","Haringey, 00AP (170)","3/1/2020 - 3/31/2020, Every day, Daily Average",1908,1474,2469
+"573","Camden, 00AG (573)","171","Haringey, 00AP (171)","3/1/2020 - 3/31/2020, Every day, Daily Average",1842,1395,2431
+"573","Camden, 00AG (573)","172","Haringey, 00AP (172)","3/1/2020 - 3/31/2020, Every day, Daily Average",1938,1458,2575
+"573","Camden, 00AG (573)","173","Haringey, 00AP (173)","3/1/2020 - 3/31/2020, Every day, Daily Average",1650,1226,2219
+"573","Camden, 00AG (573)","174","Haringey, 00AP (174)","3/1/2020 - 3/31/2020, Every day, Daily Average",1668,1278,2176
+"573","Camden, 00AG (573)","175","Haringey, 00AP (175)","3/1/2020 - 3/31/2020, Every day, Daily Average",1656,1255,2183
+"573","Camden, 00AG (573)","176","Haringey, 00AP (176)","3/1/2020 - 3/31/2020, Every day, Daily Average",1733,1346,2230
+"573","Camden, 00AG (573)","177","Haringey, 00AP (177)","3/1/2020 - 3/31/2020, Every day, Daily Average",1586,1187,2118
+"573","Camden, 00AG (573)","178","Haringey, 00AP (178)","3/1/2020 - 3/31/2020, Every day, Daily Average",1656,1232,2224
+"573","Camden, 00AG (573)","179","Haringey, 00AP (179)","3/1/2020 - 3/31/2020, Every day, Daily Average",1695,1256,2286
+"573","Camden, 00AG (573)","180","Haringey, 00AP (180)","3/1/2020 - 3/31/2020, Every day, Daily Average",1567,1140,2152
+"573","Camden, 00AG (573)","181","Haringey, 00AP (181)","3/1/2020 - 3/31/2020, Every day, Daily Average",1485,1106,1992
+"573","Camden, 00AG (573)","182","Haringey, 00AP (182)","3/1/2020 - 3/31/2020, Every day, Daily Average",1583,1212,2066
+"573","Camden, 00AG (573)","183","Haringey, 00AP (183)","3/1/2020 - 3/31/2020, Every day, Daily Average",1744,1298,2342
+"573","Camden, 00AG (573)","184","Haringey, 00AP (184)","3/1/2020 - 3/31/2020, Every day, Daily Average",1437,1075,1919
+"573","Camden, 00AG (573)","185","Haringey, 00AP (185)","3/1/2020 - 3/31/2020, Every day, Daily Average",1314,968,1783
+"573","Camden, 00AG (573)","186","Haringey, 00AP (186)","3/1/2020 - 3/31/2020, Every day, Daily Average",1479,1105,1978
+"573","Camden, 00AG (573)","187","Haringey, 00AP (187)","3/1/2020 - 3/31/2020, Every day, Daily Average",1481,1138,1926
+"573","Camden, 00AG (573)","188","Haringey, 00AP (188)","3/1/2020 - 3/31/2020, Every day, Daily Average",1518,1148,2007
+"573","Camden, 00AG (573)","189","Harrow, 00AQ (189)","3/1/2020 - 3/31/2020, Every day, Daily Average",2728,2186,3403
+"573","Camden, 00AG (573)","190","Harrow, 00AQ (190)","3/1/2020 - 3/31/2020, Every day, Daily Average",2900,2340,3592
+"573","Camden, 00AG (573)","191","Harrow, 00AQ (191)","3/1/2020 - 3/31/2020, Every day, Daily Average",2199,1680,2877
+"573","Camden, 00AG (573)","192","Harrow, 00AQ (192)","3/1/2020 - 3/31/2020, Every day, Daily Average",2803,2154,3646
+"573","Camden, 00AG (573)","193","Harrow, 00AQ (193)","3/1/2020 - 3/31/2020, Every day, Daily Average",3128,2566,3811
+"573","Camden, 00AG (573)","194","Harrow, 00AQ (194)","3/1/2020 - 3/31/2020, Every day, Daily Average",2623,1905,3609
+"573","Camden, 00AG (573)","195","Harrow, 00AQ (195)","3/1/2020 - 3/31/2020, Every day, Daily Average",2505,2093,2997
+"573","Camden, 00AG (573)","196","Harrow, 00AQ (196)","3/1/2020 - 3/31/2020, Every day, Daily Average",2625,2000,3443
+"573","Camden, 00AG (573)","197","Harrow, 00AQ (197)","3/1/2020 - 3/31/2020, Every day, Daily Average",2430,1998,2954
+"573","Camden, 00AG (573)","198","Harrow, 00AQ (198)","3/1/2020 - 3/31/2020, Every day, Daily Average",2735,2184,3423
+"573","Camden, 00AG (573)","199","Harrow, 00AQ (199)","3/1/2020 - 3/31/2020, Every day, Daily Average",2742,2263,3321
+"573","Camden, 00AG (573)","200","Harrow, 00AQ (200)","3/1/2020 - 3/31/2020, Every day, Daily Average",2745,2226,3384
+"573","Camden, 00AG (573)","201","Islington, 00AU (201)","3/1/2020 - 3/31/2020, Every day, Daily Average",812,582,1131
+"573","Camden, 00AG (573)","202","Islington, 00AU (202)","3/1/2020 - 3/31/2020, Every day, Daily Average",747,535,1042
+"573","Camden, 00AG (573)","203","Islington, 00AU (203)","3/1/2020 - 3/31/2020, Every day, Daily Average",814,577,1147
+"573","Camden, 00AG (573)","204","Islington, 00AU (204)","3/1/2020 - 3/31/2020, Every day, Daily Average",658,461,938
+"573","Camden, 00AG (573)","205","Kensington and Chelsea, 00AW (205)","3/1/2020 - 3/31/2020, Every day, Daily Average",1120,805,1556
+"573","Camden, 00AG (573)","206","Kensington and Chelsea, 00AW (206)","3/1/2020 - 3/31/2020, Every day, Daily Average",1091,772,1541
+"573","Camden, 00AG (573)","207","Kensington and Chelsea, 00AW (207)","3/1/2020 - 3/31/2020, Every day, Daily Average",1128,814,1562
+"573","Camden, 00AG (573)","208","Kensington and Chelsea, 00AW (208)","3/1/2020 - 3/31/2020, Every day, Daily Average",1311,958,1792
+"573","Camden, 00AG (573)","209","Kensington and Chelsea, 00AW (209)","3/1/2020 - 3/31/2020, Every day, Daily Average",1373,988,1907
+"573","Camden, 00AG (573)","210","Kensington and Chelsea, 00AW (210)","3/1/2020 - 3/31/2020, Every day, Daily Average",1103,771,1577
+"573","Camden, 00AG (573)","211","Kensington and Chelsea, 00AW (211)","3/1/2020 - 3/31/2020, Every day, Daily Average",1395,1006,1934
+"573","Camden, 00AG (573)","212","Kensington and Chelsea, 00AW (212)","3/1/2020 - 3/31/2020, Every day, Daily Average",1192,844,1682
+"573","Camden, 00AG (573)","213","Kensington and Chelsea, 00AW (213)","3/1/2020 - 3/31/2020, Every day, Daily Average",1293,923,1809
+"573","Camden, 00AG (573)","214","Kensington and Chelsea, 00AW (214)","3/1/2020 - 3/31/2020, Every day, Daily Average",1360,997,1854
+"573","Camden, 00AG (573)","215","Kensington and Chelsea, 00AW (215)","3/1/2020 - 3/31/2020, Every day, Daily Average",1526,1094,2127
+"573","Camden, 00AG (573)","216","Kingston upon Thames, 00AX (216)","3/1/2020 - 3/31/2020, Every day, Daily Average",2716,2125,3470
+"573","Camden, 00AG (573)","218","Kingston upon Thames, 00AX (218)","3/1/2020 - 3/31/2020, Every day, Daily Average",3123,2492,3913
+"573","Camden, 00AG (573)","221","Kingston upon Thames, 00AX (221)","3/1/2020 - 3/31/2020, Every day, Daily Average",2716,2149,3432
+"573","Camden, 00AG (573)","222","Kingston upon Thames, 00AX (222)","3/1/2020 - 3/31/2020, Every day, Daily Average",2842,2307,3499
+"573","Camden, 00AG (573)","223","Kingston upon Thames, 00AX (223)","3/1/2020 - 3/31/2020, Every day, Daily Average",2766,2206,3467
+"573","Camden, 00AG (573)","224","Kingston upon Thames, 00AX (224)","3/1/2020 - 3/31/2020, Every day, Daily Average",2685,2110,3416
+"573","Camden, 00AG (573)","225","Kingston upon Thames, 00AX (225)","3/1/2020 - 3/31/2020, Every day, Daily Average",2909,2316,3652
+"573","Camden, 00AG (573)","226","Kingston upon Thames, 00AX (226)","3/1/2020 - 3/31/2020, Every day, Daily Average",2823,2260,3524
+"573","Camden, 00AG (573)","227","Kingston upon Thames, 00AX (227)","3/1/2020 - 3/31/2020, Every day, Daily Average",2912,2325,3647
+"573","Camden, 00AG (573)","229","Kingston upon Thames, 00AX (229)","3/1/2020 - 3/31/2020, Every day, Daily Average",3052,2452,3798
+"573","Camden, 00AG (573)","230","Lambeth, 00AY (230)","3/1/2020 - 3/31/2020, Every day, Daily Average",826,596,1143
+"573","Camden, 00AG (573)","231","Lambeth, 00AY (231)","3/1/2020 - 3/31/2020, Every day, Daily Average",1019,760,1366
+"573","Camden, 00AG (573)","232","Lambeth, 00AY (232)","3/1/2020 - 3/31/2020, Every day, Daily Average",1084,794,1478
+"573","Camden, 00AG (573)","233","Lambeth, 00AY (233)","3/1/2020 - 3/31/2020, Every day, Daily Average",1337,1006,1775
+"573","Camden, 00AG (573)","234","Lambeth, 00AY (234)","3/1/2020 - 3/31/2020, Every day, Daily Average",1466,1122,1914
+"573","Camden, 00AG (573)","235","Lambeth, 00AY (235)","3/1/2020 - 3/31/2020, Every day, Daily Average",1518,1158,1989
+"573","Camden, 00AG (573)","236","Lambeth, 00AY (236)","3/1/2020 - 3/31/2020, Every day, Daily Average",1458,1077,1972
+"573","Camden, 00AG (573)","237","Lambeth, 00AY (237)","3/1/2020 - 3/31/2020, Every day, Daily Average",1522,1162,1992
+"573","Camden, 00AG (573)","238","Lambeth, 00AY (238)","3/1/2020 - 3/31/2020, Every day, Daily Average",1515,1166,1967
+"573","Camden, 00AG (573)","239","Lambeth, 00AY (239)","3/1/2020 - 3/31/2020, Every day, Daily Average",1631,1274,2087
+"573","Camden, 00AG (573)","240","Lambeth, 00AY (240)","3/1/2020 - 3/31/2020, Every day, Daily Average",1663,1260,2194
+"573","Camden, 00AG (573)","241","Lambeth, 00AY (241)","3/1/2020 - 3/31/2020, Every day, Daily Average",1601,1221,2098
+"573","Camden, 00AG (573)","242","Lambeth, 00AY (242)","3/1/2020 - 3/31/2020, Every day, Daily Average",1677,1296,2169
+"573","Camden, 00AG (573)","243","Lambeth, 00AY (243)","3/1/2020 - 3/31/2020, Every day, Daily Average",1768,1367,2286
+"573","Camden, 00AG (573)","244","Lambeth, 00AY (244)","3/1/2020 - 3/31/2020, Every day, Daily Average",1915,1479,2478
+"573","Camden, 00AG (573)","245","Lambeth, 00AY (245)","3/1/2020 - 3/31/2020, Every day, Daily Average",1736,1351,2230
+"573","Camden, 00AG (573)","246","Lambeth, 00AY (246)","3/1/2020 - 3/31/2020, Every day, Daily Average",1899,1491,2417
+"573","Camden, 00AG (573)","247","Lambeth, 00AY (247)","3/1/2020 - 3/31/2020, Every day, Daily Average",1850,1432,2389
+"573","Camden, 00AG (573)","248","Lambeth, 00AY (248)","3/1/2020 - 3/31/2020, Every day, Daily Average",2088,1596,2730
+"573","Camden, 00AG (573)","249","Lambeth, 00AY (249)","3/1/2020 - 3/31/2020, Every day, Daily Average",2033,1591,2596
+"573","Camden, 00AG (573)","250","Lambeth, 00AY (250)","3/1/2020 - 3/31/2020, Every day, Daily Average",1951,1520,2504
+"573","Camden, 00AG (573)","251","Lambeth, 00AY (251)","3/1/2020 - 3/31/2020, Every day, Daily Average",2239,1687,2970
+"573","Camden, 00AG (573)","252","Lambeth, 00AY (252)","3/1/2020 - 3/31/2020, Every day, Daily Average",2274,1758,2941
+"573","Camden, 00AG (573)","253","Lambeth, 00AY (253)","3/1/2020 - 3/31/2020, Every day, Daily Average",2091,1618,2700
+"573","Camden, 00AG (573)","254","Lambeth, 00AY (254)","3/1/2020 - 3/31/2020, Every day, Daily Average",2246,1783,2828
+"573","Camden, 00AG (573)","255","Lambeth, 00AY (255)","3/1/2020 - 3/31/2020, Every day, Daily Average",2199,1702,2841
+"573","Camden, 00AG (573)","256","Lambeth, 00AY (256)","3/1/2020 - 3/31/2020, Every day, Daily Average",2468,1910,3187
+"573","Camden, 00AG (573)","257","Lewisham, 00AZ (257)","3/1/2020 - 3/31/2020, Every day, Daily Average",2180,1618,2936
+"573","Camden, 00AG (573)","258","Lewisham, 00AZ (258)","3/1/2020 - 3/31/2020, Every day, Daily Average",2116,1484,3015
+"573","Camden, 00AG (573)","259","Lewisham, 00AZ (259)","3/1/2020 - 3/31/2020, Every day, Daily Average",2211,1708,2860
+"573","Camden, 00AG (573)","260","Lewisham, 00AZ (260)","3/1/2020 - 3/31/2020, Every day, Daily Average",2184,1653,2884
+"573","Camden, 00AG (573)","261","Lewisham, 00AZ (261)","3/1/2020 - 3/31/2020, Every day, Daily Average",2122,1659,2712
+"573","Camden, 00AG (573)","262","Newham, 00BB (262)","3/1/2020 - 3/31/2020, Every day, Daily Average",2151,1668,2772
+"573","Camden, 00AG (573)","263","Newham, 00BB (263)","3/1/2020 - 3/31/2020, Every day, Daily Average",1956,1557,2455
+"573","Camden, 00AG (573)","264","Newham, 00BB (264)","3/1/2020 - 3/31/2020, Every day, Daily Average",2017,1586,2564
+"573","Camden, 00AG (573)","265","Newham, 00BB (265)","3/1/2020 - 3/31/2020, Every day, Daily Average",2007,1531,2630
+"573","Camden, 00AG (573)","266","Newham, 00BB (266)","3/1/2020 - 3/31/2020, Every day, Daily Average",2301,1670,3169
+"573","Camden, 00AG (573)","267","Newham, 00BB (267)","3/1/2020 - 3/31/2020, Every day, Daily Average",2152,1696,2730
+"573","Camden, 00AG (573)","268","Newham, 00BB (268)","3/1/2020 - 3/31/2020, Every day, Daily Average",1724,1309,2269
+"573","Camden, 00AG (573)","269","Newham, 00BB (269)","3/1/2020 - 3/31/2020, Every day, Daily Average",1772,1357,2313
+"573","Camden, 00AG (573)","270","Newham, 00BB (270)","3/1/2020 - 3/31/2020, Every day, Daily Average",1882,1443,2453
+"573","Camden, 00AG (573)","271","Newham, 00BB (271)","3/1/2020 - 3/31/2020, Every day, Daily Average",1939,1476,2545
+"573","Camden, 00AG (573)","273","Redbridge, 00BC (273)","3/1/2020 - 3/31/2020, Every day, Daily Average",2514,1907,3312
+"573","Camden, 00AG (573)","274","Redbridge, 00BC (274)","3/1/2020 - 3/31/2020, Every day, Daily Average",2781,2090,3699
+"573","Camden, 00AG (573)","275","Redbridge, 00BC (275)","3/1/2020 - 3/31/2020, Every day, Daily Average",2742,2099,3580
+"573","Camden, 00AG (573)","276","Redbridge, 00BC (276)","3/1/2020 - 3/31/2020, Every day, Daily Average",2613,1945,3509
+"573","Camden, 00AG (573)","277","Redbridge, 00BC (277)","3/1/2020 - 3/31/2020, Every day, Daily Average",2882,2182,3806
+"573","Camden, 00AG (573)","278","Redbridge, 00BC (278)","3/1/2020 - 3/31/2020, Every day, Daily Average",2222,1696,2911
+"573","Camden, 00AG (573)","279","Redbridge, 00BC (279)","3/1/2020 - 3/31/2020, Every day, Daily Average",2665,1985,3577
+"573","Camden, 00AG (573)","280","Redbridge, 00BC (280)","3/1/2020 - 3/31/2020, Every day, Daily Average",2440,1829,3253
+"573","Camden, 00AG (573)","281","Redbridge, 00BC (281)","3/1/2020 - 3/31/2020, Every day, Daily Average",2696,2025,3589
+"573","Camden, 00AG (573)","282","Redbridge, 00BC (282)","3/1/2020 - 3/31/2020, Every day, Daily Average",2370,1786,3143
+"573","Camden, 00AG (573)","283","Redbridge, 00BC (283)","3/1/2020 - 3/31/2020, Every day, Daily Average",3045,2275,4075
+"573","Camden, 00AG (573)","284","Redbridge, 00BC (284)","3/1/2020 - 3/31/2020, Every day, Daily Average",2944,2159,4013
+"573","Camden, 00AG (573)","285","Southwark, 00BE (285)","3/1/2020 - 3/31/2020, Every day, Daily Average",722,511,1019
+"573","Camden, 00AG (573)","286","Southwark, 00BE (286)","3/1/2020 - 3/31/2020, Every day, Daily Average",1680,1248,2259
+"573","Camden, 00AG (573)","287","Southwark, 00BE (287)","3/1/2020 - 3/31/2020, Every day, Daily Average",980,717,1337
+"573","Camden, 00AG (573)","288","Southwark, 00BE (288)","3/1/2020 - 3/31/2020, Every day, Daily Average",1153,852,1559
+"573","Camden, 00AG (573)","289","Southwark, 00BE (289)","3/1/2020 - 3/31/2020, Every day, Daily Average",1312,998,1723
+"573","Camden, 00AG (573)","290","Southwark, 00BE (290)","3/1/2020 - 3/31/2020, Every day, Daily Average",1841,1433,2363
+"573","Camden, 00AG (573)","291","Southwark, 00BE (291)","3/1/2020 - 3/31/2020, Every day, Daily Average",1950,1539,2469
+"573","Camden, 00AG (573)","292","Southwark, 00BE (292)","3/1/2020 - 3/31/2020, Every day, Daily Average",2144,1700,2703
+"573","Camden, 00AG (573)","293","Sutton, 00BF (293)","3/1/2020 - 3/31/2020, Every day, Daily Average",3006,2298,3930
+"573","Camden, 00AG (573)","294","Sutton, 00BF (294)","3/1/2020 - 3/31/2020, Every day, Daily Average",2911,2250,3764
+"573","Camden, 00AG (573)","296","Sutton, 00BF (296)","3/1/2020 - 3/31/2020, Every day, Daily Average",3063,2378,3944
+"573","Camden, 00AG (573)","298","Sutton, 00BF (298)","3/1/2020 - 3/31/2020, Every day, Daily Average",3003,2259,3990
+"573","Camden, 00AG (573)","299","Sutton, 00BF (299)","3/1/2020 - 3/31/2020, Every day, Daily Average",2966,2312,3804
+"573","Camden, 00AG (573)","300","Sutton, 00BF (300)","3/1/2020 - 3/31/2020, Every day, Daily Average",3013,2356,3851
+"573","Camden, 00AG (573)","302","Sutton, 00BF (302)","3/1/2020 - 3/31/2020, Every day, Daily Average",3395,2658,4335
+"573","Camden, 00AG (573)","303","Sutton, 00BF (303)","3/1/2020 - 3/31/2020, Every day, Daily Average",3274,2593,4132
+"573","Camden, 00AG (573)","304","Sutton, 00BF (304)","3/1/2020 - 3/31/2020, Every day, Daily Average",3054,2375,3925
+"573","Camden, 00AG (573)","309","Sutton, 00BF (309)","3/1/2020 - 3/31/2020, Every day, Daily Average",3522,2740,4525
+"573","Camden, 00AG (573)","317","Tower Hamlets, 00BG (317)","3/1/2020 - 3/31/2020, Every day, Daily Average",1800,1377,2352
+"573","Camden, 00AG (573)","318","Tower Hamlets, 00BG (318)","3/1/2020 - 3/31/2020, Every day, Daily Average",1534,1168,2014
+"573","Camden, 00AG (573)","319","Tower Hamlets, 00BG (319)","3/1/2020 - 3/31/2020, Every day, Daily Average",1731,1294,2314
+"573","Camden, 00AG (573)","320","Tower Hamlets, 00BG (320)","3/1/2020 - 3/31/2020, Every day, Daily Average",1410,1053,1886
+"573","Camden, 00AG (573)","321","Tower Hamlets, 00BG (321)","3/1/2020 - 3/31/2020, Every day, Daily Average",1418,1049,1915
+"573","Camden, 00AG (573)","322","Tower Hamlets, 00BG (322)","3/1/2020 - 3/31/2020, Every day, Daily Average",968,671,1395
+"573","Camden, 00AG (573)","323","Tower Hamlets, 00BG (323)","3/1/2020 - 3/31/2020, Every day, Daily Average",1686,1250,2273
+"573","Camden, 00AG (573)","324","Waltham Forest, 00BH (324)","3/1/2020 - 3/31/2020, Every day, Daily Average",2220,1701,2895
+"573","Camden, 00AG (573)","325","Waltham Forest, 00BH (325)","3/1/2020 - 3/31/2020, Every day, Daily Average",2109,1606,2769
+"573","Camden, 00AG (573)","326","Waltham Forest, 00BH (326)","3/1/2020 - 3/31/2020, Every day, Daily Average",2016,1542,2634
+"573","Camden, 00AG (573)","327","Waltham Forest, 00BH (327)","3/1/2020 - 3/31/2020, Every day, Daily Average",1958,1494,2565
+"573","Camden, 00AG (573)","328","Waltham Forest, 00BH (328)","3/1/2020 - 3/31/2020, Every day, Daily Average",2059,1579,2683
+"573","Camden, 00AG (573)","329","Waltham Forest, 00BH (329)","3/1/2020 - 3/31/2020, Every day, Daily Average",2331,1804,3010
+"573","Camden, 00AG (573)","330","Wandsworth, 00BJ (330)","3/1/2020 - 3/31/2020, Every day, Daily Average",1432,1078,1900
+"573","Camden, 00AG (573)","331","Wandsworth, 00BJ (331)","3/1/2020 - 3/31/2020, Every day, Daily Average",1158,868,1543
+"573","Camden, 00AG (573)","332","Wandsworth, 00BJ (332)","3/1/2020 - 3/31/2020, Every day, Daily Average",1533,1164,2017
+"573","Camden, 00AG (573)","333","Wandsworth, 00BJ (333)","3/1/2020 - 3/31/2020, Every day, Daily Average",1696,1267,2268
+"573","Camden, 00AG (573)","334","Wandsworth, 00BJ (334)","3/1/2020 - 3/31/2020, Every day, Daily Average",1513,1168,1958
+"573","Camden, 00AG (573)","335","Wandsworth, 00BJ (335)","3/1/2020 - 3/31/2020, Every day, Daily Average",1663,1263,2188
+"573","Camden, 00AG (573)","336","Wandsworth, 00BJ (336)","3/1/2020 - 3/31/2020, Every day, Daily Average",1654,1273,2148
+"573","Camden, 00AG (573)","337","Wandsworth, 00BJ (337)","3/1/2020 - 3/31/2020, Every day, Daily Average",2028,1525,2695
+"573","Camden, 00AG (573)","338","Wandsworth, 00BJ (338)","3/1/2020 - 3/31/2020, Every day, Daily Average",2042,1526,2731
+"573","Camden, 00AG (573)","339","Wandsworth, 00BJ (339)","3/1/2020 - 3/31/2020, Every day, Daily Average",1917,1443,2545
+"573","Camden, 00AG (573)","340","Wandsworth, 00BJ (340)","3/1/2020 - 3/31/2020, Every day, Daily Average",2172,1641,2873
+"573","Camden, 00AG (573)","341","Wandsworth, 00BJ (341)","3/1/2020 - 3/31/2020, Every day, Daily Average",1990,1542,2567
+"573","Camden, 00AG (573)","342","Wandsworth, 00BJ (342)","3/1/2020 - 3/31/2020, Every day, Daily Average",2294,1720,3059
+"573","Camden, 00AG (573)","343","Wandsworth, 00BJ (343)","3/1/2020 - 3/31/2020, Every day, Daily Average",1890,1493,2392
+"573","Camden, 00AG (573)","344","Wandsworth, 00BJ (344)","3/1/2020 - 3/31/2020, Every day, Daily Average",2116,1617,2768
+"573","Camden, 00AG (573)","345","Wandsworth, 00BJ (345)","3/1/2020 - 3/31/2020, Every day, Daily Average",2047,1564,2678
+"573","Camden, 00AG (573)","346","Wandsworth, 00BJ (346)","3/1/2020 - 3/31/2020, Every day, Daily Average",2221,1687,2922
+"573","Camden, 00AG (573)","347","Wandsworth, 00BJ (347)","3/1/2020 - 3/31/2020, Every day, Daily Average",1834,1404,2395
+"573","Camden, 00AG (573)","348","Wandsworth, 00BJ (348)","3/1/2020 - 3/31/2020, Every day, Daily Average",1974,1504,2589
+"573","Camden, 00AG (573)","349","Wandsworth, 00BJ (349)","3/1/2020 - 3/31/2020, Every day, Daily Average",2282,1778,2928
+"573","Camden, 00AG (573)","350","Wandsworth, 00BJ (350)","3/1/2020 - 3/31/2020, Every day, Daily Average",2008,1526,2642
+"573","Camden, 00AG (573)","351","Wandsworth, 00BJ (351)","3/1/2020 - 3/31/2020, Every day, Daily Average",1959,1433,2677
+"573","Camden, 00AG (573)","352","Wandsworth, 00BJ (352)","3/1/2020 - 3/31/2020, Every day, Daily Average",2042,1567,2659
+"573","Camden, 00AG (573)","353","Wandsworth, 00BJ (353)","3/1/2020 - 3/31/2020, Every day, Daily Average",2374,1875,3004
+"573","Camden, 00AG (573)","354","Wandsworth, 00BJ (354)","3/1/2020 - 3/31/2020, Every day, Daily Average",2144,1629,2820
+"573","Camden, 00AG (573)","355","Wandsworth, 00BJ (355)","3/1/2020 - 3/31/2020, Every day, Daily Average",2485,1958,3153
+"573","Camden, 00AG (573)","356","Westminster, 00BK (356)","3/1/2020 - 3/31/2020, Every day, Daily Average",746,493,1126
+"573","Camden, 00AG (573)","357","Westminster, 00BK (357)","3/1/2020 - 3/31/2020, Every day, Daily Average",1010,705,1446
+"573","Camden, 00AG (573)","358","Westminster, 00BK (358)","3/1/2020 - 3/31/2020, Every day, Daily Average",644,408,1015
+"573","Camden, 00AG (573)","359","Westminster, 00BK (359)","3/1/2020 - 3/31/2020, Every day, Daily Average",434,214,877
+"573","Camden, 00AG (573)","360","Westminster, 00BK (360)","3/1/2020 - 3/31/2020, Every day, Daily Average",986,679,1430
+"573","Camden, 00AG (573)","361","Westminster, 00BK (361)","3/1/2020 - 3/31/2020, Every day, Daily Average",1191,825,1718
+"573","Camden, 00AG (573)","362","Westminster, 00BK (362)","3/1/2020 - 3/31/2020, Every day, Daily Average",334,162,684
+"573","Camden, 00AG (573)","363","Westminster, 00BK (363)","3/1/2020 - 3/31/2020, Every day, Daily Average",1057,737,1514
+"573","Camden, 00AG (573)","364","Westminster, 00BK (364)","3/1/2020 - 3/31/2020, Every day, Daily Average",764,505,1155
+"573","Camden, 00AG (573)","365","Westminster, 00BK (365)","3/1/2020 - 3/31/2020, Every day, Daily Average",1114,805,1539
+"573","Camden, 00AG (573)","366","Barnet, 00AC (366)","3/1/2020 - 3/31/2020, Every day, Daily Average",1865,1412,2463
+"573","Camden, 00AG (573)","367","Barnet, 00AC (367)","3/1/2020 - 3/31/2020, Every day, Daily Average",1773,1351,2326
+"573","Camden, 00AG (573)","368","Barnet, 00AC (368)","3/1/2020 - 3/31/2020, Every day, Daily Average",1627,1199,2206
+"573","Camden, 00AG (573)","369","Barnet, 00AC (369)","3/1/2020 - 3/31/2020, Every day, Daily Average",1735,1295,2323
+"573","Camden, 00AG (573)","370","Barnet, 00AC (370)","3/1/2020 - 3/31/2020, Every day, Daily Average",1921,1413,2611
+"573","Camden, 00AG (573)","371","Barnet, 00AC (371)","3/1/2020 - 3/31/2020, Every day, Daily Average",1829,1395,2397
+"573","Camden, 00AG (573)","372","Barnet, 00AC (372)","3/1/2020 - 3/31/2020, Every day, Daily Average",1714,1274,2305
+"573","Camden, 00AG (573)","373","Barnet, 00AC (373)","3/1/2020 - 3/31/2020, Every day, Daily Average",1591,1194,2118
+"573","Camden, 00AG (573)","374","Barnet, 00AC (374)","3/1/2020 - 3/31/2020, Every day, Daily Average",1650,1246,2184
+"573","Camden, 00AG (573)","375","Barnet, 00AC (375)","3/1/2020 - 3/31/2020, Every day, Daily Average",1531,1160,2020
+"573","Camden, 00AG (573)","376","Barnet, 00AC (376)","3/1/2020 - 3/31/2020, Every day, Daily Average",1439,1089,1901
+"573","Camden, 00AG (573)","377","Bexley, 00AD (377)","3/1/2020 - 3/31/2020, Every day, Daily Average",3244,2543,4137
+"573","Camden, 00AG (573)","378","Bexley, 00AD (378)","3/1/2020 - 3/31/2020, Every day, Daily Average",3256,2546,4162
+"573","Camden, 00AG (573)","382","Bexley, 00AD (382)","3/1/2020 - 3/31/2020, Every day, Daily Average",3253,2628,4026
+"573","Camden, 00AG (573)","385","Bexley, 00AD (385)","3/1/2020 - 3/31/2020, Every day, Daily Average",3072,2462,3831
+"573","Camden, 00AG (573)","387","Bexley, 00AD (387)","3/1/2020 - 3/31/2020, Every day, Daily Average",3315,2585,4250
+"573","Camden, 00AG (573)","388","Bexley, 00AD (388)","3/1/2020 - 3/31/2020, Every day, Daily Average",2809,2162,3647
+"573","Camden, 00AG (573)","390","Bexley, 00AD (390)","3/1/2020 - 3/31/2020, Every day, Daily Average",3178,2504,4033
+"573","Camden, 00AG (573)","391","Bexley, 00AD (391)","3/1/2020 - 3/31/2020, Every day, Daily Average",2994,2305,3887
+"573","Camden, 00AG (573)","392","Bexley, 00AD (392)","3/1/2020 - 3/31/2020, Every day, Daily Average",2569,1978,3336
+"573","Camden, 00AG (573)","393","Bexley, 00AD (393)","3/1/2020 - 3/31/2020, Every day, Daily Average",2794,2207,3536
+"573","Camden, 00AG (573)","394","Bexley, 00AD (394)","3/1/2020 - 3/31/2020, Every day, Daily Average",2571,1913,3454
+"573","Camden, 00AG (573)","395","Bexley, 00AD (395)","3/1/2020 - 3/31/2020, Every day, Daily Average",2827,2248,3554
+"573","Camden, 00AG (573)","396","Bexley, 00AD (396)","3/1/2020 - 3/31/2020, Every day, Daily Average",2704,2111,3462
+"573","Camden, 00AG (573)","397","Bexley, 00AD (397)","3/1/2020 - 3/31/2020, Every day, Daily Average",2634,1972,3517
+"573","Camden, 00AG (573)","399","Bexley, 00AD (399)","3/1/2020 - 3/31/2020, Every day, Daily Average",2755,2167,3501
+"573","Camden, 00AG (573)","400","Bexley, 00AD (400)","3/1/2020 - 3/31/2020, Every day, Daily Average",2861,1673,4891
+"573","Camden, 00AG (573)","401","Bexley, 00AD (401)","3/1/2020 - 3/31/2020, Every day, Daily Average",2806,2208,3565
+"573","Camden, 00AG (573)","402","Bexley, 00AD (402)","3/1/2020 - 3/31/2020, Every day, Daily Average",2880,1932,4292
+"573","Camden, 00AG (573)","403","Bexley, 00AD (403)","3/1/2020 - 3/31/2020, Every day, Daily Average",3080,2382,3981
+"573","Camden, 00AG (573)","404","Bexley, 00AD (404)","3/1/2020 - 3/31/2020, Every day, Daily Average",3081,2372,4000
+"573","Camden, 00AG (573)","405","Brent, 00AE (405)","3/1/2020 - 3/31/2020, Every day, Daily Average",2170,1679,2803
+"573","Camden, 00AG (573)","406","Brent, 00AE (406)","3/1/2020 - 3/31/2020, Every day, Daily Average",2037,1587,2613
+"573","Camden, 00AG (573)","407","Barking and Dagenham, 00AB (407)","3/1/2020 - 3/31/2020, Every day, Daily Average",2042,1570,2655
+"573","Camden, 00AG (573)","408","Barking and Dagenham, 00AB (408)","3/1/2020 - 3/31/2020, Every day, Daily Average",2198,1690,2858
+"573","Camden, 00AG (573)","409","Barnet, 00AC (409)","3/1/2020 - 3/31/2020, Every day, Daily Average",2556,1992,3278
+"573","Camden, 00AG (573)","410","Barnet, 00AC (410)","3/1/2020 - 3/31/2020, Every day, Daily Average",2590,1959,3424
+"573","Camden, 00AG (573)","411","Barnet, 00AC (411)","3/1/2020 - 3/31/2020, Every day, Daily Average",2791,2081,3742
+"573","Camden, 00AG (573)","412","Barnet, 00AC (412)","3/1/2020 - 3/31/2020, Every day, Daily Average",2517,1918,3302
+"573","Camden, 00AG (573)","413","Barnet, 00AC (413)","3/1/2020 - 3/31/2020, Every day, Daily Average",2380,1711,3310
+"573","Camden, 00AG (573)","414","Barnet, 00AC (414)","3/1/2020 - 3/31/2020, Every day, Daily Average",2142,1666,2752
+"573","Camden, 00AG (573)","415","Barnet, 00AC (415)","3/1/2020 - 3/31/2020, Every day, Daily Average",1797,1332,2423
+"573","Camden, 00AG (573)","416","Barnet, 00AC (416)","3/1/2020 - 3/31/2020, Every day, Daily Average",2017,1530,2658
+"573","Camden, 00AG (573)","417","Brent, 00AE (417)","3/1/2020 - 3/31/2020, Every day, Daily Average",2227,1705,2907
+"573","Camden, 00AG (573)","418","Brent, 00AE (418)","3/1/2020 - 3/31/2020, Every day, Daily Average",2536,2006,3205
+"573","Camden, 00AG (573)","419","Brent, 00AE (419)","3/1/2020 - 3/31/2020, Every day, Daily Average",2143,1693,2711
+"573","Camden, 00AG (573)","420","Brent, 00AE (420)","3/1/2020 - 3/31/2020, Every day, Daily Average",2227,1699,2917
+"573","Camden, 00AG (573)","421","Brent, 00AE (421)","3/1/2020 - 3/31/2020, Every day, Daily Average",2258,1627,3132
+"573","Camden, 00AG (573)","422","Brent, 00AE (422)","3/1/2020 - 3/31/2020, Every day, Daily Average",2157,1714,2714
+"573","Camden, 00AG (573)","423","Brent, 00AE (423)","3/1/2020 - 3/31/2020, Every day, Daily Average",2076,1595,2700
+"573","Camden, 00AG (573)","424","Brent, 00AE (424)","3/1/2020 - 3/31/2020, Every day, Daily Average",1953,1412,2699
+"573","Camden, 00AG (573)","425","Brent, 00AE (425)","3/1/2020 - 3/31/2020, Every day, Daily Average",1803,1359,2391
+"573","Camden, 00AG (573)","426","Brent, 00AE (426)","3/1/2020 - 3/31/2020, Every day, Daily Average",2204,1548,3137
+"573","Camden, 00AG (573)","427","Brent, 00AE (427)","3/1/2020 - 3/31/2020, Every day, Daily Average",1948,1543,2458
+"573","Camden, 00AG (573)","428","Brent, 00AE (428)","3/1/2020 - 3/31/2020, Every day, Daily Average",1954,1450,2633
+"573","Camden, 00AG (573)","429","Brent, 00AE (429)","3/1/2020 - 3/31/2020, Every day, Daily Average",1515,1135,2020
+"573","Camden, 00AG (573)","430","Brent, 00AE (430)","3/1/2020 - 3/31/2020, Every day, Daily Average",2281,1765,2946
+"573","Camden, 00AG (573)","431","Brent, 00AE (431)","3/1/2020 - 3/31/2020, Every day, Daily Average",2152,1537,3011
+"573","Camden, 00AG (573)","432","Brent, 00AE (432)","3/1/2020 - 3/31/2020, Every day, Daily Average",1689,1289,2212
+"573","Camden, 00AG (573)","433","Brent, 00AE (433)","3/1/2020 - 3/31/2020, Every day, Daily Average",1873,1479,2370
+"573","Camden, 00AG (573)","434","Brent, 00AE (434)","3/1/2020 - 3/31/2020, Every day, Daily Average",1967,1445,2675
+"573","Camden, 00AG (573)","435","Brent, 00AE (435)","3/1/2020 - 3/31/2020, Every day, Daily Average",1978,1449,2698
+"573","Camden, 00AG (573)","436","Brent, 00AE (436)","3/1/2020 - 3/31/2020, Every day, Daily Average",1543,1181,2015
+"573","Camden, 00AG (573)","437","Brent, 00AE (437)","3/1/2020 - 3/31/2020, Every day, Daily Average",1427,1057,1925
+"573","Camden, 00AG (573)","438","Brent, 00AE (438)","3/1/2020 - 3/31/2020, Every day, Daily Average",1548,1193,2007
+"573","Camden, 00AG (573)","439","Brent, 00AE (439)","3/1/2020 - 3/31/2020, Every day, Daily Average",1702,1281,2260
+"573","Camden, 00AG (573)","440","Brent, 00AE (440)","3/1/2020 - 3/31/2020, Every day, Daily Average",2236,1633,3060
+"573","Camden, 00AG (573)","441","Brent, 00AE (441)","3/1/2020 - 3/31/2020, Every day, Daily Average",1846,1314,2591
+"573","Camden, 00AG (573)","442","Bromley, 00AF (442)","3/1/2020 - 3/31/2020, Every day, Daily Average",2967,2288,3846
+"573","Camden, 00AG (573)","443","Bromley, 00AF (443)","3/1/2020 - 3/31/2020, Every day, Daily Average",3169,2491,4030
+"573","Camden, 00AG (573)","444","Bromley, 00AF (444)","3/1/2020 - 3/31/2020, Every day, Daily Average",3083,2437,3900
+"573","Camden, 00AG (573)","445","Bromley, 00AF (445)","3/1/2020 - 3/31/2020, Every day, Daily Average",3114,2508,3865
+"573","Camden, 00AG (573)","446","Bromley, 00AF (446)","3/1/2020 - 3/31/2020, Every day, Daily Average",3511,2702,4561
+"573","Camden, 00AG (573)","447","Bromley, 00AF (447)","3/1/2020 - 3/31/2020, Every day, Daily Average",3186,2672,3797
+"573","Camden, 00AG (573)","448","Bromley, 00AF (448)","3/1/2020 - 3/31/2020, Every day, Daily Average",2964,2364,3715
+"573","Camden, 00AG (573)","449","Bromley, 00AF (449)","3/1/2020 - 3/31/2020, Every day, Daily Average",3509,2910,4231
+"573","Camden, 00AG (573)","450","Bromley, 00AF (450)","3/1/2020 - 3/31/2020, Every day, Daily Average",3442,2623,4515
+"573","Camden, 00AG (573)","452","Bromley, 00AF (452)","3/1/2020 - 3/31/2020, Every day, Daily Average",3445,2862,4145
+"573","Camden, 00AG (573)","454","Bromley, 00AF (454)","3/1/2020 - 3/31/2020, Every day, Daily Average",3332,2606,4259
+"573","Camden, 00AG (573)","457","Bromley, 00AF (457)","3/1/2020 - 3/31/2020, Every day, Daily Average",3697,2841,4810
+"573","Camden, 00AG (573)","464","Camden, 00AG (464)","3/1/2020 - 3/31/2020, Every day, Daily Average",1228,893,1687
+"573","Camden, 00AG (573)","465","Camden, 00AG (465)","3/1/2020 - 3/31/2020, Every day, Daily Average",1401,1030,1903
+"573","Camden, 00AG (573)","466","Camden, 00AG (466)","3/1/2020 - 3/31/2020, Every day, Daily Average",976,694,1371
+"573","Camden, 00AG (573)","467","Camden, 00AG (467)","3/1/2020 - 3/31/2020, Every day, Daily Average",1320,991,1756
+"573","Camden, 00AG (573)","468","Camden, 00AG (468)","3/1/2020 - 3/31/2020, Every day, Daily Average",1346,1021,1773
+"573","Camden, 00AG (573)","469","Camden, 00AG (469)","3/1/2020 - 3/31/2020, Every day, Daily Average",1103,793,1532
+"573","Camden, 00AG (573)","470","Camden, 00AG (470)","3/1/2020 - 3/31/2020, Every day, Daily Average",871,601,1261
+"573","Camden, 00AG (573)","471","Camden, 00AG (471)","3/1/2020 - 3/31/2020, Every day, Daily Average",1190,896,1579
+"573","Camden, 00AG (573)","472","Camden, 00AG (472)","3/1/2020 - 3/31/2020, Every day, Daily Average",800,558,1146
+"573","Camden, 00AG (573)","473","Camden, 00AG (473)","3/1/2020 - 3/31/2020, Every day, Daily Average",1221,923,1614
+"573","Camden, 00AG (573)","474","Hillingdon, 00AS (474)","3/1/2020 - 3/31/2020, Every day, Daily Average",2366,1845,3033
+"573","Camden, 00AG (573)","475","Hillingdon, 00AS (475)","3/1/2020 - 3/31/2020, Every day, Daily Average",2514,1933,3269
+"573","Camden, 00AG (573)","476","Hillingdon, 00AS (476)","3/1/2020 - 3/31/2020, Every day, Daily Average",2855,2210,3686
+"573","Camden, 00AG (573)","477","Hillingdon, 00AS (477)","3/1/2020 - 3/31/2020, Every day, Daily Average",3101,2396,4013
+"573","Camden, 00AG (573)","478","Hillingdon, 00AS (478)","3/1/2020 - 3/31/2020, Every day, Daily Average",2651,1996,3520
+"573","Camden, 00AG (573)","479","Hillingdon, 00AS (479)","3/1/2020 - 3/31/2020, Every day, Daily Average",2915,2308,3680
+"573","Camden, 00AG (573)","480","Hillingdon, 00AS (480)","3/1/2020 - 3/31/2020, Every day, Daily Average",2658,2080,3395
+"573","Camden, 00AG (573)","481","Hounslow, 00AT (481)","3/1/2020 - 3/31/2020, Every day, Daily Average",1872,1394,2512
+"573","Camden, 00AG (573)","482","Hounslow, 00AT (482)","3/1/2020 - 3/31/2020, Every day, Daily Average",2040,1523,2730
+"573","Camden, 00AG (573)","483","Hounslow, 00AT (483)","3/1/2020 - 3/31/2020, Every day, Daily Average",2132,1596,2846
+"573","Camden, 00AG (573)","484","Hounslow, 00AT (484)","3/1/2020 - 3/31/2020, Every day, Daily Average",2423,1877,3126
+"573","Camden, 00AG (573)","485","Hounslow, 00AT (485)","3/1/2020 - 3/31/2020, Every day, Daily Average",2518,1951,3249
+"573","Camden, 00AG (573)","486","Brent, 00AE (486)","3/1/2020 - 3/31/2020, Every day, Daily Average",1271,932,1732
+"573","Camden, 00AG (573)","487","Brent, 00AE (487)","3/1/2020 - 3/31/2020, Every day, Daily Average",1747,1372,2223
+"573","Camden, 00AG (573)","488","Brent, 00AE (488)","3/1/2020 - 3/31/2020, Every day, Daily Average",1492,1101,2021
+"573","Camden, 00AG (573)","489","Brent, 00AE (489)","3/1/2020 - 3/31/2020, Every day, Daily Average",1519,1130,2040
+"573","Camden, 00AG (573)","490","Brent, 00AE (490)","3/1/2020 - 3/31/2020, Every day, Daily Average",1349,993,1831
+"573","Camden, 00AG (573)","491","Camden, 00AG (491)","3/1/2020 - 3/31/2020, Every day, Daily Average",775,550,1091
+"573","Camden, 00AG (573)","492","Camden, 00AG (492)","3/1/2020 - 3/31/2020, Every day, Daily Average",644,442,937
+"573","Camden, 00AG (573)","493","Camden, 00AG (493)","3/1/2020 - 3/31/2020, Every day, Daily Average",1156,859,1554
+"573","Camden, 00AG (573)","494","Greenwich, 00AL (494)","3/1/2020 - 3/31/2020, Every day, Daily Average",2289,1735,3018
+"573","Camden, 00AG (573)","495","Hounslow, 00AT (495)","3/1/2020 - 3/31/2020, Every day, Daily Average",2245,1711,2945
+"573","Camden, 00AG (573)","496","Hounslow, 00AT (496)","3/1/2020 - 3/31/2020, Every day, Daily Average",1972,1472,2641
+"573","Camden, 00AG (573)","497","Hounslow, 00AT (497)","3/1/2020 - 3/31/2020, Every day, Daily Average",2052,1537,2738
+"573","Camden, 00AG (573)","498","Hounslow, 00AT (498)","3/1/2020 - 3/31/2020, Every day, Daily Average",2353,1812,3055
+"573","Camden, 00AG (573)","499","Hounslow, 00AT (499)","3/1/2020 - 3/31/2020, Every day, Daily Average",2490,1934,3205
+"573","Camden, 00AG (573)","500","Camden, 00AG (500)","3/1/2020 - 3/31/2020, Every day, Daily Average",1116,832,1495
+"573","Camden, 00AG (573)","501","Camden, 00AG (501)","3/1/2020 - 3/31/2020, Every day, Daily Average",547,346,863
+"573","Camden, 00AG (573)","502","Harrow, 00AQ (502)","3/1/2020 - 3/31/2020, Every day, Daily Average",2490,2030,3053
+"573","Camden, 00AG (573)","503","Harrow, 00AQ (503)","3/1/2020 - 3/31/2020, Every day, Daily Average",2346,1926,2857
+"573","Camden, 00AG (573)","504","Harrow, 00AQ (504)","3/1/2020 - 3/31/2020, Every day, Daily Average",2426,1969,2988
+"573","Camden, 00AG (573)","505","Camden, 00AG (505)","3/1/2020 - 3/31/2020, Every day, Daily Average",850,590,1222
+"573","Camden, 00AG (573)","506","Croydon, 00AH (506)","3/1/2020 - 3/31/2020, Every day, Daily Average",2879,2362,3508
+"573","Camden, 00AG (573)","507","Croydon, 00AH (507)","3/1/2020 - 3/31/2020, Every day, Daily Average",3286,2642,4086
+"573","Camden, 00AG (573)","508","Croydon, 00AH (508)","3/1/2020 - 3/31/2020, Every day, Daily Average",2803,2220,3538
+"573","Camden, 00AG (573)","510","Camden, 00AG (510)","3/1/2020 - 3/31/2020, Every day, Daily Average",991,724,1356
+"573","Camden, 00AG (573)","511","Croydon, 00AH (511)","3/1/2020 - 3/31/2020, Every day, Daily Average",3556,2840,4451
+"573","Camden, 00AG (573)","512","Croydon, 00AH (512)","3/1/2020 - 3/31/2020, Every day, Daily Average",3098,2493,3849
+"573","Camden, 00AG (573)","513","Croydon, 00AH (513)","3/1/2020 - 3/31/2020, Every day, Daily Average",2980,2340,3794
+"573","Camden, 00AG (573)","514","Croydon, 00AH (514)","3/1/2020 - 3/31/2020, Every day, Daily Average",3245,2573,4091
+"573","Camden, 00AG (573)","516","Croydon, 00AH (516)","3/1/2020 - 3/31/2020, Every day, Daily Average",3390,2716,4231
+"573","Camden, 00AG (573)","517","Camden, 00AG (517)","3/1/2020 - 3/31/2020, Every day, Daily Average",487,309,766
+"573","Camden, 00AG (573)","523","Croydon, 00AH (523)","3/1/2020 - 3/31/2020, Every day, Daily Average",3239,2534,4138
+"573","Camden, 00AG (573)","524","Camden, 00AG (524)","3/1/2020 - 3/31/2020, Every day, Daily Average",447,263,758
+"573","Camden, 00AG (573)","525","Croydon, 00AH (525)","3/1/2020 - 3/31/2020, Every day, Daily Average",3450,2789,4266
+"573","Camden, 00AG (573)","528","Croydon, 00AH (528)","3/1/2020 - 3/31/2020, Every day, Daily Average",3467,2661,4517
+"573","Camden, 00AG (573)","530","Croydon, 00AH (530)","3/1/2020 - 3/31/2020, Every day, Daily Average",3695,2814,4851
+"573","Camden, 00AG (573)","532","Ealing, 00AJ (532)","3/1/2020 - 3/31/2020, Every day, Daily Average",2135,1709,2666
+"573","Camden, 00AG (573)","533","Ealing, 00AJ (533)","3/1/2020 - 3/31/2020, Every day, Daily Average",2111,1659,2685
+"573","Camden, 00AG (573)","534","Ealing, 00AJ (534)","3/1/2020 - 3/31/2020, Every day, Daily Average",2113,1615,2763
+"573","Camden, 00AG (573)","535","Ealing, 00AJ (535)","3/1/2020 - 3/31/2020, Every day, Daily Average",2003,1538,2608
+"573","Camden, 00AG (573)","537","Ealing, 00AJ (537)","3/1/2020 - 3/31/2020, Every day, Daily Average",1819,1394,2372
+"573","Camden, 00AG (573)","538","Ealing, 00AJ (538)","3/1/2020 - 3/31/2020, Every day, Daily Average",1729,1312,2277
+"573","Camden, 00AG (573)","539","Ealing, 00AJ (539)","3/1/2020 - 3/31/2020, Every day, Daily Average",2014,1547,2621
+"573","Camden, 00AG (573)","540","Ealing, 00AJ (540)","3/1/2020 - 3/31/2020, Every day, Daily Average",2151,1667,2774
+"573","Camden, 00AG (573)","541","Ealing, 00AJ (541)","3/1/2020 - 3/31/2020, Every day, Daily Average",1932,1475,2530
+"573","Camden, 00AG (573)","542","Ealing, 00AJ (542)","3/1/2020 - 3/31/2020, Every day, Daily Average",1611,1200,2162
+"573","Camden, 00AG (573)","543","Ealing, 00AJ (543)","3/1/2020 - 3/31/2020, Every day, Daily Average",1880,1436,2460
+"573","Camden, 00AG (573)","544","Ealing, 00AJ (544)","3/1/2020 - 3/31/2020, Every day, Daily Average",1683,1269,2231
+"573","Camden, 00AG (573)","545","Ealing, 00AJ (545)","3/1/2020 - 3/31/2020, Every day, Daily Average",2169,1691,2781
+"573","Camden, 00AG (573)","546","Ealing, 00AJ (546)","3/1/2020 - 3/31/2020, Every day, Daily Average",1424,1058,1916
+"573","Camden, 00AG (573)","547","Ealing, 00AJ (547)","3/1/2020 - 3/31/2020, Every day, Daily Average",1922,1408,2623
+"573","Camden, 00AG (573)","548","Ealing, 00AJ (548)","3/1/2020 - 3/31/2020, Every day, Daily Average",2487,1980,3122
+"573","Camden, 00AG (573)","549","Ealing, 00AJ (549)","3/1/2020 - 3/31/2020, Every day, Daily Average",1949,1576,2409
+"573","Camden, 00AG (573)","550","Ealing, 00AJ (550)","3/1/2020 - 3/31/2020, Every day, Daily Average",1969,1547,2505
+"573","Camden, 00AG (573)","551","Camden, 00AG (551)","3/1/2020 - 3/31/2020, Every day, Daily Average",363,180,729
+"573","Camden, 00AG (573)","552","Ealing, 00AJ (552)","3/1/2020 - 3/31/2020, Every day, Daily Average",1839,1396,2421
+"573","Camden, 00AG (573)","553","Ealing, 00AJ (553)","3/1/2020 - 3/31/2020, Every day, Daily Average",1483,1124,1955
+"573","Camden, 00AG (573)","554","Ealing, 00AJ (554)","3/1/2020 - 3/31/2020, Every day, Daily Average",2101,1655,2666
+"573","Camden, 00AG (573)","555","Ealing, 00AJ (555)","3/1/2020 - 3/31/2020, Every day, Daily Average",2600,2107,3207
+"573","Camden, 00AG (573)","556","Ealing, 00AJ (556)","3/1/2020 - 3/31/2020, Every day, Daily Average",1315,965,1791
+"573","Camden, 00AG (573)","557","Ealing, 00AJ (557)","3/1/2020 - 3/31/2020, Every day, Daily Average",1582,1196,2091
+"573","Camden, 00AG (573)","559","Ealing, 00AJ (559)","3/1/2020 - 3/31/2020, Every day, Daily Average",1741,1321,2293
+"573","Camden, 00AG (573)","560","Ealing, 00AJ (560)","3/1/2020 - 3/31/2020, Every day, Daily Average",2108,1657,2681
+"573","Camden, 00AG (573)","561","Ealing, 00AJ (561)","3/1/2020 - 3/31/2020, Every day, Daily Average",2434,1839,3220
+"573","Camden, 00AG (573)","562","Harrow, 00AQ (562)","3/1/2020 - 3/31/2020, Every day, Daily Average",2317,1892,2836
+"573","Camden, 00AG (573)","563","Harrow, 00AQ (563)","3/1/2020 - 3/31/2020, Every day, Daily Average",2169,1752,2685
+"573","Camden, 00AG (573)","564","Harrow, 00AQ (564)","3/1/2020 - 3/31/2020, Every day, Daily Average",2243,1810,2779
+"573","Camden, 00AG (573)","565","Harrow, 00AQ (565)","3/1/2020 - 3/31/2020, Every day, Daily Average",2197,1802,2677
+"573","Camden, 00AG (573)","566","Havering, 00AR (566)","3/1/2020 - 3/31/2020, Every day, Daily Average",3614,2951,4424
+"573","Camden, 00AG (573)","567","Camden, 00AG (567)","3/1/2020 - 3/31/2020, Every day, Daily Average",289,140,594
+"573","Camden, 00AG (573)","568","Hackney, 00AM (568)","3/1/2020 - 3/31/2020, Every day, Daily Average",1631,1217,2184
+"573","Camden, 00AG (573)","569","Hackney, 00AM (569)","3/1/2020 - 3/31/2020, Every day, Daily Average",1145,856,1531
+"573","Camden, 00AG (573)","570","Hackney, 00AM (570)","3/1/2020 - 3/31/2020, Every day, Daily Average",1827,1372,2431
+"573","Camden, 00AG (573)","571","Hackney, 00AM (571)","3/1/2020 - 3/31/2020, Every day, Daily Average",1326,980,1792
+"573","Camden, 00AG (573)","572","Camden, 00AG (572)","3/1/2020 - 3/31/2020, Every day, Daily Average",200,84,474
+"573","Camden, 00AG (573)","573","Camden, 00AG (573)","3/1/2020 - 3/31/2020, Every day, Daily Average",246,123,488
+"573","Camden, 00AG (573)","574","Croydon, 00AH (574)","3/1/2020 - 3/31/2020, Every day, Daily Average",2471,1953,3126
+"573","Camden, 00AG (573)","575","Croydon, 00AH (575)","3/1/2020 - 3/31/2020, Every day, Daily Average",2439,1909,3115
+"573","Camden, 00AG (573)","576","Croydon, 00AH (576)","3/1/2020 - 3/31/2020, Every day, Daily Average",2304,1798,2951
+"573","Camden, 00AG (573)","577","Croydon, 00AH (577)","3/1/2020 - 3/31/2020, Every day, Daily Average",2253,1773,2862
+"573","Camden, 00AG (573)","578","Croydon, 00AH (578)","3/1/2020 - 3/31/2020, Every day, Daily Average",2724,2195,3379
+"573","Camden, 00AG (573)","579","Croydon, 00AH (579)","3/1/2020 - 3/31/2020, Every day, Daily Average",2858,2319,3521
+"573","Camden, 00AG (573)","580","Croydon, 00AH (580)","3/1/2020 - 3/31/2020, Every day, Daily Average",2661,2065,3427
+"573","Camden, 00AG (573)","581","Croydon, 00AH (581)","3/1/2020 - 3/31/2020, Every day, Daily Average",2748,2139,3529
+"573","Camden, 00AG (573)","582","Croydon, 00AH (582)","3/1/2020 - 3/31/2020, Every day, Daily Average",2387,1874,3039
+"573","Camden, 00AG (573)","583","Croydon, 00AH (583)","3/1/2020 - 3/31/2020, Every day, Daily Average",2887,2338,3563
+"573","Camden, 00AG (573)","584","Croydon, 00AH (584)","3/1/2020 - 3/31/2020, Every day, Daily Average",2435,1915,3095
+"573","Camden, 00AG (573)","585","Croydon, 00AH (585)","3/1/2020 - 3/31/2020, Every day, Daily Average",2947,2334,3720
+"573","Camden, 00AG (573)","586","Ealing, 00AJ (586)","3/1/2020 - 3/31/2020, Every day, Daily Average",2215,1758,2789
+"573","Camden, 00AG (573)","587","Ealing, 00AJ (587)","3/1/2020 - 3/31/2020, Every day, Daily Average",1949,1468,2586
+"573","Camden, 00AG (573)","588","Ealing, 00AJ (588)","3/1/2020 - 3/31/2020, Every day, Daily Average",2055,1598,2641
+"573","Camden, 00AG (573)","589","Ealing, 00AJ (589)","3/1/2020 - 3/31/2020, Every day, Daily Average",1674,1292,2167
+"573","Camden, 00AG (573)","590","Ealing, 00AJ (590)","3/1/2020 - 3/31/2020, Every day, Daily Average",1783,1313,2419
+"573","Camden, 00AG (573)","591","Ealing, 00AJ (591)","3/1/2020 - 3/31/2020, Every day, Daily Average",2286,1819,2872
+"573","Camden, 00AG (573)","592","Ealing, 00AJ (592)","3/1/2020 - 3/31/2020, Every day, Daily Average",2004,1515,2649
+"573","Camden, 00AG (573)","595","Ealing, 00AJ (595)","3/1/2020 - 3/31/2020, Every day, Daily Average",2159,1689,2758
+"573","Camden, 00AG (573)","596","Enfield, 00AK (596)","3/1/2020 - 3/31/2020, Every day, Daily Average",3190,2388,4261
+"573","Camden, 00AG (573)","597","Enfield, 00AK (597)","3/1/2020 - 3/31/2020, Every day, Daily Average",3089,2224,4289
+"573","Camden, 00AG (573)","598","Enfield, 00AK (598)","3/1/2020 - 3/31/2020, Every day, Daily Average",3162,2350,4254
+"573","Camden, 00AG (573)","599","Enfield, 00AK (599)","3/1/2020 - 3/31/2020, Every day, Daily Average",2840,2183,3694
+"573","Camden, 00AG (573)","600","Enfield, 00AK (600)","3/1/2020 - 3/31/2020, Every day, Daily Average",2493,1985,3130
+"573","Camden, 00AG (573)","603","Enfield, 00AK (603)","3/1/2020 - 3/31/2020, Every day, Daily Average",2645,2151,3252
+"573","Camden, 00AG (573)","604","Enfield, 00AK (604)","3/1/2020 - 3/31/2020, Every day, Daily Average",2575,2086,3177
+"573","Camden, 00AG (573)","605","Enfield, 00AK (605)","3/1/2020 - 3/31/2020, Every day, Daily Average",2743,2185,3443
+"573","Camden, 00AG (573)","606","Enfield, 00AK (606)","3/1/2020 - 3/31/2020, Every day, Daily Average",2736,2169,3450
+"573","Camden, 00AG (573)","607","Greenwich, 00AL (607)","3/1/2020 - 3/31/2020, Every day, Daily Average",3095,2392,4003
+"573","Camden, 00AG (573)","608","Hackney, 00AM (608)","3/1/2020 - 3/31/2020, Every day, Daily Average",1702,1275,2270
+"573","Camden, 00AG (573)","609","Hackney, 00AM (609)","3/1/2020 - 3/31/2020, Every day, Daily Average",1357,1007,1826
+"573","Camden, 00AG (573)","610","Hackney, 00AM (610)","3/1/2020 - 3/31/2020, Every day, Daily Average",1496,1106,2022
+"573","Camden, 00AG (573)","611","Havering, 00AR (611)","3/1/2020 - 3/31/2020, Every day, Daily Average",3375,2793,4076
+"573","Camden, 00AG (573)","615","Havering, 00AR (615)","3/1/2020 - 3/31/2020, Every day, Daily Average",3254,2563,4131
+"573","Camden, 00AG (573)","616","Havering, 00AR (616)","3/1/2020 - 3/31/2020, Every day, Daily Average",3278,2184,4919
+"573","Camden, 00AG (573)","617","Havering, 00AR (617)","3/1/2020 - 3/31/2020, Every day, Daily Average",3136,2445,4020
+"573","Camden, 00AG (573)","618","Havering, 00AR (618)","3/1/2020 - 3/31/2020, Every day, Daily Average",3117,2431,3995
+"573","Camden, 00AG (573)","619","Havering, 00AR (619)","3/1/2020 - 3/31/2020, Every day, Daily Average",3579,2966,4318
+"573","Camden, 00AG (573)","620","Havering, 00AR (620)","3/1/2020 - 3/31/2020, Every day, Daily Average",3053,2398,3886
+"573","Camden, 00AG (573)","621","Havering, 00AR (621)","3/1/2020 - 3/31/2020, Every day, Daily Average",3655,2959,4513
+"573","Camden, 00AG (573)","622","Havering, 00AR (622)","3/1/2020 - 3/31/2020, Every day, Daily Average",3149,2532,3915
+"573","Camden, 00AG (573)","623","Havering, 00AR (623)","3/1/2020 - 3/31/2020, Every day, Daily Average",3508,2835,4340
+"573","Camden, 00AG (573)","625","Havering, 00AR (625)","3/1/2020 - 3/31/2020, Every day, Daily Average",3136,2552,3853
+"573","Camden, 00AG (573)","626","Havering, 00AR (626)","3/1/2020 - 3/31/2020, Every day, Daily Average",2868,2382,3452
+"573","Camden, 00AG (573)","627","Greenwich, 00AL (627)","3/1/2020 - 3/31/2020, Every day, Daily Average",2500,1881,3321
+"573","Camden, 00AG (573)","628","Greenwich, 00AL (628)","3/1/2020 - 3/31/2020, Every day, Daily Average",3039,2230,4140
+"573","Camden, 00AG (573)","629","Greenwich, 00AL (629)","3/1/2020 - 3/31/2020, Every day, Daily Average",2846,2154,3759
+"573","Camden, 00AG (573)","631","Greenwich, 00AL (631)","3/1/2020 - 3/31/2020, Every day, Daily Average",2821,2134,3727
+"573","Camden, 00AG (573)","632","Greenwich, 00AL (632)","3/1/2020 - 3/31/2020, Every day, Daily Average",2133,1593,2854
+"573","Camden, 00AG (573)","633","Hackney, 00AM (633)","3/1/2020 - 3/31/2020, Every day, Daily Average",1210,906,1614
+"573","Camden, 00AG (573)","634","Hackney, 00AM (634)","3/1/2020 - 3/31/2020, Every day, Daily Average",1262,946,1682
+"573","Camden, 00AG (573)","635","Hackney, 00AM (635)","3/1/2020 - 3/31/2020, Every day, Daily Average",1347,1027,1766
+"573","Camden, 00AG (573)","636","Hackney, 00AM (636)","3/1/2020 - 3/31/2020, Every day, Daily Average",1516,1122,2048
+"573","Camden, 00AG (573)","637","Hackney, 00AM (637)","3/1/2020 - 3/31/2020, Every day, Daily Average",1840,1380,2452
+"573","Camden, 00AG (573)","638","Hackney, 00AM (638)","3/1/2020 - 3/31/2020, Every day, Daily Average",1650,1241,2192
+"573","Camden, 00AG (573)","639","Hackney, 00AM (639)","3/1/2020 - 3/31/2020, Every day, Daily Average",1312,963,1785
+"573","Camden, 00AG (573)","640","Hammersmith and Fulham, 00AN (640)","3/1/2020 - 3/31/2020, Every day, Daily Average",1330,967,1827
+"573","Camden, 00AG (573)","641","Havering, 00AR (641)","3/1/2020 - 3/31/2020, Every day, Daily Average",3069,2562,3675
+"573","Camden, 00AG (573)","643","Havering, 00AR (643)","3/1/2020 - 3/31/2020, Every day, Daily Average",3094,2530,3782
+"573","Camden, 00AG (573)","644","Havering, 00AR (644)","3/1/2020 - 3/31/2020, Every day, Daily Average",3080,2508,3781
+"573","Camden, 00AG (573)","646","Hackney, 00AM (646)","3/1/2020 - 3/31/2020, Every day, Daily Average",843,615,1154
+"573","Camden, 00AG (573)","647","Hammersmith and Fulham, 00AN (647)","3/1/2020 - 3/31/2020, Every day, Daily Average",1769,1310,2387
+"573","Camden, 00AG (573)","648","Havering, 00AR (648)","3/1/2020 - 3/31/2020, Every day, Daily Average",2897,2104,3987
+"573","Camden, 00AG (573)","649","Havering, 00AR (649)","3/1/2020 - 3/31/2020, Every day, Daily Average",2894,2438,3434
+"573","Camden, 00AG (573)","650","Havering, 00AR (650)","3/1/2020 - 3/31/2020, Every day, Daily Average",2857,2322,3515
+"573","Camden, 00AG (573)","651","Havering, 00AR (651)","3/1/2020 - 3/31/2020, Every day, Daily Average",2750,2071,3650
+"573","Camden, 00AG (573)","652","Havering, 00AR (652)","3/1/2020 - 3/31/2020, Every day, Daily Average",2745,2201,3423
+"573","Camden, 00AG (573)","653","Havering, 00AR (653)","3/1/2020 - 3/31/2020, Every day, Daily Average",2396,1847,3107
+"573","Camden, 00AG (573)","654","Havering, 00AR (654)","3/1/2020 - 3/31/2020, Every day, Daily Average",2470,1907,3197
+"573","Camden, 00AG (573)","655","Hillingdon, 00AS (655)","3/1/2020 - 3/31/2020, Every day, Daily Average",2670,2076,3433
+"573","Camden, 00AG (573)","656","Hillingdon, 00AS (656)","3/1/2020 - 3/31/2020, Every day, Daily Average",2765,2108,3626
+"573","Camden, 00AG (573)","658","Hillingdon, 00AS (658)","3/1/2020 - 3/31/2020, Every day, Daily Average",2994,2286,3920
+"573","Camden, 00AG (573)","659","Hillingdon, 00AS (659)","3/1/2020 - 3/31/2020, Every day, Daily Average",2237,1731,2890
+"573","Camden, 00AG (573)","661","Hillingdon, 00AS (661)","3/1/2020 - 3/31/2020, Every day, Daily Average",2838,2317,3476
+"573","Camden, 00AG (573)","662","Hillingdon, 00AS (662)","3/1/2020 - 3/31/2020, Every day, Daily Average",2291,1771,2962
+"573","Camden, 00AG (573)","663","Hillingdon, 00AS (663)","3/1/2020 - 3/31/2020, Every day, Daily Average",3055,2385,3912
+"573","Camden, 00AG (573)","664","Hammersmith and Fulham, 00AN (664)","3/1/2020 - 3/31/2020, Every day, Daily Average",1163,861,1570
+"573","Camden, 00AG (573)","665","Hammersmith and Fulham, 00AN (665)","3/1/2020 - 3/31/2020, Every day, Daily Average",1246,922,1683
+"573","Camden, 00AG (573)","666","Hammersmith and Fulham, 00AN (666)","3/1/2020 - 3/31/2020, Every day, Daily Average",1478,1111,1965
+"573","Camden, 00AG (573)","667","Hammersmith and Fulham, 00AN (667)","3/1/2020 - 3/31/2020, Every day, Daily Average",1574,1177,2104
+"573","Camden, 00AG (573)","668","Haringey, 00AP (668)","3/1/2020 - 3/31/2020, Every day, Daily Average",1955,1423,2684
+"573","Camden, 00AG (573)","669","Hammersmith and Fulham, 00AN (669)","3/1/2020 - 3/31/2020, Every day, Daily Average",1400,1034,1895
+"573","Camden, 00AG (573)","670","Haringey, 00AP (670)","3/1/2020 - 3/31/2020, Every day, Daily Average",1714,1313,2237
+"573","Camden, 00AG (573)","671","Haringey, 00AP (671)","3/1/2020 - 3/31/2020, Every day, Daily Average",1914,1429,2561
+"573","Camden, 00AG (573)","672","Hillingdon, 00AS (672)","3/1/2020 - 3/31/2020, Every day, Daily Average",2266,1787,2872
+"573","Camden, 00AG (573)","673","Hillingdon, 00AS (673)","3/1/2020 - 3/31/2020, Every day, Daily Average",2113,1635,2729
+"573","Camden, 00AG (573)","674","Hillingdon, 00AS (674)","3/1/2020 - 3/31/2020, Every day, Daily Average",2277,1800,2880
+"573","Camden, 00AG (573)","675","Hillingdon, 00AS (675)","3/1/2020 - 3/31/2020, Every day, Daily Average",2177,1709,2773
+"573","Camden, 00AG (573)","676","Hillingdon, 00AS (676)","3/1/2020 - 3/31/2020, Every day, Daily Average",3075,2415,3914
+"573","Camden, 00AG (573)","677","Hammersmith and Fulham, 00AN (677)","3/1/2020 - 3/31/2020, Every day, Daily Average",1523,1134,2044
+"573","Camden, 00AG (573)","678","Hammersmith and Fulham, 00AN (678)","3/1/2020 - 3/31/2020, Every day, Daily Average",1638,1203,2229
+"573","Camden, 00AG (573)","679","Hammersmith and Fulham, 00AN (679)","3/1/2020 - 3/31/2020, Every day, Daily Average",1686,1243,2285
+"573","Camden, 00AG (573)","680","Hammersmith and Fulham, 00AN (680)","3/1/2020 - 3/31/2020, Every day, Daily Average",1597,1173,2173
+"573","Camden, 00AG (573)","681","Hammersmith and Fulham, 00AN (681)","3/1/2020 - 3/31/2020, Every day, Daily Average",1555,1136,2128
+"573","Camden, 00AG (573)","682","Hammersmith and Fulham, 00AN (682)","3/1/2020 - 3/31/2020, Every day, Daily Average",1746,1309,2327
+"573","Camden, 00AG (573)","683","Hammersmith and Fulham, 00AN (683)","3/1/2020 - 3/31/2020, Every day, Daily Average",1722,1254,2364
+"573","Camden, 00AG (573)","684","Hammersmith and Fulham, 00AN (684)","3/1/2020 - 3/31/2020, Every day, Daily Average",1737,1328,2271
+"573","Camden, 00AG (573)","685","Hammersmith and Fulham, 00AN (685)","3/1/2020 - 3/31/2020, Every day, Daily Average",1920,1477,2494
+"573","Camden, 00AG (573)","686","Hammersmith and Fulham, 00AN (686)","3/1/2020 - 3/31/2020, Every day, Daily Average",1623,1189,2214
+"573","Camden, 00AG (573)","687","Hammersmith and Fulham, 00AN (687)","3/1/2020 - 3/31/2020, Every day, Daily Average",1781,1300,2439
+"573","Camden, 00AG (573)","688","Hammersmith and Fulham, 00AN (688)","3/1/2020 - 3/31/2020, Every day, Daily Average",1866,1435,2425
+"573","Camden, 00AG (573)","689","Hammersmith and Fulham, 00AN (689)","3/1/2020 - 3/31/2020, Every day, Daily Average",1926,1389,2668
+"573","Camden, 00AG (573)","690","Hammersmith and Fulham, 00AN (690)","3/1/2020 - 3/31/2020, Every day, Daily Average",1844,1380,2464
+"573","Camden, 00AG (573)","691","Harrow, 00AQ (691)","3/1/2020 - 3/31/2020, Every day, Daily Average",2413,1793,3246
+"573","Camden, 00AG (573)","692","Haringey, 00AP (692)","3/1/2020 - 3/31/2020, Every day, Daily Average",1781,1331,2383
+"573","Camden, 00AG (573)","693","Harrow, 00AQ (693)","3/1/2020 - 3/31/2020, Every day, Daily Average",2482,1996,3085
+"573","Camden, 00AG (573)","694","Harrow, 00AQ (694)","3/1/2020 - 3/31/2020, Every day, Daily Average",2668,2194,3243
+"573","Camden, 00AG (573)","695","Harrow, 00AQ (695)","3/1/2020 - 3/31/2020, Every day, Daily Average",2422,1965,2984
+"573","Camden, 00AG (573)","696","Harrow, 00AQ (696)","3/1/2020 - 3/31/2020, Every day, Daily Average",2466,1965,3093
+"573","Camden, 00AG (573)","697","Haringey, 00AP (697)","3/1/2020 - 3/31/2020, Every day, Daily Average",1957,1450,2640
+"573","Camden, 00AG (573)","698","Haringey, 00AP (698)","3/1/2020 - 3/31/2020, Every day, Daily Average",1830,1362,2458
+"573","Camden, 00AG (573)","699","Haringey, 00AP (699)","3/1/2020 - 3/31/2020, Every day, Daily Average",1690,1288,2216
+"573","Camden, 00AG (573)","700","Harrow, 00AQ (700)","3/1/2020 - 3/31/2020, Every day, Daily Average",2634,2137,3246
+"573","Camden, 00AG (573)","701","Harrow, 00AQ (701)","3/1/2020 - 3/31/2020, Every day, Daily Average",2298,1862,2835
+"573","Camden, 00AG (573)","702","Harrow, 00AQ (702)","3/1/2020 - 3/31/2020, Every day, Daily Average",2474,2026,3019
+"573","Camden, 00AG (573)","703","Haringey, 00AP (703)","3/1/2020 - 3/31/2020, Every day, Daily Average",1362,1014,1828
+"573","Camden, 00AG (573)","704","Haringey, 00AP (704)","3/1/2020 - 3/31/2020, Every day, Daily Average",1525,1146,2027
+"573","Camden, 00AG (573)","705","Harrow, 00AQ (705)","3/1/2020 - 3/31/2020, Every day, Daily Average",2230,1738,2860
+"573","Camden, 00AG (573)","706","Harrow, 00AQ (706)","3/1/2020 - 3/31/2020, Every day, Daily Average",2525,1976,3226
+"573","Camden, 00AG (573)","707","Harrow, 00AQ (707)","3/1/2020 - 3/31/2020, Every day, Daily Average",2696,2112,3439
+"573","Camden, 00AG (573)","708","Harrow, 00AQ (708)","3/1/2020 - 3/31/2020, Every day, Daily Average",2988,2409,3705
+"573","Camden, 00AG (573)","710","Hillingdon, 00AS (710)","3/1/2020 - 3/31/2020, Every day, Daily Average",2967,2423,3632
+"573","Camden, 00AG (573)","711","Hillingdon, 00AS (711)","3/1/2020 - 3/31/2020, Every day, Daily Average",2984,2425,3671
+"573","Camden, 00AG (573)","712","Hillingdon, 00AS (712)","3/1/2020 - 3/31/2020, Every day, Daily Average",2638,2192,3173
+"573","Camden, 00AG (573)","713","Hillingdon, 00AS (713)","3/1/2020 - 3/31/2020, Every day, Daily Average",2750,2206,3426
+"573","Camden, 00AG (573)","714","Hillingdon, 00AS (714)","3/1/2020 - 3/31/2020, Every day, Daily Average",2536,2058,3123
+"573","Camden, 00AG (573)","715","Hillingdon, 00AS (715)","3/1/2020 - 3/31/2020, Every day, Daily Average",2485,2007,3076
+"573","Camden, 00AG (573)","716","Hillingdon, 00AS (716)","3/1/2020 - 3/31/2020, Every day, Daily Average",2486,1962,3149
+"573","Camden, 00AG (573)","717","Hillingdon, 00AS (717)","3/1/2020 - 3/31/2020, Every day, Daily Average",2375,1919,2938
+"573","Camden, 00AG (573)","718","Hillingdon, 00AS (718)","3/1/2020 - 3/31/2020, Every day, Daily Average",2289,1792,2922
+"573","Camden, 00AG (573)","719","Hillingdon, 00AS (719)","3/1/2020 - 3/31/2020, Every day, Daily Average",2281,1774,2932
+"573","Camden, 00AG (573)","720","Hounslow, 00AT (720)","3/1/2020 - 3/31/2020, Every day, Daily Average",2663,2075,3416
+"573","Camden, 00AG (573)","721","Hounslow, 00AT (721)","3/1/2020 - 3/31/2020, Every day, Daily Average",2574,1963,3374
+"573","Camden, 00AG (573)","722","Hounslow, 00AT (722)","3/1/2020 - 3/31/2020, Every day, Daily Average",2755,2157,3518
+"573","Camden, 00AG (573)","723","Hounslow, 00AT (723)","3/1/2020 - 3/31/2020, Every day, Daily Average",2332,1881,2890
+"573","Camden, 00AG (573)","724","Hounslow, 00AT (724)","3/1/2020 - 3/31/2020, Every day, Daily Average",2643,2056,3397
+"573","Camden, 00AG (573)","725","Hounslow, 00AT (725)","3/1/2020 - 3/31/2020, Every day, Daily Average",2703,2109,3463
+"573","Camden, 00AG (573)","727","Hounslow, 00AT (727)","3/1/2020 - 3/31/2020, Every day, Daily Average",2822,2055,3873
+"573","Camden, 00AG (573)","729","Hounslow, 00AT (729)","3/1/2020 - 3/31/2020, Every day, Daily Average",2345,1963,2800
+"573","Camden, 00AG (573)","731","Hounslow, 00AT (731)","3/1/2020 - 3/31/2020, Every day, Daily Average",3005,2371,3807
+"573","Camden, 00AG (573)","732","Hounslow, 00AT (732)","3/1/2020 - 3/31/2020, Every day, Daily Average",3198,2598,3935
+"573","Camden, 00AG (573)","735","Hounslow, 00AT (735)","3/1/2020 - 3/31/2020, Every day, Daily Average",2817,2241,3540
+"573","Camden, 00AG (573)","737","Hounslow, 00AT (737)","3/1/2020 - 3/31/2020, Every day, Daily Average",2733,2260,3303
+"573","Camden, 00AG (573)","738","Islington, 00AU (738)","3/1/2020 - 3/31/2020, Every day, Daily Average",1328,1018,1731
+"573","Camden, 00AG (573)","739","Islington, 00AU (739)","3/1/2020 - 3/31/2020, Every day, Daily Average",1255,942,1671
+"573","Camden, 00AG (573)","740","Islington, 00AU (740)","3/1/2020 - 3/31/2020, Every day, Daily Average",1278,958,1704
+"573","Camden, 00AG (573)","741","Islington, 00AU (741)","3/1/2020 - 3/31/2020, Every day, Daily Average",1164,847,1598
+"573","Camden, 00AG (573)","742","Islington, 00AU (742)","3/1/2020 - 3/31/2020, Every day, Daily Average",1149,860,1534
+"573","Camden, 00AG (573)","743","Islington, 00AU (743)","3/1/2020 - 3/31/2020, Every day, Daily Average",1182,882,1583
+"573","Camden, 00AG (573)","744","Islington, 00AU (744)","3/1/2020 - 3/31/2020, Every day, Daily Average",1026,759,1386
+"573","Camden, 00AG (573)","745","Islington, 00AU (745)","3/1/2020 - 3/31/2020, Every day, Daily Average",1130,832,1534
+"573","Camden, 00AG (573)","746","Islington, 00AU (746)","3/1/2020 - 3/31/2020, Every day, Daily Average",1085,798,1474
+"573","Camden, 00AG (573)","747","Islington, 00AU (747)","3/1/2020 - 3/31/2020, Every day, Daily Average",915,665,1257
+"573","Camden, 00AG (573)","748","Islington, 00AU (748)","3/1/2020 - 3/31/2020, Every day, Daily Average",1030,766,1384
+"573","Camden, 00AG (573)","749","Islington, 00AU (749)","3/1/2020 - 3/31/2020, Every day, Daily Average",1064,784,1443
+"573","Camden, 00AG (573)","750","Islington, 00AU (750)","3/1/2020 - 3/31/2020, Every day, Daily Average",927,665,1290
+"573","Camden, 00AG (573)","751","Islington, 00AU (751)","3/1/2020 - 3/31/2020, Every day, Daily Average",976,715,1332
+"573","Camden, 00AG (573)","752","Islington, 00AU (752)","3/1/2020 - 3/31/2020, Every day, Daily Average",803,582,1107
+"573","Camden, 00AG (573)","753","Islington, 00AU (753)","3/1/2020 - 3/31/2020, Every day, Daily Average",648,447,938
+"573","Camden, 00AG (573)","754","Islington, 00AU (754)","3/1/2020 - 3/31/2020, Every day, Daily Average",509,332,778
+"573","Camden, 00AG (573)","755","Islington, 00AU (755)","3/1/2020 - 3/31/2020, Every day, Daily Average",401,239,670
+"573","Camden, 00AG (573)","756","Lewisham, 00AZ (756)","3/1/2020 - 3/31/2020, Every day, Daily Average",2578,1948,3411
+"573","Camden, 00AG (573)","757","Lewisham, 00AZ (757)","3/1/2020 - 3/31/2020, Every day, Daily Average",2744,2029,3709
+"573","Camden, 00AG (573)","758","Lewisham, 00AZ (758)","3/1/2020 - 3/31/2020, Every day, Daily Average",2335,1823,2989
+"573","Camden, 00AG (573)","759","Lewisham, 00AZ (759)","3/1/2020 - 3/31/2020, Every day, Daily Average",2319,1781,3019
+"573","Camden, 00AG (573)","760","Lewisham, 00AZ (760)","3/1/2020 - 3/31/2020, Every day, Daily Average",2749,2033,3717
+"573","Camden, 00AG (573)","761","Lewisham, 00AZ (761)","3/1/2020 - 3/31/2020, Every day, Daily Average",2410,1884,3081
+"573","Camden, 00AG (573)","762","Lewisham, 00AZ (762)","3/1/2020 - 3/31/2020, Every day, Daily Average",2169,1688,2785
+"573","Camden, 00AG (573)","763","Lewisham, 00AZ (763)","3/1/2020 - 3/31/2020, Every day, Daily Average",2491,1916,3237
+"573","Camden, 00AG (573)","764","Lewisham, 00AZ (764)","3/1/2020 - 3/31/2020, Every day, Daily Average",2434,1872,3164
+"573","Camden, 00AG (573)","765","Lewisham, 00AZ (765)","3/1/2020 - 3/31/2020, Every day, Daily Average",3065,2262,4151
+"573","Camden, 00AG (573)","766","Lewisham, 00AZ (766)","3/1/2020 - 3/31/2020, Every day, Daily Average",2794,2149,3631
+"573","Camden, 00AG (573)","767","Richmond upon Thames, 00BD (767)","3/1/2020 - 3/31/2020, Every day, Daily Average",2274,1777,2909
+"573","Camden, 00AG (573)","768","Islington, 00AU (768)","3/1/2020 - 3/31/2020, Every day, Daily Average",655,454,944
+"573","Camden, 00AG (573)","769","Kensington and Chelsea, 00AW (769)","3/1/2020 - 3/31/2020, Every day, Daily Average",1062,747,1508
+"573","Camden, 00AG (573)","770","Lewisham, 00AZ (770)","3/1/2020 - 3/31/2020, Every day, Daily Average",2355,1865,2972
+"573","Camden, 00AG (573)","771","Lewisham, 00AZ (771)","3/1/2020 - 3/31/2020, Every day, Daily Average",2563,2040,3219
+"573","Camden, 00AG (573)","772","Lewisham, 00AZ (772)","3/1/2020 - 3/31/2020, Every day, Daily Average",2420,1897,3086
+"573","Camden, 00AG (573)","773","Lewisham, 00AZ (773)","3/1/2020 - 3/31/2020, Every day, Daily Average",2493,1946,3192
+"573","Camden, 00AG (573)","774","Merton, 00BA (774)","3/1/2020 - 3/31/2020, Every day, Daily Average",2450,1955,3069
+"573","Camden, 00AG (573)","775","Merton, 00BA (775)","3/1/2020 - 3/31/2020, Every day, Daily Average",2478,1921,3195
+"573","Camden, 00AG (573)","776","Merton, 00BA (776)","3/1/2020 - 3/31/2020, Every day, Daily Average",2555,1999,3264
+"573","Camden, 00AG (573)","777","Merton, 00BA (777)","3/1/2020 - 3/31/2020, Every day, Daily Average",2535,2022,3177
+"573","Camden, 00AG (573)","778","Merton, 00BA (778)","3/1/2020 - 3/31/2020, Every day, Daily Average",2381,1822,3110
+"573","Camden, 00AG (573)","779","Merton, 00BA (779)","3/1/2020 - 3/31/2020, Every day, Daily Average",2551,1965,3310
+"573","Camden, 00AG (573)","780","Merton, 00BA (780)","3/1/2020 - 3/31/2020, Every day, Daily Average",2462,1897,3193
+"573","Camden, 00AG (573)","781","Merton, 00BA (781)","3/1/2020 - 3/31/2020, Every day, Daily Average",2432,1813,3261
+"573","Camden, 00AG (573)","782","Kensington and Chelsea, 00AW (782)","3/1/2020 - 3/31/2020, Every day, Daily Average",1529,1129,2070
+"573","Camden, 00AG (573)","783","Merton, 00BA (783)","3/1/2020 - 3/31/2020, Every day, Daily Average",2585,1974,3383
+"573","Camden, 00AG (573)","784","Merton, 00BA (784)","3/1/2020 - 3/31/2020, Every day, Daily Average",2598,2025,3332
+"573","Camden, 00AG (573)","785","Merton, 00BA (785)","3/1/2020 - 3/31/2020, Every day, Daily Average",2758,2177,3493
+"573","Camden, 00AG (573)","786","Merton, 00BA (786)","3/1/2020 - 3/31/2020, Every day, Daily Average",2473,1898,3221
+"573","Camden, 00AG (573)","787","Merton, 00BA (787)","3/1/2020 - 3/31/2020, Every day, Daily Average",2658,2008,3516
+"573","Camden, 00AG (573)","788","Merton, 00BA (788)","3/1/2020 - 3/31/2020, Every day, Daily Average",2698,2068,3519
+"573","Camden, 00AG (573)","789","Merton, 00BA (789)","3/1/2020 - 3/31/2020, Every day, Daily Average",2634,2031,3415
+"573","Camden, 00AG (573)","790","Merton, 00BA (790)","3/1/2020 - 3/31/2020, Every day, Daily Average",2633,2057,3369
+"573","Camden, 00AG (573)","791","Merton, 00BA (791)","3/1/2020 - 3/31/2020, Every day, Daily Average",2650,2037,3446
+"573","Camden, 00AG (573)","792","Merton, 00BA (792)","3/1/2020 - 3/31/2020, Every day, Daily Average",2617,1959,3494
+"573","Camden, 00AG (573)","794","Merton, 00BA (794)","3/1/2020 - 3/31/2020, Every day, Daily Average",2643,2075,3365
+"573","Camden, 00AG (573)","796","Merton, 00BA (796)","3/1/2020 - 3/31/2020, Every day, Daily Average",2825,2178,3662
+"573","Camden, 00AG (573)","797","Kensington and Chelsea, 00AW (797)","3/1/2020 - 3/31/2020, Every day, Daily Average",1438,1029,2009
+"573","Camden, 00AG (573)","798","Merton, 00BA (798)","3/1/2020 - 3/31/2020, Every day, Daily Average",2782,2134,3626
+"573","Camden, 00AG (573)","799","Merton, 00BA (799)","3/1/2020 - 3/31/2020, Every day, Daily Average",2889,2226,3749
+"573","Camden, 00AG (573)","801","Newham, 00BB (801)","3/1/2020 - 3/31/2020, Every day, Daily Average",2067,1642,2601
+"573","Camden, 00AG (573)","802","Newham, 00BB (802)","3/1/2020 - 3/31/2020, Every day, Daily Average",2267,1729,2971
+"573","Camden, 00AG (573)","803","Kensington and Chelsea, 00AW (803)","3/1/2020 - 3/31/2020, Every day, Daily Average",1434,1050,1957
+"573","Camden, 00AG (573)","804","Newham, 00BB (804)","3/1/2020 - 3/31/2020, Every day, Daily Average",2273,1724,2995
+"573","Camden, 00AG (573)","805","Newham, 00BB (805)","3/1/2020 - 3/31/2020, Every day, Daily Average",2179,1648,2879
+"573","Camden, 00AG (573)","806","Newham, 00BB (806)","3/1/2020 - 3/31/2020, Every day, Daily Average",2044,1570,2659
+"573","Camden, 00AG (573)","807","Newham, 00BB (807)","3/1/2020 - 3/31/2020, Every day, Daily Average",2190,1658,2891
+"573","Camden, 00AG (573)","808","Newham, 00BB (808)","3/1/2020 - 3/31/2020, Every day, Daily Average",2111,1634,2726
+"573","Camden, 00AG (573)","809","Newham, 00BB (809)","3/1/2020 - 3/31/2020, Every day, Daily Average",2002,1545,2593
+"573","Camden, 00AG (573)","810","Newham, 00BB (810)","3/1/2020 - 3/31/2020, Every day, Daily Average",2401,1810,3183
+"573","Camden, 00AG (573)","811","Newham, 00BB (811)","3/1/2020 - 3/31/2020, Every day, Daily Average",2490,1947,3183
+"573","Camden, 00AG (573)","812","Newham, 00BB (812)","3/1/2020 - 3/31/2020, Every day, Daily Average",1974,1506,2587
+"573","Camden, 00AG (573)","813","Newham, 00BB (813)","3/1/2020 - 3/31/2020, Every day, Daily Average",1923,1460,2531
+"573","Camden, 00AG (573)","814","Newham, 00BB (814)","3/1/2020 - 3/31/2020, Every day, Daily Average",2359,1833,3035
+"573","Camden, 00AG (573)","815","Newham, 00BB (815)","3/1/2020 - 3/31/2020, Every day, Daily Average",2135,1598,2851
+"573","Camden, 00AG (573)","816","Newham, 00BB (816)","3/1/2020 - 3/31/2020, Every day, Daily Average",2091,1658,2635
+"573","Camden, 00AG (573)","817","Newham, 00BB (817)","3/1/2020 - 3/31/2020, Every day, Daily Average",2169,1721,2733
+"573","Camden, 00AG (573)","818","Newham, 00BB (818)","3/1/2020 - 3/31/2020, Every day, Daily Average",2324,1741,3100
+"573","Camden, 00AG (573)","819","Wandsworth, 00BJ (819)","3/1/2020 - 3/31/2020, Every day, Daily Average",1852,1377,2489
+"573","Camden, 00AG (573)","820","Kensington and Chelsea, 00AW (820)","3/1/2020 - 3/31/2020, Every day, Daily Average",1353,1000,1830
+"573","Camden, 00AG (573)","821","Kensington and Chelsea, 00AW (821)","3/1/2020 - 3/31/2020, Every day, Daily Average",1481,1075,2039
+"573","Camden, 00AG (573)","822","Redbridge, 00BC (822)","3/1/2020 - 3/31/2020, Every day, Daily Average",2776,2042,3773
+"573","Camden, 00AG (573)","824","Redbridge, 00BC (824)","3/1/2020 - 3/31/2020, Every day, Daily Average",2740,2046,3669
+"573","Camden, 00AG (573)","826","Redbridge, 00BC (826)","3/1/2020 - 3/31/2020, Every day, Daily Average",2395,1797,3190
+"573","Camden, 00AG (573)","827","Redbridge, 00BC (827)","3/1/2020 - 3/31/2020, Every day, Daily Average",2315,1880,2850
+"573","Camden, 00AG (573)","828","Redbridge, 00BC (828)","3/1/2020 - 3/31/2020, Every day, Daily Average",2513,1984,3182
+"573","Camden, 00AG (573)","829","Redbridge, 00BC (829)","3/1/2020 - 3/31/2020, Every day, Daily Average",2624,2064,3334
+"573","Camden, 00AG (573)","830","Redbridge, 00BC (830)","3/1/2020 - 3/31/2020, Every day, Daily Average",2295,1728,3046
+"573","Camden, 00AG (573)","831","Redbridge, 00BC (831)","3/1/2020 - 3/31/2020, Every day, Daily Average",2443,1896,3147
+"573","Camden, 00AG (573)","832","Redbridge, 00BC (832)","3/1/2020 - 3/31/2020, Every day, Daily Average",2670,2070,3443
+"573","Camden, 00AG (573)","833","Redbridge, 00BC (833)","3/1/2020 - 3/31/2020, Every day, Daily Average",2232,1682,2960
+"573","Camden, 00AG (573)","835","Richmond upon Thames, 00BD (835)","3/1/2020 - 3/31/2020, Every day, Daily Average",2548,1912,3395
+"573","Camden, 00AG (573)","836","Richmond upon Thames, 00BD (836)","3/1/2020 - 3/31/2020, Every day, Daily Average",2305,1791,2965
+"573","Camden, 00AG (573)","837","Richmond upon Thames, 00BD (837)","3/1/2020 - 3/31/2020, Every day, Daily Average",2111,1620,2750
+"573","Camden, 00AG (573)","838","Kensington and Chelsea, 00AW (838)","3/1/2020 - 3/31/2020, Every day, Daily Average",1498,1095,2049
+"573","Camden, 00AG (573)","839","Kensington and Chelsea, 00AW (839)","3/1/2020 - 3/31/2020, Every day, Daily Average",1682,1233,2293
+"573","Camden, 00AG (573)","840","Richmond upon Thames, 00BD (840)","3/1/2020 - 3/31/2020, Every day, Daily Average",2173,1669,2828
+"573","Camden, 00AG (573)","841","Kensington and Chelsea, 00AW (841)","3/1/2020 - 3/31/2020, Every day, Daily Average",1301,948,1784
+"573","Camden, 00AG (573)","842","Richmond upon Thames, 00BD (842)","3/1/2020 - 3/31/2020, Every day, Daily Average",2412,1878,3097
+"573","Camden, 00AG (573)","843","Richmond upon Thames, 00BD (843)","3/1/2020 - 3/31/2020, Every day, Daily Average",2383,1889,3005
+"573","Camden, 00AG (573)","844","Richmond upon Thames, 00BD (844)","3/1/2020 - 3/31/2020, Every day, Daily Average",2372,1847,3045
+"573","Camden, 00AG (573)","845","Richmond upon Thames, 00BD (845)","3/1/2020 - 3/31/2020, Every day, Daily Average",2517,2060,3074
+"573","Camden, 00AG (573)","847","Kensington and Chelsea, 00AW (847)","3/1/2020 - 3/31/2020, Every day, Daily Average",1476,1077,2021
+"573","Camden, 00AG (573)","848","Kingston upon Thames, 00AX (848)","3/1/2020 - 3/31/2020, Every day, Daily Average",2735,2214,3377
+"573","Camden, 00AG (573)","849","Kingston upon Thames, 00AX (849)","3/1/2020 - 3/31/2020, Every day, Daily Average",2537,1950,3300
+"573","Camden, 00AG (573)","850","Kingston upon Thames, 00AX (850)","3/1/2020 - 3/31/2020, Every day, Daily Average",2907,2252,3751
+"573","Camden, 00AG (573)","851","Kingston upon Thames, 00AX (851)","3/1/2020 - 3/31/2020, Every day, Daily Average",3022,2374,3845
+"573","Camden, 00AG (573)","852","Kingston upon Thames, 00AX (852)","3/1/2020 - 3/31/2020, Every day, Daily Average",2994,2368,3785
+"573","Camden, 00AG (573)","853","Kingston upon Thames, 00AX (853)","3/1/2020 - 3/31/2020, Every day, Daily Average",3327,2482,4459
+"573","Camden, 00AG (573)","854","Lambeth, 00AY (854)","3/1/2020 - 3/31/2020, Every day, Daily Average",537,356,808
+"573","Camden, 00AG (573)","855","Richmond upon Thames, 00BD (855)","3/1/2020 - 3/31/2020, Every day, Daily Average",2495,1994,3120
+"573","Camden, 00AG (573)","856","Richmond upon Thames, 00BD (856)","3/1/2020 - 3/31/2020, Every day, Daily Average",2483,2003,3077
+"573","Camden, 00AG (573)","857","Richmond upon Thames, 00BD (857)","3/1/2020 - 3/31/2020, Every day, Daily Average",2659,2125,3325
+"573","Camden, 00AG (573)","858","Richmond upon Thames, 00BD (858)","3/1/2020 - 3/31/2020, Every day, Daily Average",2608,2108,3225
+"573","Camden, 00AG (573)","859","Richmond upon Thames, 00BD (859)","3/1/2020 - 3/31/2020, Every day, Daily Average",2723,2166,3423
+"573","Camden, 00AG (573)","860","Richmond upon Thames, 00BD (860)","3/1/2020 - 3/31/2020, Every day, Daily Average",2770,2255,3401
+"573","Camden, 00AG (573)","861","Lambeth, 00AY (861)","3/1/2020 - 3/31/2020, Every day, Daily Average",904,664,1230
+"573","Camden, 00AG (573)","863","Richmond upon Thames, 00BD (863)","3/1/2020 - 3/31/2020, Every day, Daily Average",2933,2365,3636
+"573","Camden, 00AG (573)","864","Richmond upon Thames, 00BD (864)","3/1/2020 - 3/31/2020, Every day, Daily Average",3266,2553,4177
+"573","Camden, 00AG (573)","865","Richmond upon Thames, 00BD (865)","3/1/2020 - 3/31/2020, Every day, Daily Average",3366,2627,4311
+"573","Camden, 00AG (573)","867","Lambeth, 00AY (867)","3/1/2020 - 3/31/2020, Every day, Daily Average",1126,860,1473
+"573","Camden, 00AG (573)","868","Lambeth, 00AY (868)","3/1/2020 - 3/31/2020, Every day, Daily Average",1190,893,1584
+"573","Camden, 00AG (573)","869","Lambeth, 00AY (869)","3/1/2020 - 3/31/2020, Every day, Daily Average",1208,919,1587
+"573","Camden, 00AG (573)","870","Lambeth, 00AY (870)","3/1/2020 - 3/31/2020, Every day, Daily Average",1467,1132,1899
+"573","Camden, 00AG (573)","871","Lewisham, 00AZ (871)","3/1/2020 - 3/31/2020, Every day, Daily Average",1735,1301,2313
+"573","Camden, 00AG (573)","872","Lewisham, 00AZ (872)","3/1/2020 - 3/31/2020, Every day, Daily Average",1865,1398,2487
+"573","Camden, 00AG (573)","873","Lewisham, 00AZ (873)","3/1/2020 - 3/31/2020, Every day, Daily Average",1436,1084,1900
+"573","Camden, 00AG (573)","874","Lewisham, 00AZ (874)","3/1/2020 - 3/31/2020, Every day, Daily Average",1648,1214,2236
+"573","Camden, 00AG (573)","875","Lewisham, 00AZ (875)","3/1/2020 - 3/31/2020, Every day, Daily Average",1714,1287,2282
+"573","Camden, 00AG (573)","876","Lewisham, 00AZ (876)","3/1/2020 - 3/31/2020, Every day, Daily Average",1507,1143,1986
+"573","Camden, 00AG (573)","877","Lewisham, 00AZ (877)","3/1/2020 - 3/31/2020, Every day, Daily Average",2027,1496,2745
+"573","Camden, 00AG (573)","878","Lewisham, 00AZ (878)","3/1/2020 - 3/31/2020, Every day, Daily Average",1820,1381,2397
+"573","Camden, 00AG (573)","879","Lewisham, 00AZ (879)","3/1/2020 - 3/31/2020, Every day, Daily Average",2148,1580,2919
+"573","Camden, 00AG (573)","880","Lewisham, 00AZ (880)","3/1/2020 - 3/31/2020, Every day, Daily Average",1907,1496,2429
+"573","Camden, 00AG (573)","881","Lewisham, 00AZ (881)","3/1/2020 - 3/31/2020, Every day, Daily Average",1843,1392,2438
+"573","Camden, 00AG (573)","882","Lewisham, 00AZ (882)","3/1/2020 - 3/31/2020, Every day, Daily Average",2001,1507,2656
+"573","Camden, 00AG (573)","883","Lewisham, 00AZ (883)","3/1/2020 - 3/31/2020, Every day, Daily Average",2278,1724,3009
+"573","Camden, 00AG (573)","884","Lewisham, 00AZ (884)","3/1/2020 - 3/31/2020, Every day, Daily Average",2028,1568,2622
+"573","Camden, 00AG (573)","885","Lewisham, 00AZ (885)","3/1/2020 - 3/31/2020, Every day, Daily Average",2072,1601,2680
+"573","Camden, 00AG (573)","886","Lewisham, 00AZ (886)","3/1/2020 - 3/31/2020, Every day, Daily Average",2660,1956,3615
+"573","Camden, 00AG (573)","887","Newham, 00BB (887)","3/1/2020 - 3/31/2020, Every day, Daily Average",2142,1707,2687
+"573","Camden, 00AG (573)","888","Newham, 00BB (888)","3/1/2020 - 3/31/2020, Every day, Daily Average",1921,1490,2475
+"573","Camden, 00AG (573)","889","Newham, 00BB (889)","3/1/2020 - 3/31/2020, Every day, Daily Average",1969,1496,2590
+"573","Camden, 00AG (573)","890","Newham, 00BB (890)","3/1/2020 - 3/31/2020, Every day, Daily Average",2002,1531,2616
+"573","Camden, 00AG (573)","891","Newham, 00BB (891)","3/1/2020 - 3/31/2020, Every day, Daily Average",2098,1574,2795
+"573","Camden, 00AG (573)","892","Westminster, 00BK (892)","3/1/2020 - 3/31/2020, Every day, Daily Average",898,662,1217
+"573","Camden, 00AG (573)","893","Westminster, 00BK (893)","3/1/2020 - 3/31/2020, Every day, Daily Average",1066,789,1439
+"573","Camden, 00AG (573)","894","Redbridge, 00BC (894)","3/1/2020 - 3/31/2020, Every day, Daily Average",2616,1975,3463
+"573","Camden, 00AG (573)","895","Redbridge, 00BC (895)","3/1/2020 - 3/31/2020, Every day, Daily Average",2902,2224,3785
+"573","Camden, 00AG (573)","896","Redbridge, 00BC (896)","3/1/2020 - 3/31/2020, Every day, Daily Average",2563,1968,3336
+"573","Camden, 00AG (573)","897","Southwark, 00BE (897)","3/1/2020 - 3/31/2020, Every day, Daily Average",1575,1177,2106
+"573","Camden, 00AG (573)","898","Southwark, 00BE (898)","3/1/2020 - 3/31/2020, Every day, Daily Average",765,533,1096
+"573","Camden, 00AG (573)","899","Southwark, 00BE (899)","3/1/2020 - 3/31/2020, Every day, Daily Average",1033,733,1454
+"573","Camden, 00AG (573)","900","Southwark, 00BE (900)","3/1/2020 - 3/31/2020, Every day, Daily Average",1184,890,1574
+"573","Camden, 00AG (573)","901","Southwark, 00BE (901)","3/1/2020 - 3/31/2020, Every day, Daily Average",981,722,1332
+"573","Camden, 00AG (573)","902","Southwark, 00BE (902)","3/1/2020 - 3/31/2020, Every day, Daily Average",1521,1120,2065
+"573","Camden, 00AG (573)","903","Southwark, 00BE (903)","3/1/2020 - 3/31/2020, Every day, Daily Average",894,649,1230
+"573","Camden, 00AG (573)","904","Southwark, 00BE (904)","3/1/2020 - 3/31/2020, Every day, Daily Average",1242,935,1649
+"573","Camden, 00AG (573)","905","Southwark, 00BE (905)","3/1/2020 - 3/31/2020, Every day, Daily Average",1473,1129,1921
+"573","Camden, 00AG (573)","906","Southwark, 00BE (906)","3/1/2020 - 3/31/2020, Every day, Daily Average",1100,822,1470
+"573","Camden, 00AG (573)","907","Southwark, 00BE (907)","3/1/2020 - 3/31/2020, Every day, Daily Average",958,683,1343
+"573","Camden, 00AG (573)","908","Southwark, 00BE (908)","3/1/2020 - 3/31/2020, Every day, Daily Average",1169,883,1546
+"573","Camden, 00AG (573)","909","Southwark, 00BE (909)","3/1/2020 - 3/31/2020, Every day, Daily Average",1074,792,1455
+"573","Camden, 00AG (573)","910","Southwark, 00BE (910)","3/1/2020 - 3/31/2020, Every day, Daily Average",1380,1067,1783
+"573","Camden, 00AG (573)","911","Southwark, 00BE (911)","3/1/2020 - 3/31/2020, Every day, Daily Average",1464,1099,1949
+"573","Camden, 00AG (573)","912","Southwark, 00BE (912)","3/1/2020 - 3/31/2020, Every day, Daily Average",1307,967,1766
+"573","Camden, 00AG (573)","913","Southwark, 00BE (913)","3/1/2020 - 3/31/2020, Every day, Daily Average",1530,1191,1964
+"573","Camden, 00AG (573)","914","Southwark, 00BE (914)","3/1/2020 - 3/31/2020, Every day, Daily Average",1408,1062,1866
+"573","Camden, 00AG (573)","915","Southwark, 00BE (915)","3/1/2020 - 3/31/2020, Every day, Daily Average",1484,1106,1991
+"573","Camden, 00AG (573)","916","Southwark, 00BE (916)","3/1/2020 - 3/31/2020, Every day, Daily Average",1704,1346,2157
+"573","Camden, 00AG (573)","917","Southwark, 00BE (917)","3/1/2020 - 3/31/2020, Every day, Daily Average",1542,1162,2045
+"573","Camden, 00AG (573)","918","Southwark, 00BE (918)","3/1/2020 - 3/31/2020, Every day, Daily Average",1957,1545,2478
+"573","Camden, 00AG (573)","919","Southwark, 00BE (919)","3/1/2020 - 3/31/2020, Every day, Daily Average",1796,1394,2312
+"573","Camden, 00AG (573)","920","Tower Hamlets, 00BG (920)","3/1/2020 - 3/31/2020, Every day, Daily Average",1327,975,1804
+"573","Camden, 00AG (573)","921","Tower Hamlets, 00BG (921)","3/1/2020 - 3/31/2020, Every day, Daily Average",1230,910,1662
+"573","Camden, 00AG (573)","922","Tower Hamlets, 00BG (922)","3/1/2020 - 3/31/2020, Every day, Daily Average",1078,797,1456
+"573","Camden, 00AG (573)","923","Tower Hamlets, 00BG (923)","3/1/2020 - 3/31/2020, Every day, Daily Average",1903,1435,2522
+"573","Camden, 00AG (573)","924","Tower Hamlets, 00BG (924)","3/1/2020 - 3/31/2020, Every day, Daily Average",1115,825,1506
+"573","Camden, 00AG (573)","925","Tower Hamlets, 00BG (925)","3/1/2020 - 3/31/2020, Every day, Daily Average",1445,1096,1904
+"573","Camden, 00AG (573)","926","Tower Hamlets, 00BG (926)","3/1/2020 - 3/31/2020, Every day, Daily Average",1329,999,1766
+"573","Camden, 00AG (573)","927","Tower Hamlets, 00BG (927)","3/1/2020 - 3/31/2020, Every day, Daily Average",1758,1333,2318
+"573","Camden, 00AG (573)","928","Tower Hamlets, 00BG (928)","3/1/2020 - 3/31/2020, Every day, Daily Average",1231,906,1670
+"573","Camden, 00AG (573)","929","Tower Hamlets, 00BG (929)","3/1/2020 - 3/31/2020, Every day, Daily Average",1578,1173,2121
+"573","Camden, 00AG (573)","930","Tower Hamlets, 00BG (930)","3/1/2020 - 3/31/2020, Every day, Daily Average",1022,739,1411
+"573","Camden, 00AG (573)","931","Tower Hamlets, 00BG (931)","3/1/2020 - 3/31/2020, Every day, Daily Average",1354,1001,1830
+"573","Camden, 00AG (573)","932","Tower Hamlets, 00BG (932)","3/1/2020 - 3/31/2020, Every day, Daily Average",1713,1286,2281
+"573","Camden, 00AG (573)","933","Tower Hamlets, 00BG (933)","3/1/2020 - 3/31/2020, Every day, Daily Average",1463,1069,2002
+"573","Camden, 00AG (573)","934","Tower Hamlets, 00BG (934)","3/1/2020 - 3/31/2020, Every day, Daily Average",1778,1315,2403
+"573","Camden, 00AG (573)","935","Tower Hamlets, 00BG (935)","3/1/2020 - 3/31/2020, Every day, Daily Average",1159,849,1580
+"573","Camden, 00AG (573)","936","Tower Hamlets, 00BG (936)","3/1/2020 - 3/31/2020, Every day, Daily Average",1232,885,1714
+"573","Camden, 00AG (573)","937","Tower Hamlets, 00BG (937)","3/1/2020 - 3/31/2020, Every day, Daily Average",1437,1045,1975
+"573","Camden, 00AG (573)","938","Tower Hamlets, 00BG (938)","3/1/2020 - 3/31/2020, Every day, Daily Average",1568,1151,2134
+"573","Camden, 00AG (573)","939","Tower Hamlets, 00BG (939)","3/1/2020 - 3/31/2020, Every day, Daily Average",1272,904,1788
+"573","Camden, 00AG (573)","940","Tower Hamlets, 00BG (940)","3/1/2020 - 3/31/2020, Every day, Daily Average",1051,740,1490
+"573","Camden, 00AG (573)","941","Tower Hamlets, 00BG (941)","3/1/2020 - 3/31/2020, Every day, Daily Average",1550,1145,2097
+"573","Camden, 00AG (573)","942","Tower Hamlets, 00BG (942)","3/1/2020 - 3/31/2020, Every day, Daily Average",1684,1320,2148
+"573","Camden, 00AG (573)","943","Tower Hamlets, 00BG (943)","3/1/2020 - 3/31/2020, Every day, Daily Average",1760,1379,2245
+"573","Camden, 00AG (573)","945","Waltham Forest, 00BH (945)","3/1/2020 - 3/31/2020, Every day, Daily Average",2901,2369,3552
+"573","Camden, 00AG (573)","946","Waltham Forest, 00BH (946)","3/1/2020 - 3/31/2020, Every day, Daily Average",2784,2329,3327
+"573","Camden, 00AG (573)","949","Waltham Forest, 00BH (949)","3/1/2020 - 3/31/2020, Every day, Daily Average",2752,2061,3673
+"573","Camden, 00AG (573)","950","Waltham Forest, 00BH (950)","3/1/2020 - 3/31/2020, Every day, Daily Average",2795,2144,3643
+"573","Camden, 00AG (573)","951","Waltham Forest, 00BH (951)","3/1/2020 - 3/31/2020, Every day, Daily Average",2746,2095,3597
+"573","Camden, 00AG (573)","952","Waltham Forest, 00BH (952)","3/1/2020 - 3/31/2020, Every day, Daily Average",2635,1960,3541
+"573","Camden, 00AG (573)","953","Waltham Forest, 00BH (953)","3/1/2020 - 3/31/2020, Every day, Daily Average",2667,2037,3490
+"573","Camden, 00AG (573)","954","Waltham Forest, 00BH (954)","3/1/2020 - 3/31/2020, Every day, Daily Average",2373,1830,3076
+"573","Camden, 00AG (573)","955","Waltham Forest, 00BH (955)","3/1/2020 - 3/31/2020, Every day, Daily Average",2198,1645,2935
+"573","Camden, 00AG (573)","956","Waltham Forest, 00BH (956)","3/1/2020 - 3/31/2020, Every day, Daily Average",2533,1943,3300
+"573","Camden, 00AG (573)","957","Waltham Forest, 00BH (957)","3/1/2020 - 3/31/2020, Every day, Daily Average",2024,1500,2730
+"573","Camden, 00AG (573)","958","Waltham Forest, 00BH (958)","3/1/2020 - 3/31/2020, Every day, Daily Average",2467,1927,3158
+"573","Camden, 00AG (573)","959","Waltham Forest, 00BH (959)","3/1/2020 - 3/31/2020, Every day, Daily Average",2274,1714,3016
+"573","Camden, 00AG (573)","960","Waltham Forest, 00BH (960)","3/1/2020 - 3/31/2020, Every day, Daily Average",2184,1633,2919
+"573","Camden, 00AG (573)","961","Waltham Forest, 00BH (961)","3/1/2020 - 3/31/2020, Every day, Daily Average",2029,1496,2750
+"573","Camden, 00AG (573)","962","Waltham Forest, 00BH (962)","3/1/2020 - 3/31/2020, Every day, Daily Average",2255,1723,2949
+"573","Camden, 00AG (573)","963","Waltham Forest, 00BH (963)","3/1/2020 - 3/31/2020, Every day, Daily Average",2110,1559,2854
+"573","Camden, 00AG (573)","964","Waltham Forest, 00BH (964)","3/1/2020 - 3/31/2020, Every day, Daily Average",2158,1642,2834
+"573","Camden, 00AG (573)","965","Waltham Forest, 00BH (965)","3/1/2020 - 3/31/2020, Every day, Daily Average",1813,1326,2478
+"573","Camden, 00AG (573)","966","Wandsworth, 00BJ (966)","3/1/2020 - 3/31/2020, Every day, Daily Average",2271,1528,3375
+"573","Camden, 00AG (573)","967","Wandsworth, 00BJ (967)","3/1/2020 - 3/31/2020, Every day, Daily Average",1775,1342,2347
+"573","Camden, 00AG (573)","968","Wandsworth, 00BJ (968)","3/1/2020 - 3/31/2020, Every day, Daily Average",2570,1855,3560
+"573","Camden, 00AG (573)","969","Wandsworth, 00BJ (969)","3/1/2020 - 3/31/2020, Every day, Daily Average",2219,1682,2927
+"573","Camden, 00AG (573)","970","Wandsworth, 00BJ (970)","3/1/2020 - 3/31/2020, Every day, Daily Average",2329,1771,3062
+"573","Camden, 00AG (573)","971","Wandsworth, 00BJ (971)","3/1/2020 - 3/31/2020, Every day, Daily Average",2195,1692,2846
+"573","Camden, 00AG (573)","972","Wandsworth, 00BJ (972)","3/1/2020 - 3/31/2020, Every day, Daily Average",2363,1824,3060
+"573","Camden, 00AG (573)","973","Wandsworth, 00BJ (973)","3/1/2020 - 3/31/2020, Every day, Daily Average",2283,1777,2932
+"573","Camden, 00AG (573)","974","Westminster, 00BK (974)","3/1/2020 - 3/31/2020, Every day, Daily Average",950,678,1330
+"573","Camden, 00AG (573)","975","Westminster, 00BK (975)","3/1/2020 - 3/31/2020, Every day, Daily Average",1012,709,1443
+"573","Camden, 00AG (573)","976","Westminster, 00BK (976)","3/1/2020 - 3/31/2020, Every day, Daily Average",859,578,1276
+"573","Camden, 00AG (573)","977","Westminster, 00BK (977)","3/1/2020 - 3/31/2020, Every day, Daily Average",826,547,1245
+"573","Camden, 00AG (573)","978","Westminster, 00BK (978)","3/1/2020 - 3/31/2020, Every day, Daily Average",918,619,1359
+"573","Camden, 00AG (573)","979","Westminster, 00BK (979)","3/1/2020 - 3/31/2020, Every day, Daily Average",963,654,1416
+"573","Camden, 00AG (573)","980","Westminster, 00BK (980)","3/1/2020 - 3/31/2020, Every day, Daily Average",853,592,1228
+"573","Camden, 00AG (573)","981","Westminster, 00BK (981)","3/1/2020 - 3/31/2020, Every day, Daily Average",1082,772,1515
+"573","Camden, 00AG (573)","982","Westminster, 00BK (982)","3/1/2020 - 3/31/2020, Every day, Daily Average",1026,729,1442

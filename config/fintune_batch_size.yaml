@@ -1,0 +1,18 @@
+program: main_RPS.py
+method: bayes
+metric:
+  goal: minimize
+  name: "loss"
+parameters:
+  dis_batch_size:
+    max: 128
+    min: 32
+    distribution: int_uniform
+  batch_size:
+    max: 256
+    min: 64
+    distribution: int_uniform
+  horizon:
+    max: 128
+    min: 16
+    distribution: int_uniform

@@ -1,0 +1,40 @@
+algo: sac
+envparameters:
+  action_continuous: false
+  action_space: 2
+  n_player: 1
+  obs_continuous: true
+  obs_space: 7
+#  scenario: classic_CartPole-v0
+hyperparameters:
+  a_lr: 0.0001
+  alpha: 0.03
+  alpha_lr: 0.0001
+  batch_size: 128
+  buffer_capacity: 1024
+  c_lr: 0.0001
+  epsilon: 0.2
+  epsilon_end: 0.05
+  gamma: 0
+  hidden_size: 64
+  learn_freq: 1
+  learn_terminal: false
+  marl: false
+  num_hid_layer: 1
+  target_entropy_ratio: 0.7
+  target_replace: 100
+  tau: 0.005
+  tune_entropy: false
+  use_network: true
+  policy_type: discrete
+  signal_dim: 2
+  rho_lr: 0.001
+seedparameters:
+  seed_nn: 1
+  seed_np: 1
+  seed_random: 1
+trainingparameters:
+  evaluate_rate: 50
+  max_episodes: 1000
+  render: false
+  save_interval: 100
